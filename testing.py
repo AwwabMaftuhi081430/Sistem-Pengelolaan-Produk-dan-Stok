@@ -83,22 +83,22 @@ def tampilkan_benchmark(hasil: list[dict]) -> None:
     for h in hasil:
         print(
             f"{'':<10} {'Linear Search':<18} "
-            f"{h['linear_rata']*1e6:<15.4f} "
-            f"{h['linear_tercepat']*1e6:<15.4f} "
-            f"{h['linear_terlambat']*1e6:<15.4f} "
+            f"{h['linear_rata']* 1e3:<15.4f} "
+            f"{h['linear_tercepat']* 1e3:<15.4f} "
+            f"{h['linear_terlambat']* 1e3:<15.4f} "
             f"{h['linear_langkah']:<10}"
         )
 
         print(
             f"{h['dataset'] + ' data':<10} {'Hash Search':<18} "
-            f"{h['hash_rata']*1e6:<15.4f} "
-            f"{h['hash_tercepat']*1e6:<15.4f} "
-            f"{h['hash_terlambat']*1e6:<15.4f} "
+            f"{h['hash_rata']* 1e3:<15.4f} "
+            f"{h['hash_tercepat']* 1e3:<15.4f} "
+            f"{h['hash_terlambat']* 1e3:<15.4f} "
             f"{h['hash_langkah']:<10}"
         )
         print("-" * 95)
 
-    print("Satuan waktu: mikrodetik (1 detik = 1.000.000 mikrodetik)")
+    print("Satuan waktu: ms (1 detik = 1.000 ms)")
     print()
 
 
@@ -134,14 +134,14 @@ def tampilkan_analisis(hasil: list[dict]) -> None:
     print()
 
     print(f"  Dataset terbesar ({n_terbesar} data):")
-    print(f"    Rata-rata : {h_terbesar['linear_rata']*1e6:.2f} mikrodetik")
-    print(f"    Tercepat  : {h_terbesar['linear_tercepat']*1e6:.2f} mikrodetik")
-    print(f"    Terlambat : {h_terbesar['linear_terlambat']*1e6:.2f} mikrodetik")
+    print(f"    Rata-rata : {h_terbesar['linear_rata']* 1e3:.2f} ms")
+    print(f"    Tercepat  : {h_terbesar['linear_tercepat']* 1e3:.2f} ms")
+    print(f"    Terlambat : {h_terbesar['linear_terlambat']* 1e3:.2f} ms")
     print(f"    Langkah   : {h_terbesar['linear_langkah']} iterasi")
     print()
     print("  Pola waktu:")
     for ukuran in sorted(data_linear.keys()):
-        print(f"    {ukuran:>5} data -> {data_linear[ukuran]*1e6:.2f} mikrodetik")
+        print(f"    {ukuran:>5} data -> {data_linear[ukuran]* 1e3:.2f} ms")
     print()
 
     analisis_linear = """
@@ -196,14 +196,14 @@ def tampilkan_analisis(hasil: list[dict]) -> None:
     print()
 
     print(f"  Dataset terbesar ({n_terbesar} data):")
-    print(f"    Rata-rata : {h_terbesar['hash_rata']*1e6:.2f} mikrodetik")
-    print(f"    Tercepat  : {h_terbesar['hash_tercepat']*1e6:.2f} mikrodetik")
-    print(f"    Terlambat : {h_terbesar['hash_terlambat']*1e6:.2f} mikrodetik")
+    print(f"    Rata-rata : {h_terbesar['hash_rata']* 1e3:.2f} ms")
+    print(f"    Tercepat  : {h_terbesar['hash_tercepat']* 1e3:.2f} ms")
+    print(f"    Terlambat : {h_terbesar['hash_terlambat']* 1e3:.2f} ms")
     print(f"    Langkah   : {h_terbesar['hash_langkah']} iterasi (1)")
     print()
     print("  Pola waktu:")
     for ukuran in sorted(data_hash.keys()):
-        print(f"    {ukuran:>5} data -> {data_hash[ukuran]*1e6:.2f} mikrodetik")
+        print(f"    {ukuran:>5} data -> {data_hash[ukuran]* 1e3:.2f} ms")
     print()
 
     analisis_hash = """

@@ -186,9 +186,9 @@ def menu_cari_linear():
     mulai = time.perf_counter()
     produk, iterasi = linear_search(data_manager.produk_list, kode)
     selesai = time.perf_counter()
-    waktu = (selesai - mulai) * 1e6
+    waktu = (selesai - mulai) * 1e3
 
-    print(f"  Waktu: {waktu:.2f} mikrodetik")
+    print(f"  Waktu: {waktu:.2f} ms")
     print(f"  Iterasi: {iterasi}")
     print()
 
@@ -226,9 +226,9 @@ def menu_cari_hash():
     mulai = time.perf_counter()
     produk = data_manager.dapatkan(kode)
     selesai = time.perf_counter()
-    waktu = (selesai - mulai) * 1e6
+    waktu = (selesai - mulai) * 1e3
 
-    print(f"  Waktu: {waktu:.2f} mikrodetik")
+    print(f"  Waktu: {waktu:.2f} ms")
     print(f"  Iterasi: 1 (akses langsung via hash table)")
     print()
 
