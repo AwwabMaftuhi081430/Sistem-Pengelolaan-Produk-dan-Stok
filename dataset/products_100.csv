@@ -1,0 +1,101 @@
+kode_produk,nama_produk,kategori,harga,stok
+PRD0001,Kabel USB,Elektronik,337243,29
+PRD0002,Charger HP,Elektronik,15112,190
+PRD0003,Power Bank,Elektronik,146194,63
+PRD0004,Mouse Wireless,Elektronik,119026,36
+PRD0005,Keyboard,Elektronik,388123,27
+PRD0006,Headset,Elektronik,356785,190
+PRD0007,Speaker Bluetooth,Elektronik,469759,140
+PRD0008,Kipas Angin Mini,Elektronik,47580,152
+PRD0009,Lampu LED,Elektronik,223208,9
+PRD0010,Adaptor,Elektronik,17622,24
+PRD0011,Kabel HDMI,Elektronik,116629,60
+PRD0012,Card Reader,Elektronik,266951,155
+PRD0013,USB Hub,Elektronik,15912,144
+PRD0014,Mouse Pad,Elektronik,106248,184
+PRD0015,Webcam,Elektronik,342726,180
+PRD0016,Microphone,Elektronik,287706,108
+PRD0017,Remote TV,Elektronik,117574,115
+PRD0018,Baterai AA,Elektronik,310944,72
+PRD0019,Baterai AAA,Elektronik,426374,2
+PRD0020,Charger Mobil,Elektronik,399833,41
+PRD0021,Mie Instan,Makanan,368026,109
+PRD0022,Biskuit,Makanan,180389,72
+PRD0023,Keripik Kentang,Makanan,83516,56
+PRD0024,Cokelat Batang,Makanan,402290,87
+PRD0025,Permen,Makanan,55587,24
+PRD0026,Kacang Goreng,Makanan,201191,25
+PRD0027,Roti Tawar,Makanan,190208,89
+PRD0028,Sereal,Makanan,318526,68
+PRD0029,Abon Sapi,Makanan,425167,12
+PRD0030,Dendeng,Makanan,384589,118
+PRD0031,Kerupuk Udang,Makanan,283137,32
+PRD0032,Kue Kering,Makanan,485548,97
+PRD0033,Selai Kacang,Makanan,43313,142
+PRD0034,Madu,Makanan,155709,161
+PRD0035,Tepung Terigu,Makanan,326282,93
+PRD0036,Gula Pasir,Makanan,304698,50
+PRD0037,Kopi Bubuk,Makanan,371398,18
+PRD0038,Teh Celup,Makanan,26025,170
+PRD0039,Susu Bubuk,Makanan,121484,198
+PRD0040, Agar-agar,Makanan,153722,21
+PRD0041,Air Mineral,Minuman,450432,60
+PRD0042,Jus Jeruk,Minuman,456286,26
+PRD0043,Soft Drink,Minuman,201295,72
+PRD0044,Teh Botol,Minuman,239717,163
+PRD0045,Kopi Instan,Minuman,439314,94
+PRD0046,Susu UHT,Minuman,87277,95
+PRD0047,Yogurt,Minuman,188264,54
+PRD0048,Minuman Isotonik,Minuman,353364,69
+PRD0049,Sirup,Minuman,369955,175
+PRD0050,Soda,Minuman,341757,19
+PRD0051,Jus Mangga,Minuman,321360,163
+PRD0052,Jus Apel,Minuman,91725,137
+PRD0053,Minuman Berenergi,Minuman,384272,63
+PRD0054,Air Kelapa,Minuman,87669,119
+PRD0055,Susu Kedelai,Minuman,200943,70
+PRD0056,Jahe Instan,Minuman,487171,164
+PRD0057,Cincau,Minuman,362795,143
+PRD0058,Es Krim,Minuman,117141,176
+PRD0059,Milkshake,Minuman,172017,197
+PRD0060,Kefir,Minuman,408847,15
+PRD0061,Pensil 2B,Alat Tulis,122087,9
+PRD0062,Bolpoin Hitam,Alat Tulis,424075,81
+PRD0063,Penghapus,Alat Tulis,212325,69
+PRD0064,Penggaris,Alat Tulis,36701,55
+PRD0065,Buku Tulis,Alat Tulis,480746,146
+PRD0066,Spidol,Alat Tulis,461469,184
+PRD0067,Stabilo,Alat Tulis,166981,55
+PRD0068,Lem Kertas,Alat Tulis,345638,128
+PRD0069,Gunting,Alat Tulis,209425,165
+PRD0070,Cutter,Alat Tulis,242570,37
+PRD0071,Amplop,Alat Tulis,140873,36
+PRD0072,Kertas HVS,Alat Tulis,131303,191
+PRD0073,Map Plastik,Alat Tulis,296318,138
+PRD0074,Binder,Alat Tulis,139752,192
+PRD0075,Klip Kertas,Alat Tulis,308491,110
+PRD0076,Isi Staples,Alat Tulis,472717,150
+PRD0077,Tipe-X,Alat Tulis,211400,93
+PRD0078,Pensil Warna,Alat Tulis,116987,36
+PRD0079,Krayon,Alat Tulis,269138,127
+PRD0080,Cat Air,Alat Tulis,49662,194
+PRD0081,Sapu,Perlengkapan Rumah,26702,29
+PRD0082,Pel,Perlengkapan Rumah,82132,161
+PRD0083,Ember,Perlengkapan Rumah,85876,175
+PRD0084,Lap Mikrofiber,Perlengkapan Rumah,223333,153
+PRD0085,Gelas Kaca,Perlengkapan Rumah,35306,99
+PRD0086,Piring,Perlengkapan Rumah,202078,153
+PRD0087,Mangkok,Perlengkapan Rumah,247392,136
+PRD0088,Sendok Set,Perlengkapan Rumah,133813,142
+PRD0089,Garpu,Perlengkapan Rumah,453296,3
+PRD0090,Pisau Dapur,Perlengkapan Rumah,358664,185
+PRD0091,Talenan,Perlengkapan Rumah,62058,175
+PRD0092,Panci,Perlengkapan Rumah,465883,138
+PRD0093,Wajan,Perlengkapan Rumah,395676,69
+PRD0094,Stoples,Perlengkapan Rumah,404967,165
+PRD0095,Rak Piring,Perlengkapan Rumah,180349,29
+PRD0096,Serbet,Perlengkapan Rumah,155878,112
+PRD0097,Sikat Gigi,Perlengkapan Rumah,84920,117
+PRD0098,Pasta Gigi,Perlengkapan Rumah,3701,185
+PRD0099,Sabun Mandi,Perlengkapan Rumah,461199,185
+PRD0100,Shampoo,Perlengkapan Rumah,140091,129

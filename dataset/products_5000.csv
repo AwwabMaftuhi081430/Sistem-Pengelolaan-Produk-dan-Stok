@@ -1,0 +1,5001 @@
+kode_produk,nama_produk,kategori,harga,stok
+PRD0001,Kabel USB,Elektronik,399034,50
+PRD0002,Charger HP,Elektronik,94009,157
+PRD0003,Power Bank,Elektronik,450867,164
+PRD0004,Mouse Wireless,Elektronik,472308,104
+PRD0005,Keyboard,Elektronik,435580,110
+PRD0006,Headset,Elektronik,272155,84
+PRD0007,Speaker Bluetooth,Elektronik,47475,103
+PRD0008,Kipas Angin Mini,Elektronik,352882,25
+PRD0009,Lampu LED,Elektronik,98878,36
+PRD0010,Adaptor,Elektronik,252323,83
+PRD0011,Kabel HDMI,Elektronik,492642,64
+PRD0012,Card Reader,Elektronik,5580,67
+PRD0013,USB Hub,Elektronik,203103,61
+PRD0014,Mouse Pad,Elektronik,236218,193
+PRD0015,Webcam,Elektronik,141981,85
+PRD0016,Microphone,Elektronik,160306,150
+PRD0017,Remote TV,Elektronik,380998,147
+PRD0018,Baterai AA,Elektronik,7995,67
+PRD0019,Baterai AAA,Elektronik,344718,93
+PRD0020,Charger Mobil,Elektronik,365210,61
+PRD0021,Mie Instan,Makanan,34571,171
+PRD0022,Biskuit,Makanan,63983,120
+PRD0023,Keripik Kentang,Makanan,162854,41
+PRD0024,Cokelat Batang,Makanan,214555,176
+PRD0025,Permen,Makanan,265465,181
+PRD0026,Kacang Goreng,Makanan,405618,80
+PRD0027,Roti Tawar,Makanan,363910,31
+PRD0028,Sereal,Makanan,336868,76
+PRD0029,Abon Sapi,Makanan,194698,158
+PRD0030,Dendeng,Makanan,117788,57
+PRD0031,Kerupuk Udang,Makanan,72028,123
+PRD0032,Kue Kering,Makanan,82313,117
+PRD0033,Selai Kacang,Makanan,394028,156
+PRD0034,Madu,Makanan,197887,107
+PRD0035,Tepung Terigu,Makanan,370019,141
+PRD0036,Gula Pasir,Makanan,480568,121
+PRD0037,Kopi Bubuk,Makanan,399069,138
+PRD0038,Teh Celup,Makanan,422476,171
+PRD0039,Susu Bubuk,Makanan,434854,56
+PRD0040, Agar-agar,Makanan,401433,64
+PRD0041,Air Mineral,Minuman,358695,194
+PRD0042,Jus Jeruk,Minuman,314378,21
+PRD0043,Soft Drink,Minuman,277516,115
+PRD0044,Teh Botol,Minuman,278914,181
+PRD0045,Kopi Instan,Minuman,191679,20
+PRD0046,Susu UHT,Minuman,482900,145
+PRD0047,Yogurt,Minuman,60829,16
+PRD0048,Minuman Isotonik,Minuman,436516,141
+PRD0049,Sirup,Minuman,475373,130
+PRD0050,Soda,Minuman,107988,147
+PRD0051,Jus Mangga,Minuman,283364,39
+PRD0052,Jus Apel,Minuman,88264,84
+PRD0053,Minuman Berenergi,Minuman,449996,134
+PRD0054,Air Kelapa,Minuman,233651,30
+PRD0055,Susu Kedelai,Minuman,358670,53
+PRD0056,Jahe Instan,Minuman,377871,150
+PRD0057,Cincau,Minuman,258286,24
+PRD0058,Es Krim,Minuman,473276,131
+PRD0059,Milkshake,Minuman,235561,15
+PRD0060,Kefir,Minuman,239729,34
+PRD0061,Pensil 2B,Alat Tulis,271089,107
+PRD0062,Bolpoin Hitam,Alat Tulis,241493,145
+PRD0063,Penghapus,Alat Tulis,32270,144
+PRD0064,Penggaris,Alat Tulis,244419,173
+PRD0065,Buku Tulis,Alat Tulis,425056,79
+PRD0066,Spidol,Alat Tulis,381207,6
+PRD0067,Stabilo,Alat Tulis,209591,66
+PRD0068,Lem Kertas,Alat Tulis,430056,1
+PRD0069,Gunting,Alat Tulis,393016,56
+PRD0070,Cutter,Alat Tulis,305201,19
+PRD0071,Amplop,Alat Tulis,25744,109
+PRD0072,Kertas HVS,Alat Tulis,182632,180
+PRD0073,Map Plastik,Alat Tulis,35428,139
+PRD0074,Binder,Alat Tulis,33591,18
+PRD0075,Klip Kertas,Alat Tulis,491567,121
+PRD0076,Isi Staples,Alat Tulis,18638,74
+PRD0077,Tipe-X,Alat Tulis,216364,47
+PRD0078,Pensil Warna,Alat Tulis,405162,35
+PRD0079,Krayon,Alat Tulis,403514,165
+PRD0080,Cat Air,Alat Tulis,384357,166
+PRD0081,Sapu,Perlengkapan Rumah,222390,96
+PRD0082,Pel,Perlengkapan Rumah,469315,98
+PRD0083,Ember,Perlengkapan Rumah,237162,97
+PRD0084,Lap Mikrofiber,Perlengkapan Rumah,198946,21
+PRD0085,Gelas Kaca,Perlengkapan Rumah,359947,170
+PRD0086,Piring,Perlengkapan Rumah,460518,139
+PRD0087,Mangkok,Perlengkapan Rumah,71724,168
+PRD0088,Sendok Set,Perlengkapan Rumah,453037,90
+PRD0089,Garpu,Perlengkapan Rumah,64197,46
+PRD0090,Pisau Dapur,Perlengkapan Rumah,283678,101
+PRD0091,Talenan,Perlengkapan Rumah,279265,33
+PRD0092,Panci,Perlengkapan Rumah,383607,58
+PRD0093,Wajan,Perlengkapan Rumah,439686,1
+PRD0094,Stoples,Perlengkapan Rumah,398455,6
+PRD0095,Rak Piring,Perlengkapan Rumah,158428,119
+PRD0096,Serbet,Perlengkapan Rumah,355107,185
+PRD0097,Sikat Gigi,Perlengkapan Rumah,287446,109
+PRD0098,Pasta Gigi,Perlengkapan Rumah,280886,98
+PRD0099,Sabun Mandi,Perlengkapan Rumah,433677,59
+PRD0100,Shampoo,Perlengkapan Rumah,131767,118
+PRD0101,Masker,Kesehatan,183487,40
+PRD0102,Hand Sanitizer,Kesehatan,146519,49
+PRD0103,Vitamin C,Kesehatan,493473,186
+PRD0104,Minyak Kayu Putih,Kesehatan,403337,29
+PRD0105,Plester,Kesehatan,18891,170
+PRD0106,Perban,Kesehatan,221802,158
+PRD0107,Obat Flu,Kesehatan,403632,5
+PRD0108,Obat Batuk,Kesehatan,128178,53
+PRD0109,Minuman Herbal,Kesehatan,37279,26
+PRD0110,Suplemen,Kesehatan,313397,9
+PRD0111,Multivitamin,Kesehatan,236063,154
+PRD0112,Minyak Ikan,Kesehatan,354333,181
+PRD0113,Salep Luka,Kesehatan,459290,13
+PRD0114,Obat Nyamuk,Kesehatan,130311,190
+PRD0115,Lotion,Kesehatan,25192,103
+PRD0116,Tabir Surya,Kesehatan,232142,60
+PRD0117,Vitamin E,Kesehatan,284989,56
+PRD0118,Probiotik,Kesehatan,397515,199
+PRD0119,Antasida,Kesehatan,31592,36
+PRD0120,Parasetamol,Kesehatan,266186,75
+PRD0121,Bola Basket,Olahraga,124768,188
+PRD0122,Bola Voli,Olahraga,304047,82
+PRD0123,Raket Badminton,Olahraga,304763,154
+PRD0124,Kok Bulu Tangkis,Olahraga,407032,173
+PRD0125,Matras Yoga,Olahraga,431068,83
+PRD0126,Dumbbell,Olahraga,126205,78
+PRD0127,Skipping,Olahraga,461411,37
+PRD0128,Botol Minum,Olahraga,348141,134
+PRD0129,Hand Grip,Olahraga,117890,106
+PRD0130,Resistance Band,Olahraga,159549,71
+PRD0131,Peluit,Olahraga,33959,143
+PRD0132,Stopwatch,Olahraga,499297,152
+PRD0133,Kaos Olahraga,Olahraga,463223,189
+PRD0134,Handuk,Olahraga,479929,45
+PRD0135,Sepatu Lari,Olahraga,330200,174
+PRD0136,Tas Gym,Olahraga,225976,143
+PRD0137,Topi Olahraga,Olahraga,261848,13
+PRD0138,Gelang Keringat,Olahraga,182572,165
+PRD0139,Sarung Tangan,Olahraga,353976,98
+PRD0140,Bola Sepak,Olahraga,413987,135
+PRD0141,Boneka,Mainan,169108,179
+PRD0142,Mobil Mobilan,Mainan,220274,105
+PRD0143,Puzzle,Mainan,80233,77
+PRD0144,LEGO,Mainan,199373,48
+PRD0145,Rubik,Mainan,397531,138
+PRD0146,Yo Yo,Mainan,250260,62
+PRD0147,Lato Lato,Mainan,447299,58
+PRD0148,Ketapel,Mainan,159672,182
+PRD0149,Kapal Kapalan,Mainan,77681,119
+PRD0150,Layang Layang,Mainan,481587,15
+PRD0151,Kelereng,Mainan,296852,106
+PRD0152,Ular Tangga,Mainan,220370,143
+PRD0153,Monopoli,Mainan,279868,35
+PRD0154,Uno Cards,Mainan,205643,63
+PRD0155,Katapel,Mainan,135691,53
+PRD0156,Tamiya,Mainan,175152,166
+PRD0157,Beyblade,Mainan,43455,116
+PRD0158,Slime,Mainan,446141,95
+PRD0159,Playdoh,Mainan,50477,138
+PRD0160,Balon,Mainan,381891,49
+PRD0161,Kabel USB,Elektronik,29020,69
+PRD0162,Charger HP,Elektronik,199744,173
+PRD0163,Power Bank,Elektronik,319178,155
+PRD0164,Mouse Wireless,Elektronik,22734,19
+PRD0165,Keyboard,Elektronik,100651,195
+PRD0166,Headset,Elektronik,310063,186
+PRD0167,Speaker Bluetooth,Elektronik,354033,144
+PRD0168,Kipas Angin Mini,Elektronik,115779,123
+PRD0169,Lampu LED,Elektronik,111518,86
+PRD0170,Adaptor,Elektronik,160957,4
+PRD0171,Kabel HDMI,Elektronik,113048,49
+PRD0172,Card Reader,Elektronik,390746,31
+PRD0173,USB Hub,Elektronik,393579,194
+PRD0174,Mouse Pad,Elektronik,253092,63
+PRD0175,Webcam,Elektronik,366708,155
+PRD0176,Microphone,Elektronik,370977,53
+PRD0177,Remote TV,Elektronik,209949,62
+PRD0178,Baterai AA,Elektronik,291448,83
+PRD0179,Baterai AAA,Elektronik,408592,73
+PRD0180,Charger Mobil,Elektronik,201576,120
+PRD0181,Mie Instan,Makanan,281786,167
+PRD0182,Biskuit,Makanan,190355,79
+PRD0183,Keripik Kentang,Makanan,139133,93
+PRD0184,Cokelat Batang,Makanan,270863,128
+PRD0185,Permen,Makanan,246320,26
+PRD0186,Kacang Goreng,Makanan,422907,185
+PRD0187,Roti Tawar,Makanan,248148,195
+PRD0188,Sereal,Makanan,442260,82
+PRD0189,Abon Sapi,Makanan,481372,53
+PRD0190,Dendeng,Makanan,196356,81
+PRD0191,Kerupuk Udang,Makanan,219018,12
+PRD0192,Kue Kering,Makanan,296924,57
+PRD0193,Selai Kacang,Makanan,390629,38
+PRD0194,Madu,Makanan,10503,67
+PRD0195,Tepung Terigu,Makanan,292094,150
+PRD0196,Gula Pasir,Makanan,305637,185
+PRD0197,Kopi Bubuk,Makanan,220931,76
+PRD0198,Teh Celup,Makanan,81907,51
+PRD0199,Susu Bubuk,Makanan,174944,59
+PRD0200, Agar-agar,Makanan,201145,146
+PRD0201,Air Mineral,Minuman,438922,63
+PRD0202,Jus Jeruk,Minuman,263777,141
+PRD0203,Soft Drink,Minuman,345203,176
+PRD0204,Teh Botol,Minuman,178980,66
+PRD0205,Kopi Instan,Minuman,402220,126
+PRD0206,Susu UHT,Minuman,381352,165
+PRD0207,Yogurt,Minuman,389760,126
+PRD0208,Minuman Isotonik,Minuman,243607,44
+PRD0209,Sirup,Minuman,386183,91
+PRD0210,Soda,Minuman,90743,36
+PRD0211,Jus Mangga,Minuman,379651,140
+PRD0212,Jus Apel,Minuman,258018,48
+PRD0213,Minuman Berenergi,Minuman,482719,139
+PRD0214,Air Kelapa,Minuman,338492,16
+PRD0215,Susu Kedelai,Minuman,276697,9
+PRD0216,Jahe Instan,Minuman,441913,20
+PRD0217,Cincau,Minuman,497550,172
+PRD0218,Es Krim,Minuman,27435,196
+PRD0219,Milkshake,Minuman,5346,106
+PRD0220,Kefir,Minuman,74085,162
+PRD0221,Pensil 2B,Alat Tulis,123337,18
+PRD0222,Bolpoin Hitam,Alat Tulis,372760,39
+PRD0223,Penghapus,Alat Tulis,6792,56
+PRD0224,Penggaris,Alat Tulis,267149,117
+PRD0225,Buku Tulis,Alat Tulis,197664,16
+PRD0226,Spidol,Alat Tulis,325923,164
+PRD0227,Stabilo,Alat Tulis,351571,158
+PRD0228,Lem Kertas,Alat Tulis,480544,124
+PRD0229,Gunting,Alat Tulis,347654,125
+PRD0230,Cutter,Alat Tulis,10247,2
+PRD0231,Amplop,Alat Tulis,281032,142
+PRD0232,Kertas HVS,Alat Tulis,217659,4
+PRD0233,Map Plastik,Alat Tulis,10769,136
+PRD0234,Binder,Alat Tulis,380636,71
+PRD0235,Klip Kertas,Alat Tulis,282881,74
+PRD0236,Isi Staples,Alat Tulis,10987,129
+PRD0237,Tipe-X,Alat Tulis,428328,179
+PRD0238,Pensil Warna,Alat Tulis,355387,111
+PRD0239,Krayon,Alat Tulis,424664,46
+PRD0240,Cat Air,Alat Tulis,58107,25
+PRD0241,Sapu,Perlengkapan Rumah,276928,39
+PRD0242,Pel,Perlengkapan Rumah,128337,50
+PRD0243,Ember,Perlengkapan Rumah,326943,135
+PRD0244,Lap Mikrofiber,Perlengkapan Rumah,134339,91
+PRD0245,Gelas Kaca,Perlengkapan Rumah,142155,102
+PRD0246,Piring,Perlengkapan Rumah,43428,96
+PRD0247,Mangkok,Perlengkapan Rumah,214875,118
+PRD0248,Sendok Set,Perlengkapan Rumah,298223,63
+PRD0249,Garpu,Perlengkapan Rumah,367552,58
+PRD0250,Pisau Dapur,Perlengkapan Rumah,159273,176
+PRD0251,Talenan,Perlengkapan Rumah,436143,21
+PRD0252,Panci,Perlengkapan Rumah,344745,167
+PRD0253,Wajan,Perlengkapan Rumah,400241,9
+PRD0254,Stoples,Perlengkapan Rumah,51021,104
+PRD0255,Rak Piring,Perlengkapan Rumah,200843,97
+PRD0256,Serbet,Perlengkapan Rumah,291774,122
+PRD0257,Sikat Gigi,Perlengkapan Rumah,31420,164
+PRD0258,Pasta Gigi,Perlengkapan Rumah,6954,180
+PRD0259,Sabun Mandi,Perlengkapan Rumah,91854,22
+PRD0260,Shampoo,Perlengkapan Rumah,264069,112
+PRD0261,Masker,Kesehatan,340117,85
+PRD0262,Hand Sanitizer,Kesehatan,298671,25
+PRD0263,Vitamin C,Kesehatan,471128,136
+PRD0264,Minyak Kayu Putih,Kesehatan,483900,11
+PRD0265,Plester,Kesehatan,122463,55
+PRD0266,Perban,Kesehatan,474526,178
+PRD0267,Obat Flu,Kesehatan,467334,146
+PRD0268,Obat Batuk,Kesehatan,251299,70
+PRD0269,Minuman Herbal,Kesehatan,26411,20
+PRD0270,Suplemen,Kesehatan,360837,72
+PRD0271,Multivitamin,Kesehatan,473498,140
+PRD0272,Minyak Ikan,Kesehatan,297441,169
+PRD0273,Salep Luka,Kesehatan,19250,46
+PRD0274,Obat Nyamuk,Kesehatan,488941,81
+PRD0275,Lotion,Kesehatan,10209,54
+PRD0276,Tabir Surya,Kesehatan,309775,37
+PRD0277,Vitamin E,Kesehatan,396397,183
+PRD0278,Probiotik,Kesehatan,432389,102
+PRD0279,Antasida,Kesehatan,488997,20
+PRD0280,Parasetamol,Kesehatan,158907,42
+PRD0281,Bola Basket,Olahraga,297676,62
+PRD0282,Bola Voli,Olahraga,299111,100
+PRD0283,Raket Badminton,Olahraga,356961,139
+PRD0284,Kok Bulu Tangkis,Olahraga,175921,99
+PRD0285,Matras Yoga,Olahraga,398156,190
+PRD0286,Dumbbell,Olahraga,75374,177
+PRD0287,Skipping,Olahraga,381670,21
+PRD0288,Botol Minum,Olahraga,264559,191
+PRD0289,Hand Grip,Olahraga,183329,14
+PRD0290,Resistance Band,Olahraga,53215,112
+PRD0291,Peluit,Olahraga,123710,20
+PRD0292,Stopwatch,Olahraga,180568,155
+PRD0293,Kaos Olahraga,Olahraga,405180,158
+PRD0294,Handuk,Olahraga,314270,102
+PRD0295,Sepatu Lari,Olahraga,407565,84
+PRD0296,Tas Gym,Olahraga,17532,163
+PRD0297,Topi Olahraga,Olahraga,145302,116
+PRD0298,Gelang Keringat,Olahraga,259217,59
+PRD0299,Sarung Tangan,Olahraga,188547,142
+PRD0300,Bola Sepak,Olahraga,495429,97
+PRD0301,Boneka,Mainan,228412,48
+PRD0302,Mobil Mobilan,Mainan,358355,150
+PRD0303,Puzzle,Mainan,348382,98
+PRD0304,LEGO,Mainan,46928,198
+PRD0305,Rubik,Mainan,326332,76
+PRD0306,Yo Yo,Mainan,420410,64
+PRD0307,Lato Lato,Mainan,375874,19
+PRD0308,Ketapel,Mainan,45011,69
+PRD0309,Kapal Kapalan,Mainan,82856,98
+PRD0310,Layang Layang,Mainan,375123,163
+PRD0311,Kelereng,Mainan,82885,190
+PRD0312,Ular Tangga,Mainan,206274,82
+PRD0313,Monopoli,Mainan,191110,28
+PRD0314,Uno Cards,Mainan,49983,2
+PRD0315,Katapel,Mainan,496382,79
+PRD0316,Tamiya,Mainan,235169,93
+PRD0317,Beyblade,Mainan,401164,70
+PRD0318,Slime,Mainan,55598,34
+PRD0319,Playdoh,Mainan,47768,48
+PRD0320,Balon,Mainan,227957,115
+PRD0321,Kabel USB,Elektronik,294020,143
+PRD0322,Charger HP,Elektronik,270666,105
+PRD0323,Power Bank,Elektronik,56155,7
+PRD0324,Mouse Wireless,Elektronik,48986,91
+PRD0325,Keyboard,Elektronik,292570,24
+PRD0326,Headset,Elektronik,314960,154
+PRD0327,Speaker Bluetooth,Elektronik,413271,84
+PRD0328,Kipas Angin Mini,Elektronik,454837,99
+PRD0329,Lampu LED,Elektronik,8470,75
+PRD0330,Adaptor,Elektronik,218955,100
+PRD0331,Kabel HDMI,Elektronik,410509,22
+PRD0332,Card Reader,Elektronik,382026,144
+PRD0333,USB Hub,Elektronik,476589,63
+PRD0334,Mouse Pad,Elektronik,301871,134
+PRD0335,Webcam,Elektronik,90910,176
+PRD0336,Microphone,Elektronik,201613,44
+PRD0337,Remote TV,Elektronik,74792,69
+PRD0338,Baterai AA,Elektronik,159879,69
+PRD0339,Baterai AAA,Elektronik,260538,38
+PRD0340,Charger Mobil,Elektronik,35170,43
+PRD0341,Mie Instan,Makanan,229895,71
+PRD0342,Biskuit,Makanan,222778,77
+PRD0343,Keripik Kentang,Makanan,255876,20
+PRD0344,Cokelat Batang,Makanan,191333,65
+PRD0345,Permen,Makanan,497044,64
+PRD0346,Kacang Goreng,Makanan,379958,161
+PRD0347,Roti Tawar,Makanan,261943,153
+PRD0348,Sereal,Makanan,325312,51
+PRD0349,Abon Sapi,Makanan,242051,28
+PRD0350,Dendeng,Makanan,73035,78
+PRD0351,Kerupuk Udang,Makanan,5548,102
+PRD0352,Kue Kering,Makanan,176177,159
+PRD0353,Selai Kacang,Makanan,201171,85
+PRD0354,Madu,Makanan,232803,86
+PRD0355,Tepung Terigu,Makanan,227766,167
+PRD0356,Gula Pasir,Makanan,313633,35
+PRD0357,Kopi Bubuk,Makanan,159514,83
+PRD0358,Teh Celup,Makanan,318256,178
+PRD0359,Susu Bubuk,Makanan,107304,123
+PRD0360, Agar-agar,Makanan,166722,46
+PRD0361,Air Mineral,Minuman,210792,82
+PRD0362,Jus Jeruk,Minuman,154802,189
+PRD0363,Soft Drink,Minuman,366358,163
+PRD0364,Teh Botol,Minuman,259429,148
+PRD0365,Kopi Instan,Minuman,411979,63
+PRD0366,Susu UHT,Minuman,172858,97
+PRD0367,Yogurt,Minuman,148958,101
+PRD0368,Minuman Isotonik,Minuman,193373,30
+PRD0369,Sirup,Minuman,490671,145
+PRD0370,Soda,Minuman,106752,152
+PRD0371,Jus Mangga,Minuman,288066,47
+PRD0372,Jus Apel,Minuman,359413,197
+PRD0373,Minuman Berenergi,Minuman,290410,7
+PRD0374,Air Kelapa,Minuman,383269,119
+PRD0375,Susu Kedelai,Minuman,496390,182
+PRD0376,Jahe Instan,Minuman,111916,113
+PRD0377,Cincau,Minuman,420216,75
+PRD0378,Es Krim,Minuman,437831,178
+PRD0379,Milkshake,Minuman,38259,105
+PRD0380,Kefir,Minuman,354834,128
+PRD0381,Pensil 2B,Alat Tulis,74969,163
+PRD0382,Bolpoin Hitam,Alat Tulis,160771,62
+PRD0383,Penghapus,Alat Tulis,134477,169
+PRD0384,Penggaris,Alat Tulis,82815,184
+PRD0385,Buku Tulis,Alat Tulis,223840,97
+PRD0386,Spidol,Alat Tulis,40779,115
+PRD0387,Stabilo,Alat Tulis,315489,123
+PRD0388,Lem Kertas,Alat Tulis,307263,103
+PRD0389,Gunting,Alat Tulis,282162,130
+PRD0390,Cutter,Alat Tulis,486177,178
+PRD0391,Amplop,Alat Tulis,221310,140
+PRD0392,Kertas HVS,Alat Tulis,21275,93
+PRD0393,Map Plastik,Alat Tulis,369858,138
+PRD0394,Binder,Alat Tulis,313332,164
+PRD0395,Klip Kertas,Alat Tulis,481409,22
+PRD0396,Isi Staples,Alat Tulis,59341,197
+PRD0397,Tipe-X,Alat Tulis,132144,169
+PRD0398,Pensil Warna,Alat Tulis,350491,91
+PRD0399,Krayon,Alat Tulis,89209,166
+PRD0400,Cat Air,Alat Tulis,323219,12
+PRD0401,Sapu,Perlengkapan Rumah,297289,166
+PRD0402,Pel,Perlengkapan Rumah,357190,166
+PRD0403,Ember,Perlengkapan Rumah,211514,193
+PRD0404,Lap Mikrofiber,Perlengkapan Rumah,175852,111
+PRD0405,Gelas Kaca,Perlengkapan Rumah,57545,3
+PRD0406,Piring,Perlengkapan Rumah,53698,67
+PRD0407,Mangkok,Perlengkapan Rumah,118392,131
+PRD0408,Sendok Set,Perlengkapan Rumah,393566,133
+PRD0409,Garpu,Perlengkapan Rumah,294549,149
+PRD0410,Pisau Dapur,Perlengkapan Rumah,362534,148
+PRD0411,Talenan,Perlengkapan Rumah,117884,115
+PRD0412,Panci,Perlengkapan Rumah,198146,101
+PRD0413,Wajan,Perlengkapan Rumah,244778,198
+PRD0414,Stoples,Perlengkapan Rumah,358282,151
+PRD0415,Rak Piring,Perlengkapan Rumah,363987,129
+PRD0416,Serbet,Perlengkapan Rumah,81033,89
+PRD0417,Sikat Gigi,Perlengkapan Rumah,14877,124
+PRD0418,Pasta Gigi,Perlengkapan Rumah,56813,76
+PRD0419,Sabun Mandi,Perlengkapan Rumah,220090,22
+PRD0420,Shampoo,Perlengkapan Rumah,62853,187
+PRD0421,Masker,Kesehatan,76278,90
+PRD0422,Hand Sanitizer,Kesehatan,165520,88
+PRD0423,Vitamin C,Kesehatan,240725,53
+PRD0424,Minyak Kayu Putih,Kesehatan,275214,124
+PRD0425,Plester,Kesehatan,184609,122
+PRD0426,Perban,Kesehatan,53182,113
+PRD0427,Obat Flu,Kesehatan,380532,179
+PRD0428,Obat Batuk,Kesehatan,239212,82
+PRD0429,Minuman Herbal,Kesehatan,37218,77
+PRD0430,Suplemen,Kesehatan,25426,182
+PRD0431,Multivitamin,Kesehatan,62337,6
+PRD0432,Minyak Ikan,Kesehatan,447214,88
+PRD0433,Salep Luka,Kesehatan,341722,28
+PRD0434,Obat Nyamuk,Kesehatan,357016,43
+PRD0435,Lotion,Kesehatan,489547,190
+PRD0436,Tabir Surya,Kesehatan,129880,133
+PRD0437,Vitamin E,Kesehatan,93463,142
+PRD0438,Probiotik,Kesehatan,85957,85
+PRD0439,Antasida,Kesehatan,295522,110
+PRD0440,Parasetamol,Kesehatan,244249,60
+PRD0441,Bola Basket,Olahraga,420253,104
+PRD0442,Bola Voli,Olahraga,332175,48
+PRD0443,Raket Badminton,Olahraga,99720,164
+PRD0444,Kok Bulu Tangkis,Olahraga,346618,111
+PRD0445,Matras Yoga,Olahraga,209399,8
+PRD0446,Dumbbell,Olahraga,388603,158
+PRD0447,Skipping,Olahraga,464997,51
+PRD0448,Botol Minum,Olahraga,237706,152
+PRD0449,Hand Grip,Olahraga,227209,100
+PRD0450,Resistance Band,Olahraga,4333,181
+PRD0451,Peluit,Olahraga,114615,53
+PRD0452,Stopwatch,Olahraga,147932,193
+PRD0453,Kaos Olahraga,Olahraga,370972,17
+PRD0454,Handuk,Olahraga,304696,27
+PRD0455,Sepatu Lari,Olahraga,421169,138
+PRD0456,Tas Gym,Olahraga,100020,94
+PRD0457,Topi Olahraga,Olahraga,172909,51
+PRD0458,Gelang Keringat,Olahraga,241888,30
+PRD0459,Sarung Tangan,Olahraga,139548,172
+PRD0460,Bola Sepak,Olahraga,454269,126
+PRD0461,Boneka,Mainan,278674,164
+PRD0462,Mobil Mobilan,Mainan,166314,153
+PRD0463,Puzzle,Mainan,205758,157
+PRD0464,LEGO,Mainan,207806,151
+PRD0465,Rubik,Mainan,61890,90
+PRD0466,Yo Yo,Mainan,186541,118
+PRD0467,Lato Lato,Mainan,325675,45
+PRD0468,Ketapel,Mainan,428633,173
+PRD0469,Kapal Kapalan,Mainan,372141,77
+PRD0470,Layang Layang,Mainan,483654,158
+PRD0471,Kelereng,Mainan,311418,22
+PRD0472,Ular Tangga,Mainan,354379,35
+PRD0473,Monopoli,Mainan,166199,31
+PRD0474,Uno Cards,Mainan,127080,79
+PRD0475,Katapel,Mainan,63314,47
+PRD0476,Tamiya,Mainan,197719,178
+PRD0477,Beyblade,Mainan,76112,131
+PRD0478,Slime,Mainan,205666,108
+PRD0479,Playdoh,Mainan,314698,36
+PRD0480,Balon,Mainan,303363,99
+PRD0481,Kabel USB,Elektronik,223794,48
+PRD0482,Charger HP,Elektronik,257155,163
+PRD0483,Power Bank,Elektronik,283741,178
+PRD0484,Mouse Wireless,Elektronik,483905,166
+PRD0485,Keyboard,Elektronik,489952,45
+PRD0486,Headset,Elektronik,292934,43
+PRD0487,Speaker Bluetooth,Elektronik,258713,74
+PRD0488,Kipas Angin Mini,Elektronik,75555,48
+PRD0489,Lampu LED,Elektronik,166930,116
+PRD0490,Adaptor,Elektronik,326749,14
+PRD0491,Kabel HDMI,Elektronik,455782,92
+PRD0492,Card Reader,Elektronik,7024,125
+PRD0493,USB Hub,Elektronik,73583,50
+PRD0494,Mouse Pad,Elektronik,429407,99
+PRD0495,Webcam,Elektronik,296430,130
+PRD0496,Microphone,Elektronik,344396,127
+PRD0497,Remote TV,Elektronik,216504,176
+PRD0498,Baterai AA,Elektronik,259805,107
+PRD0499,Baterai AAA,Elektronik,374319,114
+PRD0500,Charger Mobil,Elektronik,258219,43
+PRD0501,Mie Instan,Makanan,45343,145
+PRD0502,Biskuit,Makanan,18179,195
+PRD0503,Keripik Kentang,Makanan,117620,75
+PRD0504,Cokelat Batang,Makanan,19141,71
+PRD0505,Permen,Makanan,119882,138
+PRD0506,Kacang Goreng,Makanan,153346,44
+PRD0507,Roti Tawar,Makanan,411332,118
+PRD0508,Sereal,Makanan,298563,191
+PRD0509,Abon Sapi,Makanan,407037,197
+PRD0510,Dendeng,Makanan,261686,141
+PRD0511,Kerupuk Udang,Makanan,269809,29
+PRD0512,Kue Kering,Makanan,302267,30
+PRD0513,Selai Kacang,Makanan,142450,199
+PRD0514,Madu,Makanan,286744,94
+PRD0515,Tepung Terigu,Makanan,286186,194
+PRD0516,Gula Pasir,Makanan,23815,195
+PRD0517,Kopi Bubuk,Makanan,378952,113
+PRD0518,Teh Celup,Makanan,288446,56
+PRD0519,Susu Bubuk,Makanan,224903,27
+PRD0520, Agar-agar,Makanan,387870,168
+PRD0521,Air Mineral,Minuman,395921,64
+PRD0522,Jus Jeruk,Minuman,158085,9
+PRD0523,Soft Drink,Minuman,237789,68
+PRD0524,Teh Botol,Minuman,184754,23
+PRD0525,Kopi Instan,Minuman,232199,31
+PRD0526,Susu UHT,Minuman,408654,61
+PRD0527,Yogurt,Minuman,112036,189
+PRD0528,Minuman Isotonik,Minuman,310241,177
+PRD0529,Sirup,Minuman,185831,182
+PRD0530,Soda,Minuman,321952,162
+PRD0531,Jus Mangga,Minuman,226482,43
+PRD0532,Jus Apel,Minuman,325040,36
+PRD0533,Minuman Berenergi,Minuman,413487,53
+PRD0534,Air Kelapa,Minuman,428523,53
+PRD0535,Susu Kedelai,Minuman,424282,16
+PRD0536,Jahe Instan,Minuman,300883,90
+PRD0537,Cincau,Minuman,281068,72
+PRD0538,Es Krim,Minuman,314925,138
+PRD0539,Milkshake,Minuman,90278,83
+PRD0540,Kefir,Minuman,371126,75
+PRD0541,Pensil 2B,Alat Tulis,153693,147
+PRD0542,Bolpoin Hitam,Alat Tulis,142164,132
+PRD0543,Penghapus,Alat Tulis,473940,174
+PRD0544,Penggaris,Alat Tulis,429389,25
+PRD0545,Buku Tulis,Alat Tulis,73087,193
+PRD0546,Spidol,Alat Tulis,413928,106
+PRD0547,Stabilo,Alat Tulis,483699,16
+PRD0548,Lem Kertas,Alat Tulis,147397,168
+PRD0549,Gunting,Alat Tulis,68525,180
+PRD0550,Cutter,Alat Tulis,456074,34
+PRD0551,Amplop,Alat Tulis,132902,38
+PRD0552,Kertas HVS,Alat Tulis,374975,83
+PRD0553,Map Plastik,Alat Tulis,436363,64
+PRD0554,Binder,Alat Tulis,401231,174
+PRD0555,Klip Kertas,Alat Tulis,207888,126
+PRD0556,Isi Staples,Alat Tulis,76538,148
+PRD0557,Tipe-X,Alat Tulis,333560,69
+PRD0558,Pensil Warna,Alat Tulis,331154,107
+PRD0559,Krayon,Alat Tulis,198698,116
+PRD0560,Cat Air,Alat Tulis,41592,163
+PRD0561,Sapu,Perlengkapan Rumah,418598,197
+PRD0562,Pel,Perlengkapan Rumah,50808,104
+PRD0563,Ember,Perlengkapan Rumah,272329,192
+PRD0564,Lap Mikrofiber,Perlengkapan Rumah,147870,178
+PRD0565,Gelas Kaca,Perlengkapan Rumah,492909,95
+PRD0566,Piring,Perlengkapan Rumah,240391,125
+PRD0567,Mangkok,Perlengkapan Rumah,173593,149
+PRD0568,Sendok Set,Perlengkapan Rumah,3296,199
+PRD0569,Garpu,Perlengkapan Rumah,446159,188
+PRD0570,Pisau Dapur,Perlengkapan Rumah,50833,188
+PRD0571,Talenan,Perlengkapan Rumah,242359,163
+PRD0572,Panci,Perlengkapan Rumah,350202,179
+PRD0573,Wajan,Perlengkapan Rumah,189811,17
+PRD0574,Stoples,Perlengkapan Rumah,419164,137
+PRD0575,Rak Piring,Perlengkapan Rumah,210517,56
+PRD0576,Serbet,Perlengkapan Rumah,227256,55
+PRD0577,Sikat Gigi,Perlengkapan Rumah,261373,69
+PRD0578,Pasta Gigi,Perlengkapan Rumah,171274,73
+PRD0579,Sabun Mandi,Perlengkapan Rumah,179080,141
+PRD0580,Shampoo,Perlengkapan Rumah,305003,34
+PRD0581,Masker,Kesehatan,298821,125
+PRD0582,Hand Sanitizer,Kesehatan,415298,88
+PRD0583,Vitamin C,Kesehatan,470794,175
+PRD0584,Minyak Kayu Putih,Kesehatan,401640,13
+PRD0585,Plester,Kesehatan,26087,26
+PRD0586,Perban,Kesehatan,330298,118
+PRD0587,Obat Flu,Kesehatan,10536,32
+PRD0588,Obat Batuk,Kesehatan,489290,41
+PRD0589,Minuman Herbal,Kesehatan,233360,117
+PRD0590,Suplemen,Kesehatan,2354,110
+PRD0591,Multivitamin,Kesehatan,108073,177
+PRD0592,Minyak Ikan,Kesehatan,478791,34
+PRD0593,Salep Luka,Kesehatan,464499,167
+PRD0594,Obat Nyamuk,Kesehatan,160264,41
+PRD0595,Lotion,Kesehatan,460449,71
+PRD0596,Tabir Surya,Kesehatan,50937,168
+PRD0597,Vitamin E,Kesehatan,190971,65
+PRD0598,Probiotik,Kesehatan,45212,96
+PRD0599,Antasida,Kesehatan,350393,167
+PRD0600,Parasetamol,Kesehatan,88782,14
+PRD0601,Bola Basket,Olahraga,209797,161
+PRD0602,Bola Voli,Olahraga,162174,186
+PRD0603,Raket Badminton,Olahraga,368708,194
+PRD0604,Kok Bulu Tangkis,Olahraga,124758,110
+PRD0605,Matras Yoga,Olahraga,345663,24
+PRD0606,Dumbbell,Olahraga,370940,25
+PRD0607,Skipping,Olahraga,2569,55
+PRD0608,Botol Minum,Olahraga,251984,20
+PRD0609,Hand Grip,Olahraga,71572,152
+PRD0610,Resistance Band,Olahraga,120589,133
+PRD0611,Peluit,Olahraga,358506,114
+PRD0612,Stopwatch,Olahraga,6869,3
+PRD0613,Kaos Olahraga,Olahraga,366693,88
+PRD0614,Handuk,Olahraga,430400,31
+PRD0615,Sepatu Lari,Olahraga,453066,109
+PRD0616,Tas Gym,Olahraga,365872,34
+PRD0617,Topi Olahraga,Olahraga,252452,19
+PRD0618,Gelang Keringat,Olahraga,122034,99
+PRD0619,Sarung Tangan,Olahraga,48835,188
+PRD0620,Bola Sepak,Olahraga,424553,27
+PRD0621,Boneka,Mainan,56107,81
+PRD0622,Mobil Mobilan,Mainan,194708,77
+PRD0623,Puzzle,Mainan,73895,98
+PRD0624,LEGO,Mainan,407516,193
+PRD0625,Rubik,Mainan,460488,35
+PRD0626,Yo Yo,Mainan,338370,174
+PRD0627,Lato Lato,Mainan,76896,18
+PRD0628,Ketapel,Mainan,280139,145
+PRD0629,Kapal Kapalan,Mainan,6443,157
+PRD0630,Layang Layang,Mainan,342797,43
+PRD0631,Kelereng,Mainan,232738,90
+PRD0632,Ular Tangga,Mainan,380762,55
+PRD0633,Monopoli,Mainan,331294,192
+PRD0634,Uno Cards,Mainan,81363,106
+PRD0635,Katapel,Mainan,325001,176
+PRD0636,Tamiya,Mainan,233936,56
+PRD0637,Beyblade,Mainan,47449,26
+PRD0638,Slime,Mainan,75407,193
+PRD0639,Playdoh,Mainan,66569,151
+PRD0640,Balon,Mainan,384735,99
+PRD0641,Kabel USB,Elektronik,186305,110
+PRD0642,Charger HP,Elektronik,166890,36
+PRD0643,Power Bank,Elektronik,131911,71
+PRD0644,Mouse Wireless,Elektronik,339966,22
+PRD0645,Keyboard,Elektronik,132110,142
+PRD0646,Headset,Elektronik,317096,154
+PRD0647,Speaker Bluetooth,Elektronik,380105,156
+PRD0648,Kipas Angin Mini,Elektronik,151380,200
+PRD0649,Lampu LED,Elektronik,495501,177
+PRD0650,Adaptor,Elektronik,16063,169
+PRD0651,Kabel HDMI,Elektronik,461185,78
+PRD0652,Card Reader,Elektronik,109712,133
+PRD0653,USB Hub,Elektronik,320204,131
+PRD0654,Mouse Pad,Elektronik,100905,192
+PRD0655,Webcam,Elektronik,207390,76
+PRD0656,Microphone,Elektronik,340779,14
+PRD0657,Remote TV,Elektronik,412937,62
+PRD0658,Baterai AA,Elektronik,261463,99
+PRD0659,Baterai AAA,Elektronik,61110,62
+PRD0660,Charger Mobil,Elektronik,263925,164
+PRD0661,Mie Instan,Makanan,313390,19
+PRD0662,Biskuit,Makanan,278974,4
+PRD0663,Keripik Kentang,Makanan,191319,82
+PRD0664,Cokelat Batang,Makanan,71197,100
+PRD0665,Permen,Makanan,453314,146
+PRD0666,Kacang Goreng,Makanan,222653,94
+PRD0667,Roti Tawar,Makanan,288448,175
+PRD0668,Sereal,Makanan,92581,196
+PRD0669,Abon Sapi,Makanan,248947,198
+PRD0670,Dendeng,Makanan,40268,5
+PRD0671,Kerupuk Udang,Makanan,309947,18
+PRD0672,Kue Kering,Makanan,9231,68
+PRD0673,Selai Kacang,Makanan,115111,11
+PRD0674,Madu,Makanan,485697,16
+PRD0675,Tepung Terigu,Makanan,499381,102
+PRD0676,Gula Pasir,Makanan,267609,74
+PRD0677,Kopi Bubuk,Makanan,331552,183
+PRD0678,Teh Celup,Makanan,264693,197
+PRD0679,Susu Bubuk,Makanan,219806,109
+PRD0680, Agar-agar,Makanan,369950,103
+PRD0681,Air Mineral,Minuman,45215,164
+PRD0682,Jus Jeruk,Minuman,283314,138
+PRD0683,Soft Drink,Minuman,324986,40
+PRD0684,Teh Botol,Minuman,147473,22
+PRD0685,Kopi Instan,Minuman,164480,21
+PRD0686,Susu UHT,Minuman,270070,53
+PRD0687,Yogurt,Minuman,425656,40
+PRD0688,Minuman Isotonik,Minuman,283222,84
+PRD0689,Sirup,Minuman,206855,151
+PRD0690,Soda,Minuman,334552,196
+PRD0691,Jus Mangga,Minuman,439532,167
+PRD0692,Jus Apel,Minuman,359069,165
+PRD0693,Minuman Berenergi,Minuman,36663,80
+PRD0694,Air Kelapa,Minuman,368307,112
+PRD0695,Susu Kedelai,Minuman,384708,62
+PRD0696,Jahe Instan,Minuman,32359,63
+PRD0697,Cincau,Minuman,47200,112
+PRD0698,Es Krim,Minuman,62810,117
+PRD0699,Milkshake,Minuman,323019,156
+PRD0700,Kefir,Minuman,30850,80
+PRD0701,Pensil 2B,Alat Tulis,351217,190
+PRD0702,Bolpoin Hitam,Alat Tulis,347008,190
+PRD0703,Penghapus,Alat Tulis,94089,31
+PRD0704,Penggaris,Alat Tulis,8640,182
+PRD0705,Buku Tulis,Alat Tulis,73938,180
+PRD0706,Spidol,Alat Tulis,7950,42
+PRD0707,Stabilo,Alat Tulis,262263,89
+PRD0708,Lem Kertas,Alat Tulis,276205,133
+PRD0709,Gunting,Alat Tulis,412510,185
+PRD0710,Cutter,Alat Tulis,137920,43
+PRD0711,Amplop,Alat Tulis,196966,33
+PRD0712,Kertas HVS,Alat Tulis,395098,200
+PRD0713,Map Plastik,Alat Tulis,459944,69
+PRD0714,Binder,Alat Tulis,386269,31
+PRD0715,Klip Kertas,Alat Tulis,406451,8
+PRD0716,Isi Staples,Alat Tulis,177642,110
+PRD0717,Tipe-X,Alat Tulis,144596,135
+PRD0718,Pensil Warna,Alat Tulis,35487,68
+PRD0719,Krayon,Alat Tulis,375462,148
+PRD0720,Cat Air,Alat Tulis,331007,20
+PRD0721,Sapu,Perlengkapan Rumah,262124,117
+PRD0722,Pel,Perlengkapan Rumah,269796,93
+PRD0723,Ember,Perlengkapan Rumah,31066,128
+PRD0724,Lap Mikrofiber,Perlengkapan Rumah,452552,146
+PRD0725,Gelas Kaca,Perlengkapan Rumah,89493,95
+PRD0726,Piring,Perlengkapan Rumah,84475,66
+PRD0727,Mangkok,Perlengkapan Rumah,407447,27
+PRD0728,Sendok Set,Perlengkapan Rumah,470854,147
+PRD0729,Garpu,Perlengkapan Rumah,355433,186
+PRD0730,Pisau Dapur,Perlengkapan Rumah,62468,59
+PRD0731,Talenan,Perlengkapan Rumah,390382,131
+PRD0732,Panci,Perlengkapan Rumah,3346,12
+PRD0733,Wajan,Perlengkapan Rumah,452200,4
+PRD0734,Stoples,Perlengkapan Rumah,130215,12
+PRD0735,Rak Piring,Perlengkapan Rumah,249340,94
+PRD0736,Serbet,Perlengkapan Rumah,202791,39
+PRD0737,Sikat Gigi,Perlengkapan Rumah,95827,10
+PRD0738,Pasta Gigi,Perlengkapan Rumah,291860,183
+PRD0739,Sabun Mandi,Perlengkapan Rumah,390322,168
+PRD0740,Shampoo,Perlengkapan Rumah,221870,58
+PRD0741,Masker,Kesehatan,170716,64
+PRD0742,Hand Sanitizer,Kesehatan,220238,185
+PRD0743,Vitamin C,Kesehatan,169738,70
+PRD0744,Minyak Kayu Putih,Kesehatan,435060,20
+PRD0745,Plester,Kesehatan,301649,96
+PRD0746,Perban,Kesehatan,64600,129
+PRD0747,Obat Flu,Kesehatan,355016,14
+PRD0748,Obat Batuk,Kesehatan,96028,58
+PRD0749,Minuman Herbal,Kesehatan,423704,133
+PRD0750,Suplemen,Kesehatan,26079,103
+PRD0751,Multivitamin,Kesehatan,38137,120
+PRD0752,Minyak Ikan,Kesehatan,456050,73
+PRD0753,Salep Luka,Kesehatan,407551,80
+PRD0754,Obat Nyamuk,Kesehatan,173599,23
+PRD0755,Lotion,Kesehatan,291979,117
+PRD0756,Tabir Surya,Kesehatan,6178,95
+PRD0757,Vitamin E,Kesehatan,107209,75
+PRD0758,Probiotik,Kesehatan,297597,78
+PRD0759,Antasida,Kesehatan,389750,160
+PRD0760,Parasetamol,Kesehatan,129183,119
+PRD0761,Bola Basket,Olahraga,195081,152
+PRD0762,Bola Voli,Olahraga,260663,198
+PRD0763,Raket Badminton,Olahraga,408787,51
+PRD0764,Kok Bulu Tangkis,Olahraga,386021,140
+PRD0765,Matras Yoga,Olahraga,400711,63
+PRD0766,Dumbbell,Olahraga,80940,2
+PRD0767,Skipping,Olahraga,490844,105
+PRD0768,Botol Minum,Olahraga,14535,60
+PRD0769,Hand Grip,Olahraga,285925,89
+PRD0770,Resistance Band,Olahraga,335416,178
+PRD0771,Peluit,Olahraga,461904,3
+PRD0772,Stopwatch,Olahraga,177645,1
+PRD0773,Kaos Olahraga,Olahraga,399897,169
+PRD0774,Handuk,Olahraga,199276,189
+PRD0775,Sepatu Lari,Olahraga,383270,79
+PRD0776,Tas Gym,Olahraga,56499,53
+PRD0777,Topi Olahraga,Olahraga,279775,61
+PRD0778,Gelang Keringat,Olahraga,222104,126
+PRD0779,Sarung Tangan,Olahraga,33402,37
+PRD0780,Bola Sepak,Olahraga,375110,72
+PRD0781,Boneka,Mainan,50772,12
+PRD0782,Mobil Mobilan,Mainan,485013,60
+PRD0783,Puzzle,Mainan,472437,134
+PRD0784,LEGO,Mainan,218560,180
+PRD0785,Rubik,Mainan,471540,96
+PRD0786,Yo Yo,Mainan,242364,192
+PRD0787,Lato Lato,Mainan,46513,149
+PRD0788,Ketapel,Mainan,52109,130
+PRD0789,Kapal Kapalan,Mainan,71999,164
+PRD0790,Layang Layang,Mainan,431896,101
+PRD0791,Kelereng,Mainan,41232,152
+PRD0792,Ular Tangga,Mainan,299701,16
+PRD0793,Monopoli,Mainan,230056,170
+PRD0794,Uno Cards,Mainan,70528,61
+PRD0795,Katapel,Mainan,154922,67
+PRD0796,Tamiya,Mainan,448123,81
+PRD0797,Beyblade,Mainan,487512,101
+PRD0798,Slime,Mainan,369382,189
+PRD0799,Playdoh,Mainan,173049,82
+PRD0800,Balon,Mainan,239375,70
+PRD0801,Kabel USB,Elektronik,124479,20
+PRD0802,Charger HP,Elektronik,496694,52
+PRD0803,Power Bank,Elektronik,73361,200
+PRD0804,Mouse Wireless,Elektronik,405778,150
+PRD0805,Keyboard,Elektronik,59133,40
+PRD0806,Headset,Elektronik,57395,43
+PRD0807,Speaker Bluetooth,Elektronik,237702,120
+PRD0808,Kipas Angin Mini,Elektronik,166643,105
+PRD0809,Lampu LED,Elektronik,65300,138
+PRD0810,Adaptor,Elektronik,189845,198
+PRD0811,Kabel HDMI,Elektronik,110861,116
+PRD0812,Card Reader,Elektronik,163642,119
+PRD0813,USB Hub,Elektronik,140940,31
+PRD0814,Mouse Pad,Elektronik,49406,41
+PRD0815,Webcam,Elektronik,425413,176
+PRD0816,Microphone,Elektronik,161496,181
+PRD0817,Remote TV,Elektronik,367364,155
+PRD0818,Baterai AA,Elektronik,23144,56
+PRD0819,Baterai AAA,Elektronik,440265,84
+PRD0820,Charger Mobil,Elektronik,79764,24
+PRD0821,Mie Instan,Makanan,374851,64
+PRD0822,Biskuit,Makanan,188511,102
+PRD0823,Keripik Kentang,Makanan,271200,13
+PRD0824,Cokelat Batang,Makanan,357039,77
+PRD0825,Permen,Makanan,138402,45
+PRD0826,Kacang Goreng,Makanan,18295,104
+PRD0827,Roti Tawar,Makanan,450057,116
+PRD0828,Sereal,Makanan,293479,192
+PRD0829,Abon Sapi,Makanan,290421,64
+PRD0830,Dendeng,Makanan,51663,119
+PRD0831,Kerupuk Udang,Makanan,55428,36
+PRD0832,Kue Kering,Makanan,65676,4
+PRD0833,Selai Kacang,Makanan,34332,200
+PRD0834,Madu,Makanan,118543,34
+PRD0835,Tepung Terigu,Makanan,105878,103
+PRD0836,Gula Pasir,Makanan,197160,176
+PRD0837,Kopi Bubuk,Makanan,332457,166
+PRD0838,Teh Celup,Makanan,46060,150
+PRD0839,Susu Bubuk,Makanan,309295,67
+PRD0840, Agar-agar,Makanan,482996,20
+PRD0841,Air Mineral,Minuman,13429,17
+PRD0842,Jus Jeruk,Minuman,105678,166
+PRD0843,Soft Drink,Minuman,234485,33
+PRD0844,Teh Botol,Minuman,50223,85
+PRD0845,Kopi Instan,Minuman,66239,11
+PRD0846,Susu UHT,Minuman,496026,119
+PRD0847,Yogurt,Minuman,28548,44
+PRD0848,Minuman Isotonik,Minuman,486511,147
+PRD0849,Sirup,Minuman,229098,186
+PRD0850,Soda,Minuman,209093,128
+PRD0851,Jus Mangga,Minuman,17457,98
+PRD0852,Jus Apel,Minuman,360200,110
+PRD0853,Minuman Berenergi,Minuman,92600,91
+PRD0854,Air Kelapa,Minuman,114573,48
+PRD0855,Susu Kedelai,Minuman,146169,72
+PRD0856,Jahe Instan,Minuman,235838,39
+PRD0857,Cincau,Minuman,20166,158
+PRD0858,Es Krim,Minuman,326626,158
+PRD0859,Milkshake,Minuman,130862,166
+PRD0860,Kefir,Minuman,156720,128
+PRD0861,Pensil 2B,Alat Tulis,218002,141
+PRD0862,Bolpoin Hitam,Alat Tulis,253150,16
+PRD0863,Penghapus,Alat Tulis,47991,72
+PRD0864,Penggaris,Alat Tulis,202810,36
+PRD0865,Buku Tulis,Alat Tulis,221799,52
+PRD0866,Spidol,Alat Tulis,338935,135
+PRD0867,Stabilo,Alat Tulis,132625,162
+PRD0868,Lem Kertas,Alat Tulis,422567,140
+PRD0869,Gunting,Alat Tulis,418728,5
+PRD0870,Cutter,Alat Tulis,202539,183
+PRD0871,Amplop,Alat Tulis,190278,123
+PRD0872,Kertas HVS,Alat Tulis,287484,125
+PRD0873,Map Plastik,Alat Tulis,182372,145
+PRD0874,Binder,Alat Tulis,265398,83
+PRD0875,Klip Kertas,Alat Tulis,205623,70
+PRD0876,Isi Staples,Alat Tulis,96275,7
+PRD0877,Tipe-X,Alat Tulis,169183,153
+PRD0878,Pensil Warna,Alat Tulis,116829,8
+PRD0879,Krayon,Alat Tulis,471638,200
+PRD0880,Cat Air,Alat Tulis,149289,15
+PRD0881,Sapu,Perlengkapan Rumah,425967,121
+PRD0882,Pel,Perlengkapan Rumah,279574,92
+PRD0883,Ember,Perlengkapan Rumah,404046,150
+PRD0884,Lap Mikrofiber,Perlengkapan Rumah,124034,41
+PRD0885,Gelas Kaca,Perlengkapan Rumah,54499,64
+PRD0886,Piring,Perlengkapan Rumah,346386,62
+PRD0887,Mangkok,Perlengkapan Rumah,141736,137
+PRD0888,Sendok Set,Perlengkapan Rumah,429968,189
+PRD0889,Garpu,Perlengkapan Rumah,31312,196
+PRD0890,Pisau Dapur,Perlengkapan Rumah,498921,57
+PRD0891,Talenan,Perlengkapan Rumah,303828,100
+PRD0892,Panci,Perlengkapan Rumah,188019,45
+PRD0893,Wajan,Perlengkapan Rumah,94327,61
+PRD0894,Stoples,Perlengkapan Rumah,312650,82
+PRD0895,Rak Piring,Perlengkapan Rumah,424686,189
+PRD0896,Serbet,Perlengkapan Rumah,367757,92
+PRD0897,Sikat Gigi,Perlengkapan Rumah,481188,152
+PRD0898,Pasta Gigi,Perlengkapan Rumah,16788,181
+PRD0899,Sabun Mandi,Perlengkapan Rumah,369295,91
+PRD0900,Shampoo,Perlengkapan Rumah,498793,146
+PRD0901,Masker,Kesehatan,297492,37
+PRD0902,Hand Sanitizer,Kesehatan,297231,49
+PRD0903,Vitamin C,Kesehatan,440670,127
+PRD0904,Minyak Kayu Putih,Kesehatan,286229,80
+PRD0905,Plester,Kesehatan,94042,126
+PRD0906,Perban,Kesehatan,21903,24
+PRD0907,Obat Flu,Kesehatan,31448,60
+PRD0908,Obat Batuk,Kesehatan,317444,57
+PRD0909,Minuman Herbal,Kesehatan,12448,135
+PRD0910,Suplemen,Kesehatan,252603,1
+PRD0911,Multivitamin,Kesehatan,175924,158
+PRD0912,Minyak Ikan,Kesehatan,107625,34
+PRD0913,Salep Luka,Kesehatan,180655,184
+PRD0914,Obat Nyamuk,Kesehatan,95040,83
+PRD0915,Lotion,Kesehatan,33224,6
+PRD0916,Tabir Surya,Kesehatan,79443,151
+PRD0917,Vitamin E,Kesehatan,371463,37
+PRD0918,Probiotik,Kesehatan,407991,29
+PRD0919,Antasida,Kesehatan,445799,135
+PRD0920,Parasetamol,Kesehatan,453238,94
+PRD0921,Bola Basket,Olahraga,40027,96
+PRD0922,Bola Voli,Olahraga,371380,170
+PRD0923,Raket Badminton,Olahraga,209406,151
+PRD0924,Kok Bulu Tangkis,Olahraga,54969,87
+PRD0925,Matras Yoga,Olahraga,160211,83
+PRD0926,Dumbbell,Olahraga,73539,41
+PRD0927,Skipping,Olahraga,385963,112
+PRD0928,Botol Minum,Olahraga,417153,164
+PRD0929,Hand Grip,Olahraga,257433,167
+PRD0930,Resistance Band,Olahraga,168347,45
+PRD0931,Peluit,Olahraga,372767,144
+PRD0932,Stopwatch,Olahraga,365625,158
+PRD0933,Kaos Olahraga,Olahraga,414610,92
+PRD0934,Handuk,Olahraga,119040,171
+PRD0935,Sepatu Lari,Olahraga,310779,45
+PRD0936,Tas Gym,Olahraga,200382,79
+PRD0937,Topi Olahraga,Olahraga,386824,177
+PRD0938,Gelang Keringat,Olahraga,156411,33
+PRD0939,Sarung Tangan,Olahraga,95170,187
+PRD0940,Bola Sepak,Olahraga,2942,180
+PRD0941,Boneka,Mainan,499391,147
+PRD0942,Mobil Mobilan,Mainan,207311,198
+PRD0943,Puzzle,Mainan,299524,9
+PRD0944,LEGO,Mainan,97463,155
+PRD0945,Rubik,Mainan,168837,157
+PRD0946,Yo Yo,Mainan,117812,164
+PRD0947,Lato Lato,Mainan,298511,27
+PRD0948,Ketapel,Mainan,493094,128
+PRD0949,Kapal Kapalan,Mainan,75737,85
+PRD0950,Layang Layang,Mainan,392774,20
+PRD0951,Kelereng,Mainan,126778,89
+PRD0952,Ular Tangga,Mainan,169519,43
+PRD0953,Monopoli,Mainan,335545,23
+PRD0954,Uno Cards,Mainan,432787,182
+PRD0955,Katapel,Mainan,353285,164
+PRD0956,Tamiya,Mainan,384355,86
+PRD0957,Beyblade,Mainan,236162,3
+PRD0958,Slime,Mainan,141047,54
+PRD0959,Playdoh,Mainan,132831,178
+PRD0960,Balon,Mainan,37543,90
+PRD0961,Kabel USB,Elektronik,136562,28
+PRD0962,Charger HP,Elektronik,379704,1
+PRD0963,Power Bank,Elektronik,27243,99
+PRD0964,Mouse Wireless,Elektronik,231753,188
+PRD0965,Keyboard,Elektronik,222019,43
+PRD0966,Headset,Elektronik,465759,106
+PRD0967,Speaker Bluetooth,Elektronik,260516,97
+PRD0968,Kipas Angin Mini,Elektronik,186146,140
+PRD0969,Lampu LED,Elektronik,198790,26
+PRD0970,Adaptor,Elektronik,436533,123
+PRD0971,Kabel HDMI,Elektronik,415521,148
+PRD0972,Card Reader,Elektronik,343295,195
+PRD0973,USB Hub,Elektronik,362269,58
+PRD0974,Mouse Pad,Elektronik,87278,116
+PRD0975,Webcam,Elektronik,40644,9
+PRD0976,Microphone,Elektronik,156617,6
+PRD0977,Remote TV,Elektronik,169099,67
+PRD0978,Baterai AA,Elektronik,56906,19
+PRD0979,Baterai AAA,Elektronik,181205,44
+PRD0980,Charger Mobil,Elektronik,467531,97
+PRD0981,Mie Instan,Makanan,86360,188
+PRD0982,Biskuit,Makanan,41322,141
+PRD0983,Keripik Kentang,Makanan,495792,24
+PRD0984,Cokelat Batang,Makanan,179183,153
+PRD0985,Permen,Makanan,323726,124
+PRD0986,Kacang Goreng,Makanan,371363,8
+PRD0987,Roti Tawar,Makanan,228137,168
+PRD0988,Sereal,Makanan,88506,156
+PRD0989,Abon Sapi,Makanan,468486,112
+PRD0990,Dendeng,Makanan,84367,14
+PRD0991,Kerupuk Udang,Makanan,55088,85
+PRD0992,Kue Kering,Makanan,109767,49
+PRD0993,Selai Kacang,Makanan,216580,179
+PRD0994,Madu,Makanan,292514,185
+PRD0995,Tepung Terigu,Makanan,487267,187
+PRD0996,Gula Pasir,Makanan,285181,68
+PRD0997,Kopi Bubuk,Makanan,348343,73
+PRD0998,Teh Celup,Makanan,157923,61
+PRD0999,Susu Bubuk,Makanan,52287,13
+PRD1000, Agar-agar,Makanan,207993,147
+PRD1001,Air Mineral,Minuman,290181,126
+PRD1002,Jus Jeruk,Minuman,82525,14
+PRD1003,Soft Drink,Minuman,191178,1
+PRD1004,Teh Botol,Minuman,226188,23
+PRD1005,Kopi Instan,Minuman,156428,170
+PRD1006,Susu UHT,Minuman,329727,154
+PRD1007,Yogurt,Minuman,253830,52
+PRD1008,Minuman Isotonik,Minuman,52849,7
+PRD1009,Sirup,Minuman,110502,44
+PRD1010,Soda,Minuman,336595,75
+PRD1011,Jus Mangga,Minuman,44958,122
+PRD1012,Jus Apel,Minuman,444378,30
+PRD1013,Minuman Berenergi,Minuman,163665,102
+PRD1014,Air Kelapa,Minuman,248910,126
+PRD1015,Susu Kedelai,Minuman,471173,170
+PRD1016,Jahe Instan,Minuman,140938,24
+PRD1017,Cincau,Minuman,338522,140
+PRD1018,Es Krim,Minuman,205175,48
+PRD1019,Milkshake,Minuman,196521,98
+PRD1020,Kefir,Minuman,195672,48
+PRD1021,Pensil 2B,Alat Tulis,235714,12
+PRD1022,Bolpoin Hitam,Alat Tulis,140042,113
+PRD1023,Penghapus,Alat Tulis,245824,68
+PRD1024,Penggaris,Alat Tulis,120616,69
+PRD1025,Buku Tulis,Alat Tulis,297827,16
+PRD1026,Spidol,Alat Tulis,81235,193
+PRD1027,Stabilo,Alat Tulis,367151,171
+PRD1028,Lem Kertas,Alat Tulis,52700,22
+PRD1029,Gunting,Alat Tulis,352298,89
+PRD1030,Cutter,Alat Tulis,425719,139
+PRD1031,Amplop,Alat Tulis,219048,194
+PRD1032,Kertas HVS,Alat Tulis,311186,59
+PRD1033,Map Plastik,Alat Tulis,292246,16
+PRD1034,Binder,Alat Tulis,442819,100
+PRD1035,Klip Kertas,Alat Tulis,431080,134
+PRD1036,Isi Staples,Alat Tulis,221483,138
+PRD1037,Tipe-X,Alat Tulis,362221,122
+PRD1038,Pensil Warna,Alat Tulis,302267,61
+PRD1039,Krayon,Alat Tulis,251698,77
+PRD1040,Cat Air,Alat Tulis,43395,102
+PRD1041,Sapu,Perlengkapan Rumah,475315,183
+PRD1042,Pel,Perlengkapan Rumah,20207,129
+PRD1043,Ember,Perlengkapan Rumah,301483,133
+PRD1044,Lap Mikrofiber,Perlengkapan Rumah,421666,147
+PRD1045,Gelas Kaca,Perlengkapan Rumah,357223,159
+PRD1046,Piring,Perlengkapan Rumah,79305,31
+PRD1047,Mangkok,Perlengkapan Rumah,499682,194
+PRD1048,Sendok Set,Perlengkapan Rumah,237426,45
+PRD1049,Garpu,Perlengkapan Rumah,499581,43
+PRD1050,Pisau Dapur,Perlengkapan Rumah,113091,50
+PRD1051,Talenan,Perlengkapan Rumah,68157,11
+PRD1052,Panci,Perlengkapan Rumah,223970,21
+PRD1053,Wajan,Perlengkapan Rumah,360154,112
+PRD1054,Stoples,Perlengkapan Rumah,107863,161
+PRD1055,Rak Piring,Perlengkapan Rumah,79530,153
+PRD1056,Serbet,Perlengkapan Rumah,137206,82
+PRD1057,Sikat Gigi,Perlengkapan Rumah,479523,187
+PRD1058,Pasta Gigi,Perlengkapan Rumah,481290,18
+PRD1059,Sabun Mandi,Perlengkapan Rumah,47627,100
+PRD1060,Shampoo,Perlengkapan Rumah,293695,102
+PRD1061,Masker,Kesehatan,291435,84
+PRD1062,Hand Sanitizer,Kesehatan,451117,71
+PRD1063,Vitamin C,Kesehatan,274466,118
+PRD1064,Minyak Kayu Putih,Kesehatan,482856,4
+PRD1065,Plester,Kesehatan,414379,180
+PRD1066,Perban,Kesehatan,328661,151
+PRD1067,Obat Flu,Kesehatan,275972,108
+PRD1068,Obat Batuk,Kesehatan,60992,107
+PRD1069,Minuman Herbal,Kesehatan,80455,38
+PRD1070,Suplemen,Kesehatan,299058,151
+PRD1071,Multivitamin,Kesehatan,307490,195
+PRD1072,Minyak Ikan,Kesehatan,494647,26
+PRD1073,Salep Luka,Kesehatan,486928,28
+PRD1074,Obat Nyamuk,Kesehatan,297008,200
+PRD1075,Lotion,Kesehatan,54948,74
+PRD1076,Tabir Surya,Kesehatan,456806,138
+PRD1077,Vitamin E,Kesehatan,463444,89
+PRD1078,Probiotik,Kesehatan,462269,106
+PRD1079,Antasida,Kesehatan,140483,99
+PRD1080,Parasetamol,Kesehatan,345297,125
+PRD1081,Bola Basket,Olahraga,301904,156
+PRD1082,Bola Voli,Olahraga,250012,10
+PRD1083,Raket Badminton,Olahraga,92282,71
+PRD1084,Kok Bulu Tangkis,Olahraga,213274,37
+PRD1085,Matras Yoga,Olahraga,326138,156
+PRD1086,Dumbbell,Olahraga,358942,178
+PRD1087,Skipping,Olahraga,212616,10
+PRD1088,Botol Minum,Olahraga,209509,85
+PRD1089,Hand Grip,Olahraga,364028,61
+PRD1090,Resistance Band,Olahraga,27842,191
+PRD1091,Peluit,Olahraga,251151,69
+PRD1092,Stopwatch,Olahraga,472302,96
+PRD1093,Kaos Olahraga,Olahraga,12607,87
+PRD1094,Handuk,Olahraga,430545,78
+PRD1095,Sepatu Lari,Olahraga,165026,72
+PRD1096,Tas Gym,Olahraga,443894,126
+PRD1097,Topi Olahraga,Olahraga,451962,179
+PRD1098,Gelang Keringat,Olahraga,361059,26
+PRD1099,Sarung Tangan,Olahraga,457553,59
+PRD1100,Bola Sepak,Olahraga,72456,77
+PRD1101,Boneka,Mainan,391925,114
+PRD1102,Mobil Mobilan,Mainan,407815,83
+PRD1103,Puzzle,Mainan,143253,187
+PRD1104,LEGO,Mainan,220508,155
+PRD1105,Rubik,Mainan,340456,23
+PRD1106,Yo Yo,Mainan,100532,114
+PRD1107,Lato Lato,Mainan,112829,105
+PRD1108,Ketapel,Mainan,390468,125
+PRD1109,Kapal Kapalan,Mainan,400193,133
+PRD1110,Layang Layang,Mainan,456656,96
+PRD1111,Kelereng,Mainan,432449,15
+PRD1112,Ular Tangga,Mainan,272149,41
+PRD1113,Monopoli,Mainan,36402,80
+PRD1114,Uno Cards,Mainan,374018,130
+PRD1115,Katapel,Mainan,213489,35
+PRD1116,Tamiya,Mainan,411215,135
+PRD1117,Beyblade,Mainan,463023,146
+PRD1118,Slime,Mainan,17177,45
+PRD1119,Playdoh,Mainan,103063,52
+PRD1120,Balon,Mainan,440816,15
+PRD1121,Kabel USB,Elektronik,132804,9
+PRD1122,Charger HP,Elektronik,241310,13
+PRD1123,Power Bank,Elektronik,483312,93
+PRD1124,Mouse Wireless,Elektronik,371431,51
+PRD1125,Keyboard,Elektronik,145643,95
+PRD1126,Headset,Elektronik,433754,119
+PRD1127,Speaker Bluetooth,Elektronik,266831,102
+PRD1128,Kipas Angin Mini,Elektronik,335137,32
+PRD1129,Lampu LED,Elektronik,359131,8
+PRD1130,Adaptor,Elektronik,128845,96
+PRD1131,Kabel HDMI,Elektronik,258265,153
+PRD1132,Card Reader,Elektronik,235886,46
+PRD1133,USB Hub,Elektronik,458382,122
+PRD1134,Mouse Pad,Elektronik,309694,142
+PRD1135,Webcam,Elektronik,185374,89
+PRD1136,Microphone,Elektronik,87728,67
+PRD1137,Remote TV,Elektronik,394671,177
+PRD1138,Baterai AA,Elektronik,49391,73
+PRD1139,Baterai AAA,Elektronik,16391,99
+PRD1140,Charger Mobil,Elektronik,28031,42
+PRD1141,Mie Instan,Makanan,449648,147
+PRD1142,Biskuit,Makanan,410855,55
+PRD1143,Keripik Kentang,Makanan,451373,57
+PRD1144,Cokelat Batang,Makanan,341413,58
+PRD1145,Permen,Makanan,357307,53
+PRD1146,Kacang Goreng,Makanan,143077,167
+PRD1147,Roti Tawar,Makanan,216699,132
+PRD1148,Sereal,Makanan,12513,200
+PRD1149,Abon Sapi,Makanan,404429,175
+PRD1150,Dendeng,Makanan,6665,122
+PRD1151,Kerupuk Udang,Makanan,479896,34
+PRD1152,Kue Kering,Makanan,341409,45
+PRD1153,Selai Kacang,Makanan,317171,3
+PRD1154,Madu,Makanan,119319,65
+PRD1155,Tepung Terigu,Makanan,320947,79
+PRD1156,Gula Pasir,Makanan,375681,182
+PRD1157,Kopi Bubuk,Makanan,338981,71
+PRD1158,Teh Celup,Makanan,224196,97
+PRD1159,Susu Bubuk,Makanan,448476,90
+PRD1160, Agar-agar,Makanan,242647,65
+PRD1161,Air Mineral,Minuman,116404,120
+PRD1162,Jus Jeruk,Minuman,160411,174
+PRD1163,Soft Drink,Minuman,274964,160
+PRD1164,Teh Botol,Minuman,210222,150
+PRD1165,Kopi Instan,Minuman,55641,2
+PRD1166,Susu UHT,Minuman,270180,170
+PRD1167,Yogurt,Minuman,444123,96
+PRD1168,Minuman Isotonik,Minuman,296365,166
+PRD1169,Sirup,Minuman,313307,156
+PRD1170,Soda,Minuman,150204,77
+PRD1171,Jus Mangga,Minuman,360829,28
+PRD1172,Jus Apel,Minuman,254569,17
+PRD1173,Minuman Berenergi,Minuman,178309,71
+PRD1174,Air Kelapa,Minuman,337856,84
+PRD1175,Susu Kedelai,Minuman,453669,71
+PRD1176,Jahe Instan,Minuman,138916,168
+PRD1177,Cincau,Minuman,374817,167
+PRD1178,Es Krim,Minuman,158652,49
+PRD1179,Milkshake,Minuman,80606,133
+PRD1180,Kefir,Minuman,403329,62
+PRD1181,Pensil 2B,Alat Tulis,473695,15
+PRD1182,Bolpoin Hitam,Alat Tulis,424277,154
+PRD1183,Penghapus,Alat Tulis,213863,170
+PRD1184,Penggaris,Alat Tulis,169554,175
+PRD1185,Buku Tulis,Alat Tulis,75363,185
+PRD1186,Spidol,Alat Tulis,15345,168
+PRD1187,Stabilo,Alat Tulis,262766,76
+PRD1188,Lem Kertas,Alat Tulis,138014,108
+PRD1189,Gunting,Alat Tulis,214126,100
+PRD1190,Cutter,Alat Tulis,388259,10
+PRD1191,Amplop,Alat Tulis,307672,182
+PRD1192,Kertas HVS,Alat Tulis,301914,49
+PRD1193,Map Plastik,Alat Tulis,181918,186
+PRD1194,Binder,Alat Tulis,376010,57
+PRD1195,Klip Kertas,Alat Tulis,361828,137
+PRD1196,Isi Staples,Alat Tulis,336660,122
+PRD1197,Tipe-X,Alat Tulis,477280,172
+PRD1198,Pensil Warna,Alat Tulis,189955,130
+PRD1199,Krayon,Alat Tulis,159388,44
+PRD1200,Cat Air,Alat Tulis,442736,169
+PRD1201,Sapu,Perlengkapan Rumah,461535,143
+PRD1202,Pel,Perlengkapan Rumah,96967,76
+PRD1203,Ember,Perlengkapan Rumah,53172,121
+PRD1204,Lap Mikrofiber,Perlengkapan Rumah,69079,190
+PRD1205,Gelas Kaca,Perlengkapan Rumah,137608,186
+PRD1206,Piring,Perlengkapan Rumah,425804,144
+PRD1207,Mangkok,Perlengkapan Rumah,401988,47
+PRD1208,Sendok Set,Perlengkapan Rumah,498460,175
+PRD1209,Garpu,Perlengkapan Rumah,473644,86
+PRD1210,Pisau Dapur,Perlengkapan Rumah,345112,23
+PRD1211,Talenan,Perlengkapan Rumah,118524,91
+PRD1212,Panci,Perlengkapan Rumah,119088,191
+PRD1213,Wajan,Perlengkapan Rumah,458881,79
+PRD1214,Stoples,Perlengkapan Rumah,222448,85
+PRD1215,Rak Piring,Perlengkapan Rumah,196868,67
+PRD1216,Serbet,Perlengkapan Rumah,309007,76
+PRD1217,Sikat Gigi,Perlengkapan Rumah,245144,31
+PRD1218,Pasta Gigi,Perlengkapan Rumah,248696,14
+PRD1219,Sabun Mandi,Perlengkapan Rumah,456239,163
+PRD1220,Shampoo,Perlengkapan Rumah,307961,149
+PRD1221,Masker,Kesehatan,497085,159
+PRD1222,Hand Sanitizer,Kesehatan,39337,121
+PRD1223,Vitamin C,Kesehatan,468315,50
+PRD1224,Minyak Kayu Putih,Kesehatan,264394,31
+PRD1225,Plester,Kesehatan,456818,175
+PRD1226,Perban,Kesehatan,202104,136
+PRD1227,Obat Flu,Kesehatan,158424,106
+PRD1228,Obat Batuk,Kesehatan,30344,39
+PRD1229,Minuman Herbal,Kesehatan,74018,52
+PRD1230,Suplemen,Kesehatan,181657,105
+PRD1231,Multivitamin,Kesehatan,300531,118
+PRD1232,Minyak Ikan,Kesehatan,77090,81
+PRD1233,Salep Luka,Kesehatan,454142,184
+PRD1234,Obat Nyamuk,Kesehatan,96558,200
+PRD1235,Lotion,Kesehatan,44368,125
+PRD1236,Tabir Surya,Kesehatan,176393,162
+PRD1237,Vitamin E,Kesehatan,94706,81
+PRD1238,Probiotik,Kesehatan,334660,15
+PRD1239,Antasida,Kesehatan,4471,116
+PRD1240,Parasetamol,Kesehatan,145407,54
+PRD1241,Bola Basket,Olahraga,401084,199
+PRD1242,Bola Voli,Olahraga,90397,148
+PRD1243,Raket Badminton,Olahraga,402809,41
+PRD1244,Kok Bulu Tangkis,Olahraga,258679,196
+PRD1245,Matras Yoga,Olahraga,410814,23
+PRD1246,Dumbbell,Olahraga,69845,158
+PRD1247,Skipping,Olahraga,229389,163
+PRD1248,Botol Minum,Olahraga,227134,104
+PRD1249,Hand Grip,Olahraga,226932,123
+PRD1250,Resistance Band,Olahraga,202968,2
+PRD1251,Peluit,Olahraga,21778,137
+PRD1252,Stopwatch,Olahraga,106550,188
+PRD1253,Kaos Olahraga,Olahraga,197612,4
+PRD1254,Handuk,Olahraga,469668,83
+PRD1255,Sepatu Lari,Olahraga,398806,136
+PRD1256,Tas Gym,Olahraga,101917,5
+PRD1257,Topi Olahraga,Olahraga,356810,2
+PRD1258,Gelang Keringat,Olahraga,330564,188
+PRD1259,Sarung Tangan,Olahraga,132454,58
+PRD1260,Bola Sepak,Olahraga,365606,89
+PRD1261,Boneka,Mainan,165626,34
+PRD1262,Mobil Mobilan,Mainan,55848,99
+PRD1263,Puzzle,Mainan,265893,151
+PRD1264,LEGO,Mainan,162492,43
+PRD1265,Rubik,Mainan,36229,12
+PRD1266,Yo Yo,Mainan,158343,75
+PRD1267,Lato Lato,Mainan,241036,187
+PRD1268,Ketapel,Mainan,274780,153
+PRD1269,Kapal Kapalan,Mainan,276788,87
+PRD1270,Layang Layang,Mainan,229365,176
+PRD1271,Kelereng,Mainan,72144,88
+PRD1272,Ular Tangga,Mainan,474584,126
+PRD1273,Monopoli,Mainan,190350,193
+PRD1274,Uno Cards,Mainan,100789,43
+PRD1275,Katapel,Mainan,499069,104
+PRD1276,Tamiya,Mainan,12026,59
+PRD1277,Beyblade,Mainan,119608,187
+PRD1278,Slime,Mainan,70789,55
+PRD1279,Playdoh,Mainan,386867,6
+PRD1280,Balon,Mainan,311168,130
+PRD1281,Kabel USB,Elektronik,90596,32
+PRD1282,Charger HP,Elektronik,194199,183
+PRD1283,Power Bank,Elektronik,343070,10
+PRD1284,Mouse Wireless,Elektronik,198708,164
+PRD1285,Keyboard,Elektronik,136107,198
+PRD1286,Headset,Elektronik,282354,160
+PRD1287,Speaker Bluetooth,Elektronik,27473,153
+PRD1288,Kipas Angin Mini,Elektronik,27145,170
+PRD1289,Lampu LED,Elektronik,58682,168
+PRD1290,Adaptor,Elektronik,440367,6
+PRD1291,Kabel HDMI,Elektronik,27289,177
+PRD1292,Card Reader,Elektronik,62707,107
+PRD1293,USB Hub,Elektronik,234948,98
+PRD1294,Mouse Pad,Elektronik,66799,141
+PRD1295,Webcam,Elektronik,134507,122
+PRD1296,Microphone,Elektronik,369981,40
+PRD1297,Remote TV,Elektronik,109738,178
+PRD1298,Baterai AA,Elektronik,361525,162
+PRD1299,Baterai AAA,Elektronik,6878,78
+PRD1300,Charger Mobil,Elektronik,222657,170
+PRD1301,Mie Instan,Makanan,54942,170
+PRD1302,Biskuit,Makanan,274791,70
+PRD1303,Keripik Kentang,Makanan,328525,156
+PRD1304,Cokelat Batang,Makanan,369382,36
+PRD1305,Permen,Makanan,221585,27
+PRD1306,Kacang Goreng,Makanan,270217,185
+PRD1307,Roti Tawar,Makanan,325851,31
+PRD1308,Sereal,Makanan,150219,30
+PRD1309,Abon Sapi,Makanan,413440,28
+PRD1310,Dendeng,Makanan,262958,51
+PRD1311,Kerupuk Udang,Makanan,321292,52
+PRD1312,Kue Kering,Makanan,409874,68
+PRD1313,Selai Kacang,Makanan,437944,134
+PRD1314,Madu,Makanan,107734,92
+PRD1315,Tepung Terigu,Makanan,370803,105
+PRD1316,Gula Pasir,Makanan,156849,42
+PRD1317,Kopi Bubuk,Makanan,22659,141
+PRD1318,Teh Celup,Makanan,262232,54
+PRD1319,Susu Bubuk,Makanan,362817,124
+PRD1320, Agar-agar,Makanan,175331,61
+PRD1321,Air Mineral,Minuman,3435,4
+PRD1322,Jus Jeruk,Minuman,354129,23
+PRD1323,Soft Drink,Minuman,477466,29
+PRD1324,Teh Botol,Minuman,439902,147
+PRD1325,Kopi Instan,Minuman,352760,127
+PRD1326,Susu UHT,Minuman,80194,24
+PRD1327,Yogurt,Minuman,410696,131
+PRD1328,Minuman Isotonik,Minuman,41346,186
+PRD1329,Sirup,Minuman,381362,26
+PRD1330,Soda,Minuman,476364,66
+PRD1331,Jus Mangga,Minuman,339818,60
+PRD1332,Jus Apel,Minuman,241469,76
+PRD1333,Minuman Berenergi,Minuman,140477,119
+PRD1334,Air Kelapa,Minuman,28256,26
+PRD1335,Susu Kedelai,Minuman,428339,45
+PRD1336,Jahe Instan,Minuman,460301,11
+PRD1337,Cincau,Minuman,448823,75
+PRD1338,Es Krim,Minuman,190856,174
+PRD1339,Milkshake,Minuman,165948,110
+PRD1340,Kefir,Minuman,389207,30
+PRD1341,Pensil 2B,Alat Tulis,51806,195
+PRD1342,Bolpoin Hitam,Alat Tulis,468769,12
+PRD1343,Penghapus,Alat Tulis,7071,36
+PRD1344,Penggaris,Alat Tulis,349789,166
+PRD1345,Buku Tulis,Alat Tulis,91397,85
+PRD1346,Spidol,Alat Tulis,189447,113
+PRD1347,Stabilo,Alat Tulis,328005,69
+PRD1348,Lem Kertas,Alat Tulis,462574,188
+PRD1349,Gunting,Alat Tulis,50733,96
+PRD1350,Cutter,Alat Tulis,429275,88
+PRD1351,Amplop,Alat Tulis,97876,30
+PRD1352,Kertas HVS,Alat Tulis,212122,103
+PRD1353,Map Plastik,Alat Tulis,241357,70
+PRD1354,Binder,Alat Tulis,440151,99
+PRD1355,Klip Kertas,Alat Tulis,363707,123
+PRD1356,Isi Staples,Alat Tulis,421377,108
+PRD1357,Tipe-X,Alat Tulis,342182,43
+PRD1358,Pensil Warna,Alat Tulis,61274,34
+PRD1359,Krayon,Alat Tulis,366993,186
+PRD1360,Cat Air,Alat Tulis,32747,41
+PRD1361,Sapu,Perlengkapan Rumah,56375,107
+PRD1362,Pel,Perlengkapan Rumah,479745,152
+PRD1363,Ember,Perlengkapan Rumah,255060,146
+PRD1364,Lap Mikrofiber,Perlengkapan Rumah,357673,113
+PRD1365,Gelas Kaca,Perlengkapan Rumah,97032,157
+PRD1366,Piring,Perlengkapan Rumah,201098,200
+PRD1367,Mangkok,Perlengkapan Rumah,190009,157
+PRD1368,Sendok Set,Perlengkapan Rumah,17108,176
+PRD1369,Garpu,Perlengkapan Rumah,463347,187
+PRD1370,Pisau Dapur,Perlengkapan Rumah,469540,34
+PRD1371,Talenan,Perlengkapan Rumah,255272,125
+PRD1372,Panci,Perlengkapan Rumah,61211,106
+PRD1373,Wajan,Perlengkapan Rumah,233047,12
+PRD1374,Stoples,Perlengkapan Rumah,35206,67
+PRD1375,Rak Piring,Perlengkapan Rumah,345394,81
+PRD1376,Serbet,Perlengkapan Rumah,8480,181
+PRD1377,Sikat Gigi,Perlengkapan Rumah,457256,174
+PRD1378,Pasta Gigi,Perlengkapan Rumah,277155,197
+PRD1379,Sabun Mandi,Perlengkapan Rumah,391873,148
+PRD1380,Shampoo,Perlengkapan Rumah,381465,145
+PRD1381,Masker,Kesehatan,119432,172
+PRD1382,Hand Sanitizer,Kesehatan,459778,87
+PRD1383,Vitamin C,Kesehatan,274157,134
+PRD1384,Minyak Kayu Putih,Kesehatan,362836,180
+PRD1385,Plester,Kesehatan,326135,25
+PRD1386,Perban,Kesehatan,228936,170
+PRD1387,Obat Flu,Kesehatan,382974,64
+PRD1388,Obat Batuk,Kesehatan,254669,89
+PRD1389,Minuman Herbal,Kesehatan,349975,174
+PRD1390,Suplemen,Kesehatan,338280,99
+PRD1391,Multivitamin,Kesehatan,79937,143
+PRD1392,Minyak Ikan,Kesehatan,469697,157
+PRD1393,Salep Luka,Kesehatan,30608,3
+PRD1394,Obat Nyamuk,Kesehatan,339326,41
+PRD1395,Lotion,Kesehatan,267063,121
+PRD1396,Tabir Surya,Kesehatan,448625,127
+PRD1397,Vitamin E,Kesehatan,457824,43
+PRD1398,Probiotik,Kesehatan,41250,193
+PRD1399,Antasida,Kesehatan,259765,83
+PRD1400,Parasetamol,Kesehatan,128296,85
+PRD1401,Bola Basket,Olahraga,147834,13
+PRD1402,Bola Voli,Olahraga,267776,58
+PRD1403,Raket Badminton,Olahraga,290618,165
+PRD1404,Kok Bulu Tangkis,Olahraga,200515,104
+PRD1405,Matras Yoga,Olahraga,430397,61
+PRD1406,Dumbbell,Olahraga,43329,118
+PRD1407,Skipping,Olahraga,234882,147
+PRD1408,Botol Minum,Olahraga,236932,23
+PRD1409,Hand Grip,Olahraga,451099,128
+PRD1410,Resistance Band,Olahraga,236392,81
+PRD1411,Peluit,Olahraga,64236,128
+PRD1412,Stopwatch,Olahraga,392719,168
+PRD1413,Kaos Olahraga,Olahraga,11316,27
+PRD1414,Handuk,Olahraga,213518,106
+PRD1415,Sepatu Lari,Olahraga,20786,143
+PRD1416,Tas Gym,Olahraga,289885,1
+PRD1417,Topi Olahraga,Olahraga,435014,24
+PRD1418,Gelang Keringat,Olahraga,417122,155
+PRD1419,Sarung Tangan,Olahraga,326568,164
+PRD1420,Bola Sepak,Olahraga,161697,131
+PRD1421,Boneka,Mainan,296824,53
+PRD1422,Mobil Mobilan,Mainan,345196,172
+PRD1423,Puzzle,Mainan,241184,88
+PRD1424,LEGO,Mainan,192496,14
+PRD1425,Rubik,Mainan,430127,58
+PRD1426,Yo Yo,Mainan,444665,117
+PRD1427,Lato Lato,Mainan,176049,144
+PRD1428,Ketapel,Mainan,404347,159
+PRD1429,Kapal Kapalan,Mainan,316547,122
+PRD1430,Layang Layang,Mainan,377735,169
+PRD1431,Kelereng,Mainan,192470,184
+PRD1432,Ular Tangga,Mainan,239257,30
+PRD1433,Monopoli,Mainan,53085,195
+PRD1434,Uno Cards,Mainan,347458,57
+PRD1435,Katapel,Mainan,3151,88
+PRD1436,Tamiya,Mainan,188195,163
+PRD1437,Beyblade,Mainan,421384,75
+PRD1438,Slime,Mainan,289147,134
+PRD1439,Playdoh,Mainan,198026,180
+PRD1440,Balon,Mainan,57743,12
+PRD1441,Kabel USB,Elektronik,472221,43
+PRD1442,Charger HP,Elektronik,260171,36
+PRD1443,Power Bank,Elektronik,432880,184
+PRD1444,Mouse Wireless,Elektronik,391289,185
+PRD1445,Keyboard,Elektronik,216544,28
+PRD1446,Headset,Elektronik,135320,157
+PRD1447,Speaker Bluetooth,Elektronik,104719,49
+PRD1448,Kipas Angin Mini,Elektronik,65305,101
+PRD1449,Lampu LED,Elektronik,115030,118
+PRD1450,Adaptor,Elektronik,434303,49
+PRD1451,Kabel HDMI,Elektronik,377803,87
+PRD1452,Card Reader,Elektronik,58500,194
+PRD1453,USB Hub,Elektronik,219301,12
+PRD1454,Mouse Pad,Elektronik,487819,163
+PRD1455,Webcam,Elektronik,441073,173
+PRD1456,Microphone,Elektronik,310706,32
+PRD1457,Remote TV,Elektronik,406826,116
+PRD1458,Baterai AA,Elektronik,241802,169
+PRD1459,Baterai AAA,Elektronik,310971,130
+PRD1460,Charger Mobil,Elektronik,72588,128
+PRD1461,Mie Instan,Makanan,4274,136
+PRD1462,Biskuit,Makanan,387988,13
+PRD1463,Keripik Kentang,Makanan,292049,111
+PRD1464,Cokelat Batang,Makanan,441781,150
+PRD1465,Permen,Makanan,255195,131
+PRD1466,Kacang Goreng,Makanan,411511,46
+PRD1467,Roti Tawar,Makanan,364711,149
+PRD1468,Sereal,Makanan,93042,188
+PRD1469,Abon Sapi,Makanan,429422,33
+PRD1470,Dendeng,Makanan,56292,100
+PRD1471,Kerupuk Udang,Makanan,346730,154
+PRD1472,Kue Kering,Makanan,319802,83
+PRD1473,Selai Kacang,Makanan,266298,99
+PRD1474,Madu,Makanan,221500,156
+PRD1475,Tepung Terigu,Makanan,482200,178
+PRD1476,Gula Pasir,Makanan,401703,64
+PRD1477,Kopi Bubuk,Makanan,145443,102
+PRD1478,Teh Celup,Makanan,181756,76
+PRD1479,Susu Bubuk,Makanan,239421,35
+PRD1480, Agar-agar,Makanan,74446,106
+PRD1481,Air Mineral,Minuman,317896,180
+PRD1482,Jus Jeruk,Minuman,466748,192
+PRD1483,Soft Drink,Minuman,270589,77
+PRD1484,Teh Botol,Minuman,444013,180
+PRD1485,Kopi Instan,Minuman,289208,81
+PRD1486,Susu UHT,Minuman,375227,189
+PRD1487,Yogurt,Minuman,492477,142
+PRD1488,Minuman Isotonik,Minuman,333655,56
+PRD1489,Sirup,Minuman,107323,54
+PRD1490,Soda,Minuman,329243,183
+PRD1491,Jus Mangga,Minuman,154347,176
+PRD1492,Jus Apel,Minuman,183033,173
+PRD1493,Minuman Berenergi,Minuman,71558,182
+PRD1494,Air Kelapa,Minuman,342832,46
+PRD1495,Susu Kedelai,Minuman,266185,139
+PRD1496,Jahe Instan,Minuman,366019,164
+PRD1497,Cincau,Minuman,171020,182
+PRD1498,Es Krim,Minuman,62505,195
+PRD1499,Milkshake,Minuman,186674,144
+PRD1500,Kefir,Minuman,253852,150
+PRD1501,Pensil 2B,Alat Tulis,301178,171
+PRD1502,Bolpoin Hitam,Alat Tulis,374309,107
+PRD1503,Penghapus,Alat Tulis,355497,192
+PRD1504,Penggaris,Alat Tulis,470643,137
+PRD1505,Buku Tulis,Alat Tulis,151908,109
+PRD1506,Spidol,Alat Tulis,425784,4
+PRD1507,Stabilo,Alat Tulis,276061,28
+PRD1508,Lem Kertas,Alat Tulis,15249,98
+PRD1509,Gunting,Alat Tulis,78193,14
+PRD1510,Cutter,Alat Tulis,353406,15
+PRD1511,Amplop,Alat Tulis,106806,69
+PRD1512,Kertas HVS,Alat Tulis,395313,42
+PRD1513,Map Plastik,Alat Tulis,152269,175
+PRD1514,Binder,Alat Tulis,133366,38
+PRD1515,Klip Kertas,Alat Tulis,442077,16
+PRD1516,Isi Staples,Alat Tulis,364070,76
+PRD1517,Tipe-X,Alat Tulis,108955,193
+PRD1518,Pensil Warna,Alat Tulis,285730,9
+PRD1519,Krayon,Alat Tulis,190052,116
+PRD1520,Cat Air,Alat Tulis,55729,158
+PRD1521,Sapu,Perlengkapan Rumah,457100,173
+PRD1522,Pel,Perlengkapan Rumah,389707,144
+PRD1523,Ember,Perlengkapan Rumah,455426,58
+PRD1524,Lap Mikrofiber,Perlengkapan Rumah,391238,166
+PRD1525,Gelas Kaca,Perlengkapan Rumah,296267,100
+PRD1526,Piring,Perlengkapan Rumah,126568,131
+PRD1527,Mangkok,Perlengkapan Rumah,413202,179
+PRD1528,Sendok Set,Perlengkapan Rumah,152805,178
+PRD1529,Garpu,Perlengkapan Rumah,350386,13
+PRD1530,Pisau Dapur,Perlengkapan Rumah,487744,98
+PRD1531,Talenan,Perlengkapan Rumah,205190,107
+PRD1532,Panci,Perlengkapan Rumah,415197,176
+PRD1533,Wajan,Perlengkapan Rumah,165920,142
+PRD1534,Stoples,Perlengkapan Rumah,30207,4
+PRD1535,Rak Piring,Perlengkapan Rumah,391897,65
+PRD1536,Serbet,Perlengkapan Rumah,108476,159
+PRD1537,Sikat Gigi,Perlengkapan Rumah,457527,200
+PRD1538,Pasta Gigi,Perlengkapan Rumah,453120,114
+PRD1539,Sabun Mandi,Perlengkapan Rumah,437150,58
+PRD1540,Shampoo,Perlengkapan Rumah,479881,163
+PRD1541,Masker,Kesehatan,371428,182
+PRD1542,Hand Sanitizer,Kesehatan,341545,95
+PRD1543,Vitamin C,Kesehatan,397893,151
+PRD1544,Minyak Kayu Putih,Kesehatan,288583,190
+PRD1545,Plester,Kesehatan,318348,51
+PRD1546,Perban,Kesehatan,408924,186
+PRD1547,Obat Flu,Kesehatan,103448,76
+PRD1548,Obat Batuk,Kesehatan,237308,46
+PRD1549,Minuman Herbal,Kesehatan,359909,20
+PRD1550,Suplemen,Kesehatan,100029,45
+PRD1551,Multivitamin,Kesehatan,387393,132
+PRD1552,Minyak Ikan,Kesehatan,64575,97
+PRD1553,Salep Luka,Kesehatan,23304,110
+PRD1554,Obat Nyamuk,Kesehatan,148335,143
+PRD1555,Lotion,Kesehatan,140537,34
+PRD1556,Tabir Surya,Kesehatan,86373,150
+PRD1557,Vitamin E,Kesehatan,445555,66
+PRD1558,Probiotik,Kesehatan,4959,85
+PRD1559,Antasida,Kesehatan,246491,182
+PRD1560,Parasetamol,Kesehatan,493517,40
+PRD1561,Bola Basket,Olahraga,22940,40
+PRD1562,Bola Voli,Olahraga,488868,83
+PRD1563,Raket Badminton,Olahraga,314937,14
+PRD1564,Kok Bulu Tangkis,Olahraga,407621,161
+PRD1565,Matras Yoga,Olahraga,324756,170
+PRD1566,Dumbbell,Olahraga,159891,126
+PRD1567,Skipping,Olahraga,416139,147
+PRD1568,Botol Minum,Olahraga,290442,92
+PRD1569,Hand Grip,Olahraga,40210,182
+PRD1570,Resistance Band,Olahraga,168649,135
+PRD1571,Peluit,Olahraga,117323,48
+PRD1572,Stopwatch,Olahraga,274947,18
+PRD1573,Kaos Olahraga,Olahraga,414225,130
+PRD1574,Handuk,Olahraga,85556,107
+PRD1575,Sepatu Lari,Olahraga,286730,138
+PRD1576,Tas Gym,Olahraga,213506,24
+PRD1577,Topi Olahraga,Olahraga,185187,57
+PRD1578,Gelang Keringat,Olahraga,465154,55
+PRD1579,Sarung Tangan,Olahraga,349778,85
+PRD1580,Bola Sepak,Olahraga,175574,93
+PRD1581,Boneka,Mainan,155917,56
+PRD1582,Mobil Mobilan,Mainan,396608,159
+PRD1583,Puzzle,Mainan,280134,122
+PRD1584,LEGO,Mainan,296301,193
+PRD1585,Rubik,Mainan,342420,3
+PRD1586,Yo Yo,Mainan,62147,172
+PRD1587,Lato Lato,Mainan,183407,115
+PRD1588,Ketapel,Mainan,128011,165
+PRD1589,Kapal Kapalan,Mainan,323756,160
+PRD1590,Layang Layang,Mainan,129835,11
+PRD1591,Kelereng,Mainan,359853,83
+PRD1592,Ular Tangga,Mainan,201949,30
+PRD1593,Monopoli,Mainan,204310,66
+PRD1594,Uno Cards,Mainan,285239,186
+PRD1595,Katapel,Mainan,150283,7
+PRD1596,Tamiya,Mainan,479802,133
+PRD1597,Beyblade,Mainan,433021,198
+PRD1598,Slime,Mainan,198586,132
+PRD1599,Playdoh,Mainan,422907,131
+PRD1600,Balon,Mainan,235600,125
+PRD1601,Kabel USB,Elektronik,24990,76
+PRD1602,Charger HP,Elektronik,472958,167
+PRD1603,Power Bank,Elektronik,102931,83
+PRD1604,Mouse Wireless,Elektronik,271428,22
+PRD1605,Keyboard,Elektronik,499136,25
+PRD1606,Headset,Elektronik,89763,198
+PRD1607,Speaker Bluetooth,Elektronik,284053,137
+PRD1608,Kipas Angin Mini,Elektronik,5843,161
+PRD1609,Lampu LED,Elektronik,36326,54
+PRD1610,Adaptor,Elektronik,353448,162
+PRD1611,Kabel HDMI,Elektronik,407579,55
+PRD1612,Card Reader,Elektronik,455483,176
+PRD1613,USB Hub,Elektronik,224407,27
+PRD1614,Mouse Pad,Elektronik,109782,138
+PRD1615,Webcam,Elektronik,436502,180
+PRD1616,Microphone,Elektronik,462658,190
+PRD1617,Remote TV,Elektronik,408431,112
+PRD1618,Baterai AA,Elektronik,340984,19
+PRD1619,Baterai AAA,Elektronik,393585,176
+PRD1620,Charger Mobil,Elektronik,82611,7
+PRD1621,Mie Instan,Makanan,242766,184
+PRD1622,Biskuit,Makanan,175914,10
+PRD1623,Keripik Kentang,Makanan,47886,19
+PRD1624,Cokelat Batang,Makanan,30452,46
+PRD1625,Permen,Makanan,418397,65
+PRD1626,Kacang Goreng,Makanan,294596,19
+PRD1627,Roti Tawar,Makanan,303445,59
+PRD1628,Sereal,Makanan,479619,67
+PRD1629,Abon Sapi,Makanan,215716,100
+PRD1630,Dendeng,Makanan,238519,162
+PRD1631,Kerupuk Udang,Makanan,214047,111
+PRD1632,Kue Kering,Makanan,167886,5
+PRD1633,Selai Kacang,Makanan,206211,173
+PRD1634,Madu,Makanan,64026,137
+PRD1635,Tepung Terigu,Makanan,5092,165
+PRD1636,Gula Pasir,Makanan,379637,159
+PRD1637,Kopi Bubuk,Makanan,35154,194
+PRD1638,Teh Celup,Makanan,393093,150
+PRD1639,Susu Bubuk,Makanan,25863,180
+PRD1640, Agar-agar,Makanan,446727,19
+PRD1641,Air Mineral,Minuman,189537,129
+PRD1642,Jus Jeruk,Minuman,57645,75
+PRD1643,Soft Drink,Minuman,414557,176
+PRD1644,Teh Botol,Minuman,159994,156
+PRD1645,Kopi Instan,Minuman,47353,73
+PRD1646,Susu UHT,Minuman,403224,113
+PRD1647,Yogurt,Minuman,201970,102
+PRD1648,Minuman Isotonik,Minuman,433028,170
+PRD1649,Sirup,Minuman,18158,122
+PRD1650,Soda,Minuman,83958,137
+PRD1651,Jus Mangga,Minuman,117272,35
+PRD1652,Jus Apel,Minuman,393514,101
+PRD1653,Minuman Berenergi,Minuman,419737,140
+PRD1654,Air Kelapa,Minuman,156653,163
+PRD1655,Susu Kedelai,Minuman,77537,77
+PRD1656,Jahe Instan,Minuman,357094,187
+PRD1657,Cincau,Minuman,341707,96
+PRD1658,Es Krim,Minuman,499793,3
+PRD1659,Milkshake,Minuman,292206,143
+PRD1660,Kefir,Minuman,76120,32
+PRD1661,Pensil 2B,Alat Tulis,23901,2
+PRD1662,Bolpoin Hitam,Alat Tulis,302269,153
+PRD1663,Penghapus,Alat Tulis,208612,138
+PRD1664,Penggaris,Alat Tulis,289061,22
+PRD1665,Buku Tulis,Alat Tulis,161745,54
+PRD1666,Spidol,Alat Tulis,394322,190
+PRD1667,Stabilo,Alat Tulis,475718,186
+PRD1668,Lem Kertas,Alat Tulis,182277,55
+PRD1669,Gunting,Alat Tulis,218349,166
+PRD1670,Cutter,Alat Tulis,448409,132
+PRD1671,Amplop,Alat Tulis,76687,42
+PRD1672,Kertas HVS,Alat Tulis,98465,57
+PRD1673,Map Plastik,Alat Tulis,325425,65
+PRD1674,Binder,Alat Tulis,103882,30
+PRD1675,Klip Kertas,Alat Tulis,97083,172
+PRD1676,Isi Staples,Alat Tulis,421252,146
+PRD1677,Tipe-X,Alat Tulis,448825,14
+PRD1678,Pensil Warna,Alat Tulis,448372,193
+PRD1679,Krayon,Alat Tulis,490830,141
+PRD1680,Cat Air,Alat Tulis,243835,166
+PRD1681,Sapu,Perlengkapan Rumah,290182,19
+PRD1682,Pel,Perlengkapan Rumah,154385,172
+PRD1683,Ember,Perlengkapan Rumah,37317,65
+PRD1684,Lap Mikrofiber,Perlengkapan Rumah,53486,51
+PRD1685,Gelas Kaca,Perlengkapan Rumah,382417,149
+PRD1686,Piring,Perlengkapan Rumah,257428,85
+PRD1687,Mangkok,Perlengkapan Rumah,189243,33
+PRD1688,Sendok Set,Perlengkapan Rumah,353952,168
+PRD1689,Garpu,Perlengkapan Rumah,124962,26
+PRD1690,Pisau Dapur,Perlengkapan Rumah,151493,159
+PRD1691,Talenan,Perlengkapan Rumah,38599,50
+PRD1692,Panci,Perlengkapan Rumah,168611,125
+PRD1693,Wajan,Perlengkapan Rumah,238268,85
+PRD1694,Stoples,Perlengkapan Rumah,325140,169
+PRD1695,Rak Piring,Perlengkapan Rumah,162261,178
+PRD1696,Serbet,Perlengkapan Rumah,308273,40
+PRD1697,Sikat Gigi,Perlengkapan Rumah,298512,146
+PRD1698,Pasta Gigi,Perlengkapan Rumah,193099,81
+PRD1699,Sabun Mandi,Perlengkapan Rumah,226556,44
+PRD1700,Shampoo,Perlengkapan Rumah,4533,81
+PRD1701,Masker,Kesehatan,131066,57
+PRD1702,Hand Sanitizer,Kesehatan,375397,190
+PRD1703,Vitamin C,Kesehatan,337983,112
+PRD1704,Minyak Kayu Putih,Kesehatan,147059,93
+PRD1705,Plester,Kesehatan,72414,174
+PRD1706,Perban,Kesehatan,386288,85
+PRD1707,Obat Flu,Kesehatan,462265,123
+PRD1708,Obat Batuk,Kesehatan,244665,115
+PRD1709,Minuman Herbal,Kesehatan,190083,199
+PRD1710,Suplemen,Kesehatan,162155,125
+PRD1711,Multivitamin,Kesehatan,291234,28
+PRD1712,Minyak Ikan,Kesehatan,94154,166
+PRD1713,Salep Luka,Kesehatan,320047,21
+PRD1714,Obat Nyamuk,Kesehatan,443341,72
+PRD1715,Lotion,Kesehatan,452213,36
+PRD1716,Tabir Surya,Kesehatan,469296,138
+PRD1717,Vitamin E,Kesehatan,104986,68
+PRD1718,Probiotik,Kesehatan,386588,161
+PRD1719,Antasida,Kesehatan,42088,187
+PRD1720,Parasetamol,Kesehatan,41531,5
+PRD1721,Bola Basket,Olahraga,447428,130
+PRD1722,Bola Voli,Olahraga,333154,8
+PRD1723,Raket Badminton,Olahraga,428058,149
+PRD1724,Kok Bulu Tangkis,Olahraga,305510,104
+PRD1725,Matras Yoga,Olahraga,405282,152
+PRD1726,Dumbbell,Olahraga,113547,10
+PRD1727,Skipping,Olahraga,291194,67
+PRD1728,Botol Minum,Olahraga,286934,139
+PRD1729,Hand Grip,Olahraga,249518,168
+PRD1730,Resistance Band,Olahraga,408426,39
+PRD1731,Peluit,Olahraga,193794,101
+PRD1732,Stopwatch,Olahraga,119076,198
+PRD1733,Kaos Olahraga,Olahraga,311120,188
+PRD1734,Handuk,Olahraga,451400,75
+PRD1735,Sepatu Lari,Olahraga,72192,119
+PRD1736,Tas Gym,Olahraga,264732,131
+PRD1737,Topi Olahraga,Olahraga,49476,102
+PRD1738,Gelang Keringat,Olahraga,192770,129
+PRD1739,Sarung Tangan,Olahraga,7553,170
+PRD1740,Bola Sepak,Olahraga,127242,158
+PRD1741,Boneka,Mainan,360697,43
+PRD1742,Mobil Mobilan,Mainan,398994,132
+PRD1743,Puzzle,Mainan,75594,115
+PRD1744,LEGO,Mainan,85478,46
+PRD1745,Rubik,Mainan,298934,145
+PRD1746,Yo Yo,Mainan,347722,38
+PRD1747,Lato Lato,Mainan,387833,188
+PRD1748,Ketapel,Mainan,255495,92
+PRD1749,Kapal Kapalan,Mainan,23191,57
+PRD1750,Layang Layang,Mainan,401230,125
+PRD1751,Kelereng,Mainan,123503,17
+PRD1752,Ular Tangga,Mainan,140599,95
+PRD1753,Monopoli,Mainan,124693,11
+PRD1754,Uno Cards,Mainan,352531,53
+PRD1755,Katapel,Mainan,273521,93
+PRD1756,Tamiya,Mainan,205472,121
+PRD1757,Beyblade,Mainan,483244,117
+PRD1758,Slime,Mainan,464187,12
+PRD1759,Playdoh,Mainan,22921,167
+PRD1760,Balon,Mainan,171906,27
+PRD1761,Kabel USB,Elektronik,370960,134
+PRD1762,Charger HP,Elektronik,334171,71
+PRD1763,Power Bank,Elektronik,439713,190
+PRD1764,Mouse Wireless,Elektronik,140053,149
+PRD1765,Keyboard,Elektronik,287396,146
+PRD1766,Headset,Elektronik,93147,97
+PRD1767,Speaker Bluetooth,Elektronik,344714,97
+PRD1768,Kipas Angin Mini,Elektronik,193520,151
+PRD1769,Lampu LED,Elektronik,344536,20
+PRD1770,Adaptor,Elektronik,272880,65
+PRD1771,Kabel HDMI,Elektronik,199304,58
+PRD1772,Card Reader,Elektronik,272727,104
+PRD1773,USB Hub,Elektronik,187020,89
+PRD1774,Mouse Pad,Elektronik,257255,124
+PRD1775,Webcam,Elektronik,467133,155
+PRD1776,Microphone,Elektronik,5459,129
+PRD1777,Remote TV,Elektronik,464439,36
+PRD1778,Baterai AA,Elektronik,232633,43
+PRD1779,Baterai AAA,Elektronik,122581,20
+PRD1780,Charger Mobil,Elektronik,271767,165
+PRD1781,Mie Instan,Makanan,149225,55
+PRD1782,Biskuit,Makanan,80769,48
+PRD1783,Keripik Kentang,Makanan,84500,93
+PRD1784,Cokelat Batang,Makanan,317632,184
+PRD1785,Permen,Makanan,430319,31
+PRD1786,Kacang Goreng,Makanan,348611,59
+PRD1787,Roti Tawar,Makanan,219376,85
+PRD1788,Sereal,Makanan,379621,30
+PRD1789,Abon Sapi,Makanan,254453,173
+PRD1790,Dendeng,Makanan,253036,123
+PRD1791,Kerupuk Udang,Makanan,112469,152
+PRD1792,Kue Kering,Makanan,86539,166
+PRD1793,Selai Kacang,Makanan,438923,106
+PRD1794,Madu,Makanan,13768,63
+PRD1795,Tepung Terigu,Makanan,24620,33
+PRD1796,Gula Pasir,Makanan,302672,152
+PRD1797,Kopi Bubuk,Makanan,86478,35
+PRD1798,Teh Celup,Makanan,332060,132
+PRD1799,Susu Bubuk,Makanan,22547,147
+PRD1800, Agar-agar,Makanan,78999,15
+PRD1801,Air Mineral,Minuman,89210,67
+PRD1802,Jus Jeruk,Minuman,485627,47
+PRD1803,Soft Drink,Minuman,272868,104
+PRD1804,Teh Botol,Minuman,316235,145
+PRD1805,Kopi Instan,Minuman,336297,5
+PRD1806,Susu UHT,Minuman,462591,185
+PRD1807,Yogurt,Minuman,383668,170
+PRD1808,Minuman Isotonik,Minuman,432599,73
+PRD1809,Sirup,Minuman,498633,22
+PRD1810,Soda,Minuman,115557,115
+PRD1811,Jus Mangga,Minuman,319994,121
+PRD1812,Jus Apel,Minuman,456716,124
+PRD1813,Minuman Berenergi,Minuman,91426,57
+PRD1814,Air Kelapa,Minuman,437349,106
+PRD1815,Susu Kedelai,Minuman,317012,37
+PRD1816,Jahe Instan,Minuman,418607,150
+PRD1817,Cincau,Minuman,432153,197
+PRD1818,Es Krim,Minuman,97359,160
+PRD1819,Milkshake,Minuman,347845,131
+PRD1820,Kefir,Minuman,140685,43
+PRD1821,Pensil 2B,Alat Tulis,381682,176
+PRD1822,Bolpoin Hitam,Alat Tulis,181658,117
+PRD1823,Penghapus,Alat Tulis,314755,152
+PRD1824,Penggaris,Alat Tulis,38093,59
+PRD1825,Buku Tulis,Alat Tulis,200291,99
+PRD1826,Spidol,Alat Tulis,71317,28
+PRD1827,Stabilo,Alat Tulis,10683,52
+PRD1828,Lem Kertas,Alat Tulis,276051,130
+PRD1829,Gunting,Alat Tulis,360805,108
+PRD1830,Cutter,Alat Tulis,435331,39
+PRD1831,Amplop,Alat Tulis,319462,25
+PRD1832,Kertas HVS,Alat Tulis,95020,122
+PRD1833,Map Plastik,Alat Tulis,474702,158
+PRD1834,Binder,Alat Tulis,316475,10
+PRD1835,Klip Kertas,Alat Tulis,462195,137
+PRD1836,Isi Staples,Alat Tulis,265889,193
+PRD1837,Tipe-X,Alat Tulis,63612,24
+PRD1838,Pensil Warna,Alat Tulis,254833,169
+PRD1839,Krayon,Alat Tulis,70329,155
+PRD1840,Cat Air,Alat Tulis,284741,1
+PRD1841,Sapu,Perlengkapan Rumah,472270,199
+PRD1842,Pel,Perlengkapan Rumah,357760,167
+PRD1843,Ember,Perlengkapan Rumah,228228,134
+PRD1844,Lap Mikrofiber,Perlengkapan Rumah,222559,95
+PRD1845,Gelas Kaca,Perlengkapan Rumah,460659,12
+PRD1846,Piring,Perlengkapan Rumah,367765,136
+PRD1847,Mangkok,Perlengkapan Rumah,226896,59
+PRD1848,Sendok Set,Perlengkapan Rumah,494003,124
+PRD1849,Garpu,Perlengkapan Rumah,415954,197
+PRD1850,Pisau Dapur,Perlengkapan Rumah,201877,90
+PRD1851,Talenan,Perlengkapan Rumah,310830,190
+PRD1852,Panci,Perlengkapan Rumah,477979,195
+PRD1853,Wajan,Perlengkapan Rumah,440928,179
+PRD1854,Stoples,Perlengkapan Rumah,304053,26
+PRD1855,Rak Piring,Perlengkapan Rumah,225078,35
+PRD1856,Serbet,Perlengkapan Rumah,135440,123
+PRD1857,Sikat Gigi,Perlengkapan Rumah,403530,60
+PRD1858,Pasta Gigi,Perlengkapan Rumah,479146,22
+PRD1859,Sabun Mandi,Perlengkapan Rumah,150513,154
+PRD1860,Shampoo,Perlengkapan Rumah,461678,140
+PRD1861,Masker,Kesehatan,216248,66
+PRD1862,Hand Sanitizer,Kesehatan,101101,2
+PRD1863,Vitamin C,Kesehatan,373798,191
+PRD1864,Minyak Kayu Putih,Kesehatan,415884,2
+PRD1865,Plester,Kesehatan,305031,134
+PRD1866,Perban,Kesehatan,63776,134
+PRD1867,Obat Flu,Kesehatan,5771,97
+PRD1868,Obat Batuk,Kesehatan,345170,53
+PRD1869,Minuman Herbal,Kesehatan,362587,81
+PRD1870,Suplemen,Kesehatan,216352,93
+PRD1871,Multivitamin,Kesehatan,57880,40
+PRD1872,Minyak Ikan,Kesehatan,225384,167
+PRD1873,Salep Luka,Kesehatan,308902,65
+PRD1874,Obat Nyamuk,Kesehatan,138997,138
+PRD1875,Lotion,Kesehatan,224068,145
+PRD1876,Tabir Surya,Kesehatan,193702,157
+PRD1877,Vitamin E,Kesehatan,146473,175
+PRD1878,Probiotik,Kesehatan,210380,194
+PRD1879,Antasida,Kesehatan,108794,106
+PRD1880,Parasetamol,Kesehatan,291461,143
+PRD1881,Bola Basket,Olahraga,254952,46
+PRD1882,Bola Voli,Olahraga,196098,144
+PRD1883,Raket Badminton,Olahraga,292933,124
+PRD1884,Kok Bulu Tangkis,Olahraga,135052,79
+PRD1885,Matras Yoga,Olahraga,304855,89
+PRD1886,Dumbbell,Olahraga,407900,181
+PRD1887,Skipping,Olahraga,210734,189
+PRD1888,Botol Minum,Olahraga,74387,169
+PRD1889,Hand Grip,Olahraga,64435,192
+PRD1890,Resistance Band,Olahraga,122466,115
+PRD1891,Peluit,Olahraga,412574,180
+PRD1892,Stopwatch,Olahraga,499677,42
+PRD1893,Kaos Olahraga,Olahraga,54574,55
+PRD1894,Handuk,Olahraga,268518,103
+PRD1895,Sepatu Lari,Olahraga,414132,87
+PRD1896,Tas Gym,Olahraga,421878,141
+PRD1897,Topi Olahraga,Olahraga,323926,179
+PRD1898,Gelang Keringat,Olahraga,360908,181
+PRD1899,Sarung Tangan,Olahraga,29290,42
+PRD1900,Bola Sepak,Olahraga,206002,163
+PRD1901,Boneka,Mainan,4773,24
+PRD1902,Mobil Mobilan,Mainan,433622,38
+PRD1903,Puzzle,Mainan,249290,154
+PRD1904,LEGO,Mainan,230263,23
+PRD1905,Rubik,Mainan,35596,68
+PRD1906,Yo Yo,Mainan,118271,95
+PRD1907,Lato Lato,Mainan,43963,156
+PRD1908,Ketapel,Mainan,21794,186
+PRD1909,Kapal Kapalan,Mainan,203497,103
+PRD1910,Layang Layang,Mainan,323894,168
+PRD1911,Kelereng,Mainan,275156,74
+PRD1912,Ular Tangga,Mainan,375086,153
+PRD1913,Monopoli,Mainan,32127,199
+PRD1914,Uno Cards,Mainan,432036,45
+PRD1915,Katapel,Mainan,337697,127
+PRD1916,Tamiya,Mainan,232147,3
+PRD1917,Beyblade,Mainan,107752,169
+PRD1918,Slime,Mainan,489985,133
+PRD1919,Playdoh,Mainan,151949,50
+PRD1920,Balon,Mainan,19620,154
+PRD1921,Kabel USB,Elektronik,269674,133
+PRD1922,Charger HP,Elektronik,368188,60
+PRD1923,Power Bank,Elektronik,324536,44
+PRD1924,Mouse Wireless,Elektronik,355382,10
+PRD1925,Keyboard,Elektronik,190607,62
+PRD1926,Headset,Elektronik,345418,1
+PRD1927,Speaker Bluetooth,Elektronik,84546,23
+PRD1928,Kipas Angin Mini,Elektronik,146670,200
+PRD1929,Lampu LED,Elektronik,211418,91
+PRD1930,Adaptor,Elektronik,353095,102
+PRD1931,Kabel HDMI,Elektronik,214573,151
+PRD1932,Card Reader,Elektronik,107020,133
+PRD1933,USB Hub,Elektronik,10056,189
+PRD1934,Mouse Pad,Elektronik,370900,18
+PRD1935,Webcam,Elektronik,483913,24
+PRD1936,Microphone,Elektronik,290144,73
+PRD1937,Remote TV,Elektronik,382705,144
+PRD1938,Baterai AA,Elektronik,481728,150
+PRD1939,Baterai AAA,Elektronik,184502,89
+PRD1940,Charger Mobil,Elektronik,429564,71
+PRD1941,Mie Instan,Makanan,120644,156
+PRD1942,Biskuit,Makanan,103987,117
+PRD1943,Keripik Kentang,Makanan,489437,104
+PRD1944,Cokelat Batang,Makanan,303416,2
+PRD1945,Permen,Makanan,138895,45
+PRD1946,Kacang Goreng,Makanan,215455,130
+PRD1947,Roti Tawar,Makanan,57818,144
+PRD1948,Sereal,Makanan,39951,129
+PRD1949,Abon Sapi,Makanan,156272,88
+PRD1950,Dendeng,Makanan,498508,30
+PRD1951,Kerupuk Udang,Makanan,422972,132
+PRD1952,Kue Kering,Makanan,137105,138
+PRD1953,Selai Kacang,Makanan,428323,148
+PRD1954,Madu,Makanan,133146,178
+PRD1955,Tepung Terigu,Makanan,234138,97
+PRD1956,Gula Pasir,Makanan,297262,124
+PRD1957,Kopi Bubuk,Makanan,405684,63
+PRD1958,Teh Celup,Makanan,399134,87
+PRD1959,Susu Bubuk,Makanan,408637,118
+PRD1960, Agar-agar,Makanan,359351,118
+PRD1961,Air Mineral,Minuman,472036,151
+PRD1962,Jus Jeruk,Minuman,453948,8
+PRD1963,Soft Drink,Minuman,254691,30
+PRD1964,Teh Botol,Minuman,137171,18
+PRD1965,Kopi Instan,Minuman,202630,163
+PRD1966,Susu UHT,Minuman,415482,57
+PRD1967,Yogurt,Minuman,356897,180
+PRD1968,Minuman Isotonik,Minuman,122549,81
+PRD1969,Sirup,Minuman,218229,91
+PRD1970,Soda,Minuman,272796,138
+PRD1971,Jus Mangga,Minuman,7097,180
+PRD1972,Jus Apel,Minuman,438300,68
+PRD1973,Minuman Berenergi,Minuman,132158,74
+PRD1974,Air Kelapa,Minuman,50763,103
+PRD1975,Susu Kedelai,Minuman,355211,192
+PRD1976,Jahe Instan,Minuman,432479,88
+PRD1977,Cincau,Minuman,41860,142
+PRD1978,Es Krim,Minuman,490319,46
+PRD1979,Milkshake,Minuman,251852,81
+PRD1980,Kefir,Minuman,187355,56
+PRD1981,Pensil 2B,Alat Tulis,470879,147
+PRD1982,Bolpoin Hitam,Alat Tulis,143073,47
+PRD1983,Penghapus,Alat Tulis,498562,192
+PRD1984,Penggaris,Alat Tulis,360144,49
+PRD1985,Buku Tulis,Alat Tulis,263619,189
+PRD1986,Spidol,Alat Tulis,106682,61
+PRD1987,Stabilo,Alat Tulis,387576,62
+PRD1988,Lem Kertas,Alat Tulis,459568,68
+PRD1989,Gunting,Alat Tulis,110411,59
+PRD1990,Cutter,Alat Tulis,108308,64
+PRD1991,Amplop,Alat Tulis,440480,159
+PRD1992,Kertas HVS,Alat Tulis,188660,40
+PRD1993,Map Plastik,Alat Tulis,410388,28
+PRD1994,Binder,Alat Tulis,64850,21
+PRD1995,Klip Kertas,Alat Tulis,356320,170
+PRD1996,Isi Staples,Alat Tulis,260298,158
+PRD1997,Tipe-X,Alat Tulis,5472,196
+PRD1998,Pensil Warna,Alat Tulis,451361,139
+PRD1999,Krayon,Alat Tulis,24158,124
+PRD2000,Cat Air,Alat Tulis,196613,159
+PRD2001,Sapu,Perlengkapan Rumah,167369,127
+PRD2002,Pel,Perlengkapan Rumah,472874,148
+PRD2003,Ember,Perlengkapan Rumah,457485,71
+PRD2004,Lap Mikrofiber,Perlengkapan Rumah,259323,47
+PRD2005,Gelas Kaca,Perlengkapan Rumah,402693,131
+PRD2006,Piring,Perlengkapan Rumah,148940,102
+PRD2007,Mangkok,Perlengkapan Rumah,118440,193
+PRD2008,Sendok Set,Perlengkapan Rumah,304338,33
+PRD2009,Garpu,Perlengkapan Rumah,30389,135
+PRD2010,Pisau Dapur,Perlengkapan Rumah,421047,109
+PRD2011,Talenan,Perlengkapan Rumah,252777,139
+PRD2012,Panci,Perlengkapan Rumah,19072,129
+PRD2013,Wajan,Perlengkapan Rumah,184079,101
+PRD2014,Stoples,Perlengkapan Rumah,453097,176
+PRD2015,Rak Piring,Perlengkapan Rumah,408797,45
+PRD2016,Serbet,Perlengkapan Rumah,241702,31
+PRD2017,Sikat Gigi,Perlengkapan Rumah,368081,133
+PRD2018,Pasta Gigi,Perlengkapan Rumah,243209,81
+PRD2019,Sabun Mandi,Perlengkapan Rumah,363344,3
+PRD2020,Shampoo,Perlengkapan Rumah,8197,173
+PRD2021,Masker,Kesehatan,112494,98
+PRD2022,Hand Sanitizer,Kesehatan,306615,26
+PRD2023,Vitamin C,Kesehatan,172622,93
+PRD2024,Minyak Kayu Putih,Kesehatan,323272,67
+PRD2025,Plester,Kesehatan,100121,141
+PRD2026,Perban,Kesehatan,139808,61
+PRD2027,Obat Flu,Kesehatan,143247,121
+PRD2028,Obat Batuk,Kesehatan,323432,88
+PRD2029,Minuman Herbal,Kesehatan,193849,48
+PRD2030,Suplemen,Kesehatan,263499,109
+PRD2031,Multivitamin,Kesehatan,112379,108
+PRD2032,Minyak Ikan,Kesehatan,369375,193
+PRD2033,Salep Luka,Kesehatan,197197,94
+PRD2034,Obat Nyamuk,Kesehatan,449912,103
+PRD2035,Lotion,Kesehatan,148606,116
+PRD2036,Tabir Surya,Kesehatan,96313,147
+PRD2037,Vitamin E,Kesehatan,70754,148
+PRD2038,Probiotik,Kesehatan,361667,59
+PRD2039,Antasida,Kesehatan,428870,26
+PRD2040,Parasetamol,Kesehatan,379914,70
+PRD2041,Bola Basket,Olahraga,423573,61
+PRD2042,Bola Voli,Olahraga,293158,111
+PRD2043,Raket Badminton,Olahraga,450952,98
+PRD2044,Kok Bulu Tangkis,Olahraga,104793,38
+PRD2045,Matras Yoga,Olahraga,421450,190
+PRD2046,Dumbbell,Olahraga,80406,122
+PRD2047,Skipping,Olahraga,424402,3
+PRD2048,Botol Minum,Olahraga,94593,108
+PRD2049,Hand Grip,Olahraga,263933,35
+PRD2050,Resistance Band,Olahraga,470330,162
+PRD2051,Peluit,Olahraga,273060,137
+PRD2052,Stopwatch,Olahraga,379781,81
+PRD2053,Kaos Olahraga,Olahraga,413740,125
+PRD2054,Handuk,Olahraga,159304,65
+PRD2055,Sepatu Lari,Olahraga,296722,146
+PRD2056,Tas Gym,Olahraga,27013,102
+PRD2057,Topi Olahraga,Olahraga,53891,177
+PRD2058,Gelang Keringat,Olahraga,87638,16
+PRD2059,Sarung Tangan,Olahraga,114966,66
+PRD2060,Bola Sepak,Olahraga,251843,162
+PRD2061,Boneka,Mainan,52489,116
+PRD2062,Mobil Mobilan,Mainan,392381,86
+PRD2063,Puzzle,Mainan,138193,93
+PRD2064,LEGO,Mainan,190904,144
+PRD2065,Rubik,Mainan,294286,66
+PRD2066,Yo Yo,Mainan,182428,6
+PRD2067,Lato Lato,Mainan,217881,32
+PRD2068,Ketapel,Mainan,186072,174
+PRD2069,Kapal Kapalan,Mainan,319496,51
+PRD2070,Layang Layang,Mainan,304437,148
+PRD2071,Kelereng,Mainan,342716,167
+PRD2072,Ular Tangga,Mainan,284296,45
+PRD2073,Monopoli,Mainan,411106,73
+PRD2074,Uno Cards,Mainan,188179,84
+PRD2075,Katapel,Mainan,354946,131
+PRD2076,Tamiya,Mainan,257587,199
+PRD2077,Beyblade,Mainan,388151,115
+PRD2078,Slime,Mainan,468423,21
+PRD2079,Playdoh,Mainan,201790,158
+PRD2080,Balon,Mainan,152220,119
+PRD2081,Kabel USB,Elektronik,333199,38
+PRD2082,Charger HP,Elektronik,457217,43
+PRD2083,Power Bank,Elektronik,337848,87
+PRD2084,Mouse Wireless,Elektronik,223153,162
+PRD2085,Keyboard,Elektronik,323026,147
+PRD2086,Headset,Elektronik,214217,19
+PRD2087,Speaker Bluetooth,Elektronik,43477,42
+PRD2088,Kipas Angin Mini,Elektronik,182158,59
+PRD2089,Lampu LED,Elektronik,166354,82
+PRD2090,Adaptor,Elektronik,344366,75
+PRD2091,Kabel HDMI,Elektronik,374471,69
+PRD2092,Card Reader,Elektronik,319396,166
+PRD2093,USB Hub,Elektronik,209332,70
+PRD2094,Mouse Pad,Elektronik,467406,114
+PRD2095,Webcam,Elektronik,411455,93
+PRD2096,Microphone,Elektronik,394112,151
+PRD2097,Remote TV,Elektronik,275120,116
+PRD2098,Baterai AA,Elektronik,219049,43
+PRD2099,Baterai AAA,Elektronik,98409,6
+PRD2100,Charger Mobil,Elektronik,67556,187
+PRD2101,Mie Instan,Makanan,125012,170
+PRD2102,Biskuit,Makanan,133935,191
+PRD2103,Keripik Kentang,Makanan,369366,192
+PRD2104,Cokelat Batang,Makanan,43976,54
+PRD2105,Permen,Makanan,89509,102
+PRD2106,Kacang Goreng,Makanan,56006,25
+PRD2107,Roti Tawar,Makanan,35445,122
+PRD2108,Sereal,Makanan,289537,14
+PRD2109,Abon Sapi,Makanan,15822,198
+PRD2110,Dendeng,Makanan,210148,135
+PRD2111,Kerupuk Udang,Makanan,403078,22
+PRD2112,Kue Kering,Makanan,56488,68
+PRD2113,Selai Kacang,Makanan,326063,40
+PRD2114,Madu,Makanan,46203,168
+PRD2115,Tepung Terigu,Makanan,490421,100
+PRD2116,Gula Pasir,Makanan,164199,59
+PRD2117,Kopi Bubuk,Makanan,131707,189
+PRD2118,Teh Celup,Makanan,150989,114
+PRD2119,Susu Bubuk,Makanan,330456,33
+PRD2120, Agar-agar,Makanan,70827,135
+PRD2121,Air Mineral,Minuman,441624,44
+PRD2122,Jus Jeruk,Minuman,16979,9
+PRD2123,Soft Drink,Minuman,349890,92
+PRD2124,Teh Botol,Minuman,453081,84
+PRD2125,Kopi Instan,Minuman,455111,122
+PRD2126,Susu UHT,Minuman,246943,139
+PRD2127,Yogurt,Minuman,492134,70
+PRD2128,Minuman Isotonik,Minuman,289595,114
+PRD2129,Sirup,Minuman,72839,179
+PRD2130,Soda,Minuman,284742,46
+PRD2131,Jus Mangga,Minuman,311765,153
+PRD2132,Jus Apel,Minuman,241360,162
+PRD2133,Minuman Berenergi,Minuman,394645,163
+PRD2134,Air Kelapa,Minuman,461954,145
+PRD2135,Susu Kedelai,Minuman,230053,135
+PRD2136,Jahe Instan,Minuman,337432,164
+PRD2137,Cincau,Minuman,281856,80
+PRD2138,Es Krim,Minuman,478537,89
+PRD2139,Milkshake,Minuman,254524,139
+PRD2140,Kefir,Minuman,121080,23
+PRD2141,Pensil 2B,Alat Tulis,233662,79
+PRD2142,Bolpoin Hitam,Alat Tulis,193775,106
+PRD2143,Penghapus,Alat Tulis,138213,40
+PRD2144,Penggaris,Alat Tulis,161159,3
+PRD2145,Buku Tulis,Alat Tulis,2048,134
+PRD2146,Spidol,Alat Tulis,429493,195
+PRD2147,Stabilo,Alat Tulis,446568,35
+PRD2148,Lem Kertas,Alat Tulis,182294,74
+PRD2149,Gunting,Alat Tulis,247994,137
+PRD2150,Cutter,Alat Tulis,6360,177
+PRD2151,Amplop,Alat Tulis,485439,126
+PRD2152,Kertas HVS,Alat Tulis,498478,194
+PRD2153,Map Plastik,Alat Tulis,252120,77
+PRD2154,Binder,Alat Tulis,6788,197
+PRD2155,Klip Kertas,Alat Tulis,227672,75
+PRD2156,Isi Staples,Alat Tulis,315001,60
+PRD2157,Tipe-X,Alat Tulis,419735,2
+PRD2158,Pensil Warna,Alat Tulis,289421,96
+PRD2159,Krayon,Alat Tulis,100865,106
+PRD2160,Cat Air,Alat Tulis,464506,144
+PRD2161,Sapu,Perlengkapan Rumah,231169,102
+PRD2162,Pel,Perlengkapan Rumah,133017,42
+PRD2163,Ember,Perlengkapan Rumah,376833,189
+PRD2164,Lap Mikrofiber,Perlengkapan Rumah,340685,100
+PRD2165,Gelas Kaca,Perlengkapan Rumah,436334,97
+PRD2166,Piring,Perlengkapan Rumah,117653,68
+PRD2167,Mangkok,Perlengkapan Rumah,43528,109
+PRD2168,Sendok Set,Perlengkapan Rumah,329849,62
+PRD2169,Garpu,Perlengkapan Rumah,272852,196
+PRD2170,Pisau Dapur,Perlengkapan Rumah,421408,157
+PRD2171,Talenan,Perlengkapan Rumah,425401,178
+PRD2172,Panci,Perlengkapan Rumah,360948,70
+PRD2173,Wajan,Perlengkapan Rumah,151252,167
+PRD2174,Stoples,Perlengkapan Rumah,391507,137
+PRD2175,Rak Piring,Perlengkapan Rumah,426048,69
+PRD2176,Serbet,Perlengkapan Rumah,218480,49
+PRD2177,Sikat Gigi,Perlengkapan Rumah,449470,18
+PRD2178,Pasta Gigi,Perlengkapan Rumah,97633,35
+PRD2179,Sabun Mandi,Perlengkapan Rumah,153831,29
+PRD2180,Shampoo,Perlengkapan Rumah,335915,117
+PRD2181,Masker,Kesehatan,325868,116
+PRD2182,Hand Sanitizer,Kesehatan,144676,180
+PRD2183,Vitamin C,Kesehatan,328502,126
+PRD2184,Minyak Kayu Putih,Kesehatan,100455,83
+PRD2185,Plester,Kesehatan,12168,39
+PRD2186,Perban,Kesehatan,28021,137
+PRD2187,Obat Flu,Kesehatan,13602,48
+PRD2188,Obat Batuk,Kesehatan,55620,73
+PRD2189,Minuman Herbal,Kesehatan,143135,33
+PRD2190,Suplemen,Kesehatan,376968,113
+PRD2191,Multivitamin,Kesehatan,383213,3
+PRD2192,Minyak Ikan,Kesehatan,124059,24
+PRD2193,Salep Luka,Kesehatan,81001,4
+PRD2194,Obat Nyamuk,Kesehatan,260777,56
+PRD2195,Lotion,Kesehatan,181260,108
+PRD2196,Tabir Surya,Kesehatan,165355,128
+PRD2197,Vitamin E,Kesehatan,196719,119
+PRD2198,Probiotik,Kesehatan,367394,9
+PRD2199,Antasida,Kesehatan,175145,21
+PRD2200,Parasetamol,Kesehatan,444261,193
+PRD2201,Bola Basket,Olahraga,78592,15
+PRD2202,Bola Voli,Olahraga,141724,199
+PRD2203,Raket Badminton,Olahraga,207742,19
+PRD2204,Kok Bulu Tangkis,Olahraga,286789,121
+PRD2205,Matras Yoga,Olahraga,97212,50
+PRD2206,Dumbbell,Olahraga,471604,65
+PRD2207,Skipping,Olahraga,430474,98
+PRD2208,Botol Minum,Olahraga,436242,4
+PRD2209,Hand Grip,Olahraga,65942,197
+PRD2210,Resistance Band,Olahraga,376699,64
+PRD2211,Peluit,Olahraga,203744,198
+PRD2212,Stopwatch,Olahraga,234239,64
+PRD2213,Kaos Olahraga,Olahraga,388724,9
+PRD2214,Handuk,Olahraga,106427,118
+PRD2215,Sepatu Lari,Olahraga,387520,198
+PRD2216,Tas Gym,Olahraga,51262,134
+PRD2217,Topi Olahraga,Olahraga,351179,54
+PRD2218,Gelang Keringat,Olahraga,249896,100
+PRD2219,Sarung Tangan,Olahraga,359272,80
+PRD2220,Bola Sepak,Olahraga,492846,83
+PRD2221,Boneka,Mainan,85158,162
+PRD2222,Mobil Mobilan,Mainan,383805,11
+PRD2223,Puzzle,Mainan,392450,141
+PRD2224,LEGO,Mainan,275115,32
+PRD2225,Rubik,Mainan,134808,124
+PRD2226,Yo Yo,Mainan,336768,77
+PRD2227,Lato Lato,Mainan,106188,93
+PRD2228,Ketapel,Mainan,467315,14
+PRD2229,Kapal Kapalan,Mainan,454805,171
+PRD2230,Layang Layang,Mainan,116183,29
+PRD2231,Kelereng,Mainan,125714,163
+PRD2232,Ular Tangga,Mainan,229625,84
+PRD2233,Monopoli,Mainan,9899,43
+PRD2234,Uno Cards,Mainan,418489,71
+PRD2235,Katapel,Mainan,308549,31
+PRD2236,Tamiya,Mainan,209517,63
+PRD2237,Beyblade,Mainan,6681,11
+PRD2238,Slime,Mainan,306651,177
+PRD2239,Playdoh,Mainan,251178,177
+PRD2240,Balon,Mainan,314586,40
+PRD2241,Kabel USB,Elektronik,196719,198
+PRD2242,Charger HP,Elektronik,48913,64
+PRD2243,Power Bank,Elektronik,84679,128
+PRD2244,Mouse Wireless,Elektronik,49920,176
+PRD2245,Keyboard,Elektronik,326348,87
+PRD2246,Headset,Elektronik,490032,195
+PRD2247,Speaker Bluetooth,Elektronik,329749,16
+PRD2248,Kipas Angin Mini,Elektronik,33339,92
+PRD2249,Lampu LED,Elektronik,339942,40
+PRD2250,Adaptor,Elektronik,369697,138
+PRD2251,Kabel HDMI,Elektronik,416956,28
+PRD2252,Card Reader,Elektronik,67969,125
+PRD2253,USB Hub,Elektronik,123988,82
+PRD2254,Mouse Pad,Elektronik,294736,166
+PRD2255,Webcam,Elektronik,398727,89
+PRD2256,Microphone,Elektronik,424327,113
+PRD2257,Remote TV,Elektronik,386402,50
+PRD2258,Baterai AA,Elektronik,13195,177
+PRD2259,Baterai AAA,Elektronik,200059,92
+PRD2260,Charger Mobil,Elektronik,381793,35
+PRD2261,Mie Instan,Makanan,133437,11
+PRD2262,Biskuit,Makanan,256438,181
+PRD2263,Keripik Kentang,Makanan,231376,144
+PRD2264,Cokelat Batang,Makanan,156515,139
+PRD2265,Permen,Makanan,367448,126
+PRD2266,Kacang Goreng,Makanan,101497,146
+PRD2267,Roti Tawar,Makanan,99846,140
+PRD2268,Sereal,Makanan,184276,83
+PRD2269,Abon Sapi,Makanan,385989,120
+PRD2270,Dendeng,Makanan,146349,154
+PRD2271,Kerupuk Udang,Makanan,481447,142
+PRD2272,Kue Kering,Makanan,86066,18
+PRD2273,Selai Kacang,Makanan,280468,40
+PRD2274,Madu,Makanan,237606,76
+PRD2275,Tepung Terigu,Makanan,431611,68
+PRD2276,Gula Pasir,Makanan,285957,94
+PRD2277,Kopi Bubuk,Makanan,240068,1
+PRD2278,Teh Celup,Makanan,408804,164
+PRD2279,Susu Bubuk,Makanan,267267,98
+PRD2280, Agar-agar,Makanan,386647,48
+PRD2281,Air Mineral,Minuman,464910,5
+PRD2282,Jus Jeruk,Minuman,326919,94
+PRD2283,Soft Drink,Minuman,408856,159
+PRD2284,Teh Botol,Minuman,127192,83
+PRD2285,Kopi Instan,Minuman,380013,17
+PRD2286,Susu UHT,Minuman,347133,138
+PRD2287,Yogurt,Minuman,431417,100
+PRD2288,Minuman Isotonik,Minuman,101546,135
+PRD2289,Sirup,Minuman,360206,128
+PRD2290,Soda,Minuman,403465,142
+PRD2291,Jus Mangga,Minuman,82809,157
+PRD2292,Jus Apel,Minuman,150441,83
+PRD2293,Minuman Berenergi,Minuman,216855,165
+PRD2294,Air Kelapa,Minuman,170833,29
+PRD2295,Susu Kedelai,Minuman,52466,134
+PRD2296,Jahe Instan,Minuman,347448,18
+PRD2297,Cincau,Minuman,24951,34
+PRD2298,Es Krim,Minuman,95658,9
+PRD2299,Milkshake,Minuman,107947,28
+PRD2300,Kefir,Minuman,256473,50
+PRD2301,Pensil 2B,Alat Tulis,53775,9
+PRD2302,Bolpoin Hitam,Alat Tulis,301374,165
+PRD2303,Penghapus,Alat Tulis,440461,100
+PRD2304,Penggaris,Alat Tulis,346940,126
+PRD2305,Buku Tulis,Alat Tulis,277681,160
+PRD2306,Spidol,Alat Tulis,369690,152
+PRD2307,Stabilo,Alat Tulis,136185,13
+PRD2308,Lem Kertas,Alat Tulis,194075,57
+PRD2309,Gunting,Alat Tulis,319694,184
+PRD2310,Cutter,Alat Tulis,39158,4
+PRD2311,Amplop,Alat Tulis,489698,54
+PRD2312,Kertas HVS,Alat Tulis,345801,126
+PRD2313,Map Plastik,Alat Tulis,488750,21
+PRD2314,Binder,Alat Tulis,247397,164
+PRD2315,Klip Kertas,Alat Tulis,33824,93
+PRD2316,Isi Staples,Alat Tulis,294563,191
+PRD2317,Tipe-X,Alat Tulis,493909,107
+PRD2318,Pensil Warna,Alat Tulis,432978,95
+PRD2319,Krayon,Alat Tulis,418415,182
+PRD2320,Cat Air,Alat Tulis,32566,158
+PRD2321,Sapu,Perlengkapan Rumah,141363,136
+PRD2322,Pel,Perlengkapan Rumah,23313,188
+PRD2323,Ember,Perlengkapan Rumah,38903,78
+PRD2324,Lap Mikrofiber,Perlengkapan Rumah,42860,56
+PRD2325,Gelas Kaca,Perlengkapan Rumah,274359,25
+PRD2326,Piring,Perlengkapan Rumah,55071,186
+PRD2327,Mangkok,Perlengkapan Rumah,123119,137
+PRD2328,Sendok Set,Perlengkapan Rumah,204024,49
+PRD2329,Garpu,Perlengkapan Rumah,103250,135
+PRD2330,Pisau Dapur,Perlengkapan Rumah,346392,64
+PRD2331,Talenan,Perlengkapan Rumah,300858,161
+PRD2332,Panci,Perlengkapan Rumah,498764,46
+PRD2333,Wajan,Perlengkapan Rumah,294774,192
+PRD2334,Stoples,Perlengkapan Rumah,294626,107
+PRD2335,Rak Piring,Perlengkapan Rumah,393175,28
+PRD2336,Serbet,Perlengkapan Rumah,403753,164
+PRD2337,Sikat Gigi,Perlengkapan Rumah,304285,92
+PRD2338,Pasta Gigi,Perlengkapan Rumah,355628,118
+PRD2339,Sabun Mandi,Perlengkapan Rumah,370338,171
+PRD2340,Shampoo,Perlengkapan Rumah,225910,27
+PRD2341,Masker,Kesehatan,89456,47
+PRD2342,Hand Sanitizer,Kesehatan,290340,103
+PRD2343,Vitamin C,Kesehatan,266604,87
+PRD2344,Minyak Kayu Putih,Kesehatan,346736,41
+PRD2345,Plester,Kesehatan,281917,154
+PRD2346,Perban,Kesehatan,234265,91
+PRD2347,Obat Flu,Kesehatan,475162,81
+PRD2348,Obat Batuk,Kesehatan,290401,84
+PRD2349,Minuman Herbal,Kesehatan,444946,96
+PRD2350,Suplemen,Kesehatan,218186,196
+PRD2351,Multivitamin,Kesehatan,334000,111
+PRD2352,Minyak Ikan,Kesehatan,435143,186
+PRD2353,Salep Luka,Kesehatan,171581,156
+PRD2354,Obat Nyamuk,Kesehatan,128207,145
+PRD2355,Lotion,Kesehatan,288065,55
+PRD2356,Tabir Surya,Kesehatan,198641,197
+PRD2357,Vitamin E,Kesehatan,290483,191
+PRD2358,Probiotik,Kesehatan,135215,93
+PRD2359,Antasida,Kesehatan,239189,115
+PRD2360,Parasetamol,Kesehatan,210189,1
+PRD2361,Bola Basket,Olahraga,382797,9
+PRD2362,Bola Voli,Olahraga,151150,153
+PRD2363,Raket Badminton,Olahraga,10547,133
+PRD2364,Kok Bulu Tangkis,Olahraga,72823,78
+PRD2365,Matras Yoga,Olahraga,5443,77
+PRD2366,Dumbbell,Olahraga,118332,55
+PRD2367,Skipping,Olahraga,450643,81
+PRD2368,Botol Minum,Olahraga,13377,198
+PRD2369,Hand Grip,Olahraga,432933,177
+PRD2370,Resistance Band,Olahraga,433141,71
+PRD2371,Peluit,Olahraga,483879,142
+PRD2372,Stopwatch,Olahraga,270053,143
+PRD2373,Kaos Olahraga,Olahraga,301194,147
+PRD2374,Handuk,Olahraga,83115,25
+PRD2375,Sepatu Lari,Olahraga,21784,118
+PRD2376,Tas Gym,Olahraga,188466,40
+PRD2377,Topi Olahraga,Olahraga,74565,68
+PRD2378,Gelang Keringat,Olahraga,194457,150
+PRD2379,Sarung Tangan,Olahraga,132996,60
+PRD2380,Bola Sepak,Olahraga,136345,77
+PRD2381,Boneka,Mainan,50184,147
+PRD2382,Mobil Mobilan,Mainan,211609,146
+PRD2383,Puzzle,Mainan,483234,56
+PRD2384,LEGO,Mainan,386966,20
+PRD2385,Rubik,Mainan,381364,84
+PRD2386,Yo Yo,Mainan,417710,124
+PRD2387,Lato Lato,Mainan,92650,125
+PRD2388,Ketapel,Mainan,434907,177
+PRD2389,Kapal Kapalan,Mainan,370494,148
+PRD2390,Layang Layang,Mainan,431662,25
+PRD2391,Kelereng,Mainan,314072,165
+PRD2392,Ular Tangga,Mainan,159492,10
+PRD2393,Monopoli,Mainan,385144,148
+PRD2394,Uno Cards,Mainan,202040,21
+PRD2395,Katapel,Mainan,411008,15
+PRD2396,Tamiya,Mainan,485326,198
+PRD2397,Beyblade,Mainan,177316,90
+PRD2398,Slime,Mainan,463264,112
+PRD2399,Playdoh,Mainan,220377,31
+PRD2400,Balon,Mainan,458018,198
+PRD2401,Kabel USB,Elektronik,120865,192
+PRD2402,Charger HP,Elektronik,344244,155
+PRD2403,Power Bank,Elektronik,488881,3
+PRD2404,Mouse Wireless,Elektronik,334339,200
+PRD2405,Keyboard,Elektronik,333451,98
+PRD2406,Headset,Elektronik,30378,79
+PRD2407,Speaker Bluetooth,Elektronik,276927,11
+PRD2408,Kipas Angin Mini,Elektronik,169413,139
+PRD2409,Lampu LED,Elektronik,298177,39
+PRD2410,Adaptor,Elektronik,173353,129
+PRD2411,Kabel HDMI,Elektronik,367831,57
+PRD2412,Card Reader,Elektronik,82319,13
+PRD2413,USB Hub,Elektronik,355178,188
+PRD2414,Mouse Pad,Elektronik,207983,115
+PRD2415,Webcam,Elektronik,396705,153
+PRD2416,Microphone,Elektronik,303599,130
+PRD2417,Remote TV,Elektronik,49229,57
+PRD2418,Baterai AA,Elektronik,228458,75
+PRD2419,Baterai AAA,Elektronik,414283,101
+PRD2420,Charger Mobil,Elektronik,79601,34
+PRD2421,Mie Instan,Makanan,178248,22
+PRD2422,Biskuit,Makanan,251484,147
+PRD2423,Keripik Kentang,Makanan,392759,13
+PRD2424,Cokelat Batang,Makanan,289389,103
+PRD2425,Permen,Makanan,139655,22
+PRD2426,Kacang Goreng,Makanan,210942,129
+PRD2427,Roti Tawar,Makanan,229798,199
+PRD2428,Sereal,Makanan,367885,34
+PRD2429,Abon Sapi,Makanan,401524,35
+PRD2430,Dendeng,Makanan,254141,144
+PRD2431,Kerupuk Udang,Makanan,105865,125
+PRD2432,Kue Kering,Makanan,209260,167
+PRD2433,Selai Kacang,Makanan,301541,51
+PRD2434,Madu,Makanan,296213,158
+PRD2435,Tepung Terigu,Makanan,387701,135
+PRD2436,Gula Pasir,Makanan,131103,63
+PRD2437,Kopi Bubuk,Makanan,39562,69
+PRD2438,Teh Celup,Makanan,409252,111
+PRD2439,Susu Bubuk,Makanan,171560,176
+PRD2440, Agar-agar,Makanan,486514,148
+PRD2441,Air Mineral,Minuman,48973,29
+PRD2442,Jus Jeruk,Minuman,354189,106
+PRD2443,Soft Drink,Minuman,224057,94
+PRD2444,Teh Botol,Minuman,184613,49
+PRD2445,Kopi Instan,Minuman,170159,89
+PRD2446,Susu UHT,Minuman,313362,168
+PRD2447,Yogurt,Minuman,14691,198
+PRD2448,Minuman Isotonik,Minuman,161812,44
+PRD2449,Sirup,Minuman,185352,158
+PRD2450,Soda,Minuman,432746,114
+PRD2451,Jus Mangga,Minuman,328726,38
+PRD2452,Jus Apel,Minuman,232929,12
+PRD2453,Minuman Berenergi,Minuman,486553,60
+PRD2454,Air Kelapa,Minuman,106692,176
+PRD2455,Susu Kedelai,Minuman,197989,40
+PRD2456,Jahe Instan,Minuman,399270,187
+PRD2457,Cincau,Minuman,449094,22
+PRD2458,Es Krim,Minuman,60915,190
+PRD2459,Milkshake,Minuman,30593,63
+PRD2460,Kefir,Minuman,499518,159
+PRD2461,Pensil 2B,Alat Tulis,487873,38
+PRD2462,Bolpoin Hitam,Alat Tulis,457476,74
+PRD2463,Penghapus,Alat Tulis,9200,88
+PRD2464,Penggaris,Alat Tulis,365748,29
+PRD2465,Buku Tulis,Alat Tulis,161969,116
+PRD2466,Spidol,Alat Tulis,249039,6
+PRD2467,Stabilo,Alat Tulis,175998,54
+PRD2468,Lem Kertas,Alat Tulis,389979,138
+PRD2469,Gunting,Alat Tulis,113083,53
+PRD2470,Cutter,Alat Tulis,288483,134
+PRD2471,Amplop,Alat Tulis,395402,67
+PRD2472,Kertas HVS,Alat Tulis,289729,124
+PRD2473,Map Plastik,Alat Tulis,328653,187
+PRD2474,Binder,Alat Tulis,76106,178
+PRD2475,Klip Kertas,Alat Tulis,368348,172
+PRD2476,Isi Staples,Alat Tulis,11640,97
+PRD2477,Tipe-X,Alat Tulis,307662,170
+PRD2478,Pensil Warna,Alat Tulis,278194,12
+PRD2479,Krayon,Alat Tulis,135932,44
+PRD2480,Cat Air,Alat Tulis,33514,73
+PRD2481,Sapu,Perlengkapan Rumah,107222,179
+PRD2482,Pel,Perlengkapan Rumah,325991,70
+PRD2483,Ember,Perlengkapan Rumah,29831,120
+PRD2484,Lap Mikrofiber,Perlengkapan Rumah,345281,3
+PRD2485,Gelas Kaca,Perlengkapan Rumah,36916,100
+PRD2486,Piring,Perlengkapan Rumah,348225,70
+PRD2487,Mangkok,Perlengkapan Rumah,349593,169
+PRD2488,Sendok Set,Perlengkapan Rumah,190858,28
+PRD2489,Garpu,Perlengkapan Rumah,12002,75
+PRD2490,Pisau Dapur,Perlengkapan Rumah,456772,167
+PRD2491,Talenan,Perlengkapan Rumah,204649,60
+PRD2492,Panci,Perlengkapan Rumah,201597,131
+PRD2493,Wajan,Perlengkapan Rumah,374081,26
+PRD2494,Stoples,Perlengkapan Rumah,475889,81
+PRD2495,Rak Piring,Perlengkapan Rumah,256102,153
+PRD2496,Serbet,Perlengkapan Rumah,280690,23
+PRD2497,Sikat Gigi,Perlengkapan Rumah,99736,51
+PRD2498,Pasta Gigi,Perlengkapan Rumah,264485,118
+PRD2499,Sabun Mandi,Perlengkapan Rumah,295961,183
+PRD2500,Shampoo,Perlengkapan Rumah,13266,11
+PRD2501,Masker,Kesehatan,131704,136
+PRD2502,Hand Sanitizer,Kesehatan,161869,86
+PRD2503,Vitamin C,Kesehatan,258865,101
+PRD2504,Minyak Kayu Putih,Kesehatan,392275,41
+PRD2505,Plester,Kesehatan,11632,89
+PRD2506,Perban,Kesehatan,360776,91
+PRD2507,Obat Flu,Kesehatan,188320,161
+PRD2508,Obat Batuk,Kesehatan,160506,61
+PRD2509,Minuman Herbal,Kesehatan,264800,71
+PRD2510,Suplemen,Kesehatan,427665,16
+PRD2511,Multivitamin,Kesehatan,330095,66
+PRD2512,Minyak Ikan,Kesehatan,462679,100
+PRD2513,Salep Luka,Kesehatan,468827,8
+PRD2514,Obat Nyamuk,Kesehatan,496999,143
+PRD2515,Lotion,Kesehatan,499610,72
+PRD2516,Tabir Surya,Kesehatan,120270,39
+PRD2517,Vitamin E,Kesehatan,181194,101
+PRD2518,Probiotik,Kesehatan,346421,36
+PRD2519,Antasida,Kesehatan,48029,187
+PRD2520,Parasetamol,Kesehatan,202386,134
+PRD2521,Bola Basket,Olahraga,357464,157
+PRD2522,Bola Voli,Olahraga,459546,161
+PRD2523,Raket Badminton,Olahraga,361935,59
+PRD2524,Kok Bulu Tangkis,Olahraga,220802,62
+PRD2525,Matras Yoga,Olahraga,302363,40
+PRD2526,Dumbbell,Olahraga,225590,80
+PRD2527,Skipping,Olahraga,478963,155
+PRD2528,Botol Minum,Olahraga,174640,115
+PRD2529,Hand Grip,Olahraga,286286,34
+PRD2530,Resistance Band,Olahraga,110400,168
+PRD2531,Peluit,Olahraga,74654,149
+PRD2532,Stopwatch,Olahraga,285825,176
+PRD2533,Kaos Olahraga,Olahraga,421485,52
+PRD2534,Handuk,Olahraga,454244,36
+PRD2535,Sepatu Lari,Olahraga,164004,177
+PRD2536,Tas Gym,Olahraga,371694,135
+PRD2537,Topi Olahraga,Olahraga,478872,35
+PRD2538,Gelang Keringat,Olahraga,227477,198
+PRD2539,Sarung Tangan,Olahraga,78101,168
+PRD2540,Bola Sepak,Olahraga,491176,145
+PRD2541,Boneka,Mainan,482830,41
+PRD2542,Mobil Mobilan,Mainan,168459,18
+PRD2543,Puzzle,Mainan,294206,137
+PRD2544,LEGO,Mainan,499340,185
+PRD2545,Rubik,Mainan,64069,48
+PRD2546,Yo Yo,Mainan,168512,38
+PRD2547,Lato Lato,Mainan,383199,8
+PRD2548,Ketapel,Mainan,403308,82
+PRD2549,Kapal Kapalan,Mainan,463442,106
+PRD2550,Layang Layang,Mainan,217614,78
+PRD2551,Kelereng,Mainan,234261,191
+PRD2552,Ular Tangga,Mainan,491563,164
+PRD2553,Monopoli,Mainan,491291,190
+PRD2554,Uno Cards,Mainan,145548,39
+PRD2555,Katapel,Mainan,410476,49
+PRD2556,Tamiya,Mainan,57978,34
+PRD2557,Beyblade,Mainan,98860,7
+PRD2558,Slime,Mainan,401742,157
+PRD2559,Playdoh,Mainan,325457,69
+PRD2560,Balon,Mainan,319511,146
+PRD2561,Kabel USB,Elektronik,323054,60
+PRD2562,Charger HP,Elektronik,314664,60
+PRD2563,Power Bank,Elektronik,123064,176
+PRD2564,Mouse Wireless,Elektronik,15675,92
+PRD2565,Keyboard,Elektronik,43668,177
+PRD2566,Headset,Elektronik,410853,123
+PRD2567,Speaker Bluetooth,Elektronik,72300,129
+PRD2568,Kipas Angin Mini,Elektronik,445620,155
+PRD2569,Lampu LED,Elektronik,247767,183
+PRD2570,Adaptor,Elektronik,342560,96
+PRD2571,Kabel HDMI,Elektronik,98456,100
+PRD2572,Card Reader,Elektronik,259659,122
+PRD2573,USB Hub,Elektronik,74096,42
+PRD2574,Mouse Pad,Elektronik,103323,58
+PRD2575,Webcam,Elektronik,18897,105
+PRD2576,Microphone,Elektronik,402838,4
+PRD2577,Remote TV,Elektronik,487194,70
+PRD2578,Baterai AA,Elektronik,218554,57
+PRD2579,Baterai AAA,Elektronik,391213,172
+PRD2580,Charger Mobil,Elektronik,108343,194
+PRD2581,Mie Instan,Makanan,109249,17
+PRD2582,Biskuit,Makanan,94839,113
+PRD2583,Keripik Kentang,Makanan,456625,158
+PRD2584,Cokelat Batang,Makanan,258871,177
+PRD2585,Permen,Makanan,172338,118
+PRD2586,Kacang Goreng,Makanan,467351,64
+PRD2587,Roti Tawar,Makanan,226162,104
+PRD2588,Sereal,Makanan,408960,11
+PRD2589,Abon Sapi,Makanan,320730,189
+PRD2590,Dendeng,Makanan,434185,98
+PRD2591,Kerupuk Udang,Makanan,379592,81
+PRD2592,Kue Kering,Makanan,208648,157
+PRD2593,Selai Kacang,Makanan,494379,191
+PRD2594,Madu,Makanan,301858,153
+PRD2595,Tepung Terigu,Makanan,283101,135
+PRD2596,Gula Pasir,Makanan,338275,181
+PRD2597,Kopi Bubuk,Makanan,414572,10
+PRD2598,Teh Celup,Makanan,274970,28
+PRD2599,Susu Bubuk,Makanan,238773,117
+PRD2600, Agar-agar,Makanan,435591,11
+PRD2601,Air Mineral,Minuman,462209,63
+PRD2602,Jus Jeruk,Minuman,273949,138
+PRD2603,Soft Drink,Minuman,209414,189
+PRD2604,Teh Botol,Minuman,22579,143
+PRD2605,Kopi Instan,Minuman,205108,133
+PRD2606,Susu UHT,Minuman,403164,162
+PRD2607,Yogurt,Minuman,27845,49
+PRD2608,Minuman Isotonik,Minuman,154661,113
+PRD2609,Sirup,Minuman,210687,78
+PRD2610,Soda,Minuman,407629,74
+PRD2611,Jus Mangga,Minuman,243878,43
+PRD2612,Jus Apel,Minuman,223491,76
+PRD2613,Minuman Berenergi,Minuman,323458,14
+PRD2614,Air Kelapa,Minuman,363734,133
+PRD2615,Susu Kedelai,Minuman,475786,37
+PRD2616,Jahe Instan,Minuman,245048,166
+PRD2617,Cincau,Minuman,238819,24
+PRD2618,Es Krim,Minuman,380875,129
+PRD2619,Milkshake,Minuman,61334,47
+PRD2620,Kefir,Minuman,410279,150
+PRD2621,Pensil 2B,Alat Tulis,493699,179
+PRD2622,Bolpoin Hitam,Alat Tulis,288474,35
+PRD2623,Penghapus,Alat Tulis,208080,106
+PRD2624,Penggaris,Alat Tulis,171586,116
+PRD2625,Buku Tulis,Alat Tulis,15061,46
+PRD2626,Spidol,Alat Tulis,239859,152
+PRD2627,Stabilo,Alat Tulis,472085,183
+PRD2628,Lem Kertas,Alat Tulis,471654,52
+PRD2629,Gunting,Alat Tulis,464709,117
+PRD2630,Cutter,Alat Tulis,49280,65
+PRD2631,Amplop,Alat Tulis,171908,178
+PRD2632,Kertas HVS,Alat Tulis,342040,183
+PRD2633,Map Plastik,Alat Tulis,419588,42
+PRD2634,Binder,Alat Tulis,378635,188
+PRD2635,Klip Kertas,Alat Tulis,66772,24
+PRD2636,Isi Staples,Alat Tulis,61855,181
+PRD2637,Tipe-X,Alat Tulis,237614,163
+PRD2638,Pensil Warna,Alat Tulis,192286,22
+PRD2639,Krayon,Alat Tulis,276631,182
+PRD2640,Cat Air,Alat Tulis,203372,187
+PRD2641,Sapu,Perlengkapan Rumah,416746,131
+PRD2642,Pel,Perlengkapan Rumah,322902,41
+PRD2643,Ember,Perlengkapan Rumah,200536,141
+PRD2644,Lap Mikrofiber,Perlengkapan Rumah,201547,12
+PRD2645,Gelas Kaca,Perlengkapan Rumah,404789,44
+PRD2646,Piring,Perlengkapan Rumah,480283,86
+PRD2647,Mangkok,Perlengkapan Rumah,298480,169
+PRD2648,Sendok Set,Perlengkapan Rumah,454288,39
+PRD2649,Garpu,Perlengkapan Rumah,86999,38
+PRD2650,Pisau Dapur,Perlengkapan Rumah,95777,197
+PRD2651,Talenan,Perlengkapan Rumah,375317,14
+PRD2652,Panci,Perlengkapan Rumah,221981,79
+PRD2653,Wajan,Perlengkapan Rumah,164276,187
+PRD2654,Stoples,Perlengkapan Rumah,404983,115
+PRD2655,Rak Piring,Perlengkapan Rumah,153404,161
+PRD2656,Serbet,Perlengkapan Rumah,96736,31
+PRD2657,Sikat Gigi,Perlengkapan Rumah,473094,34
+PRD2658,Pasta Gigi,Perlengkapan Rumah,108352,1
+PRD2659,Sabun Mandi,Perlengkapan Rumah,328400,196
+PRD2660,Shampoo,Perlengkapan Rumah,134703,4
+PRD2661,Masker,Kesehatan,242460,128
+PRD2662,Hand Sanitizer,Kesehatan,450481,128
+PRD2663,Vitamin C,Kesehatan,286951,2
+PRD2664,Minyak Kayu Putih,Kesehatan,320758,127
+PRD2665,Plester,Kesehatan,126716,56
+PRD2666,Perban,Kesehatan,310733,169
+PRD2667,Obat Flu,Kesehatan,251410,117
+PRD2668,Obat Batuk,Kesehatan,217037,114
+PRD2669,Minuman Herbal,Kesehatan,43631,154
+PRD2670,Suplemen,Kesehatan,316626,2
+PRD2671,Multivitamin,Kesehatan,130300,141
+PRD2672,Minyak Ikan,Kesehatan,147811,159
+PRD2673,Salep Luka,Kesehatan,331586,143
+PRD2674,Obat Nyamuk,Kesehatan,431979,54
+PRD2675,Lotion,Kesehatan,27647,48
+PRD2676,Tabir Surya,Kesehatan,79728,15
+PRD2677,Vitamin E,Kesehatan,344505,90
+PRD2678,Probiotik,Kesehatan,21252,38
+PRD2679,Antasida,Kesehatan,449652,9
+PRD2680,Parasetamol,Kesehatan,351698,148
+PRD2681,Bola Basket,Olahraga,441360,155
+PRD2682,Bola Voli,Olahraga,158469,85
+PRD2683,Raket Badminton,Olahraga,484546,23
+PRD2684,Kok Bulu Tangkis,Olahraga,27706,28
+PRD2685,Matras Yoga,Olahraga,220605,46
+PRD2686,Dumbbell,Olahraga,86586,173
+PRD2687,Skipping,Olahraga,151097,157
+PRD2688,Botol Minum,Olahraga,348514,178
+PRD2689,Hand Grip,Olahraga,368921,153
+PRD2690,Resistance Band,Olahraga,302040,144
+PRD2691,Peluit,Olahraga,95018,117
+PRD2692,Stopwatch,Olahraga,394867,149
+PRD2693,Kaos Olahraga,Olahraga,190842,10
+PRD2694,Handuk,Olahraga,50824,197
+PRD2695,Sepatu Lari,Olahraga,158916,83
+PRD2696,Tas Gym,Olahraga,195236,98
+PRD2697,Topi Olahraga,Olahraga,432054,18
+PRD2698,Gelang Keringat,Olahraga,399642,110
+PRD2699,Sarung Tangan,Olahraga,444137,141
+PRD2700,Bola Sepak,Olahraga,36039,75
+PRD2701,Boneka,Mainan,248843,35
+PRD2702,Mobil Mobilan,Mainan,65975,178
+PRD2703,Puzzle,Mainan,452577,71
+PRD2704,LEGO,Mainan,174600,135
+PRD2705,Rubik,Mainan,218928,135
+PRD2706,Yo Yo,Mainan,112019,179
+PRD2707,Lato Lato,Mainan,111602,157
+PRD2708,Ketapel,Mainan,32505,28
+PRD2709,Kapal Kapalan,Mainan,301560,187
+PRD2710,Layang Layang,Mainan,331765,136
+PRD2711,Kelereng,Mainan,47964,124
+PRD2712,Ular Tangga,Mainan,381623,177
+PRD2713,Monopoli,Mainan,319077,181
+PRD2714,Uno Cards,Mainan,152568,110
+PRD2715,Katapel,Mainan,321209,82
+PRD2716,Tamiya,Mainan,138136,135
+PRD2717,Beyblade,Mainan,303540,160
+PRD2718,Slime,Mainan,187521,34
+PRD2719,Playdoh,Mainan,324064,145
+PRD2720,Balon,Mainan,262254,134
+PRD2721,Kabel USB,Elektronik,384302,162
+PRD2722,Charger HP,Elektronik,262959,127
+PRD2723,Power Bank,Elektronik,425614,47
+PRD2724,Mouse Wireless,Elektronik,465294,157
+PRD2725,Keyboard,Elektronik,124013,182
+PRD2726,Headset,Elektronik,154299,50
+PRD2727,Speaker Bluetooth,Elektronik,2828,31
+PRD2728,Kipas Angin Mini,Elektronik,14575,120
+PRD2729,Lampu LED,Elektronik,329921,31
+PRD2730,Adaptor,Elektronik,388645,54
+PRD2731,Kabel HDMI,Elektronik,421201,158
+PRD2732,Card Reader,Elektronik,219386,106
+PRD2733,USB Hub,Elektronik,25851,86
+PRD2734,Mouse Pad,Elektronik,185317,144
+PRD2735,Webcam,Elektronik,424598,164
+PRD2736,Microphone,Elektronik,113326,3
+PRD2737,Remote TV,Elektronik,337868,52
+PRD2738,Baterai AA,Elektronik,363767,73
+PRD2739,Baterai AAA,Elektronik,135388,18
+PRD2740,Charger Mobil,Elektronik,163361,77
+PRD2741,Mie Instan,Makanan,267651,141
+PRD2742,Biskuit,Makanan,171829,197
+PRD2743,Keripik Kentang,Makanan,5214,30
+PRD2744,Cokelat Batang,Makanan,361575,86
+PRD2745,Permen,Makanan,180971,102
+PRD2746,Kacang Goreng,Makanan,381792,146
+PRD2747,Roti Tawar,Makanan,324957,8
+PRD2748,Sereal,Makanan,438230,45
+PRD2749,Abon Sapi,Makanan,103720,85
+PRD2750,Dendeng,Makanan,439164,87
+PRD2751,Kerupuk Udang,Makanan,485540,173
+PRD2752,Kue Kering,Makanan,253190,122
+PRD2753,Selai Kacang,Makanan,419990,10
+PRD2754,Madu,Makanan,340507,35
+PRD2755,Tepung Terigu,Makanan,254442,40
+PRD2756,Gula Pasir,Makanan,330833,118
+PRD2757,Kopi Bubuk,Makanan,469695,138
+PRD2758,Teh Celup,Makanan,471724,86
+PRD2759,Susu Bubuk,Makanan,244467,106
+PRD2760, Agar-agar,Makanan,488429,191
+PRD2761,Air Mineral,Minuman,31371,134
+PRD2762,Jus Jeruk,Minuman,158942,145
+PRD2763,Soft Drink,Minuman,382090,174
+PRD2764,Teh Botol,Minuman,167414,143
+PRD2765,Kopi Instan,Minuman,282958,5
+PRD2766,Susu UHT,Minuman,111189,148
+PRD2767,Yogurt,Minuman,361395,85
+PRD2768,Minuman Isotonik,Minuman,421186,91
+PRD2769,Sirup,Minuman,36714,39
+PRD2770,Soda,Minuman,149041,8
+PRD2771,Jus Mangga,Minuman,179813,97
+PRD2772,Jus Apel,Minuman,330472,137
+PRD2773,Minuman Berenergi,Minuman,443663,43
+PRD2774,Air Kelapa,Minuman,301358,156
+PRD2775,Susu Kedelai,Minuman,206244,48
+PRD2776,Jahe Instan,Minuman,314051,30
+PRD2777,Cincau,Minuman,455296,193
+PRD2778,Es Krim,Minuman,163628,181
+PRD2779,Milkshake,Minuman,451744,81
+PRD2780,Kefir,Minuman,374160,9
+PRD2781,Pensil 2B,Alat Tulis,144342,106
+PRD2782,Bolpoin Hitam,Alat Tulis,47507,128
+PRD2783,Penghapus,Alat Tulis,461826,61
+PRD2784,Penggaris,Alat Tulis,196816,116
+PRD2785,Buku Tulis,Alat Tulis,436874,78
+PRD2786,Spidol,Alat Tulis,115319,135
+PRD2787,Stabilo,Alat Tulis,160501,45
+PRD2788,Lem Kertas,Alat Tulis,60841,96
+PRD2789,Gunting,Alat Tulis,413536,10
+PRD2790,Cutter,Alat Tulis,409786,52
+PRD2791,Amplop,Alat Tulis,480860,24
+PRD2792,Kertas HVS,Alat Tulis,234665,130
+PRD2793,Map Plastik,Alat Tulis,15073,124
+PRD2794,Binder,Alat Tulis,476457,129
+PRD2795,Klip Kertas,Alat Tulis,82781,49
+PRD2796,Isi Staples,Alat Tulis,180318,124
+PRD2797,Tipe-X,Alat Tulis,386010,135
+PRD2798,Pensil Warna,Alat Tulis,164717,199
+PRD2799,Krayon,Alat Tulis,173619,37
+PRD2800,Cat Air,Alat Tulis,405429,26
+PRD2801,Sapu,Perlengkapan Rumah,433037,133
+PRD2802,Pel,Perlengkapan Rumah,356794,34
+PRD2803,Ember,Perlengkapan Rumah,109577,186
+PRD2804,Lap Mikrofiber,Perlengkapan Rumah,21164,118
+PRD2805,Gelas Kaca,Perlengkapan Rumah,205207,183
+PRD2806,Piring,Perlengkapan Rumah,455409,134
+PRD2807,Mangkok,Perlengkapan Rumah,62731,2
+PRD2808,Sendok Set,Perlengkapan Rumah,165043,12
+PRD2809,Garpu,Perlengkapan Rumah,362213,153
+PRD2810,Pisau Dapur,Perlengkapan Rumah,459113,23
+PRD2811,Talenan,Perlengkapan Rumah,176739,120
+PRD2812,Panci,Perlengkapan Rumah,468189,12
+PRD2813,Wajan,Perlengkapan Rumah,56055,134
+PRD2814,Stoples,Perlengkapan Rumah,403699,169
+PRD2815,Rak Piring,Perlengkapan Rumah,392885,80
+PRD2816,Serbet,Perlengkapan Rumah,13786,148
+PRD2817,Sikat Gigi,Perlengkapan Rumah,399669,80
+PRD2818,Pasta Gigi,Perlengkapan Rumah,336941,54
+PRD2819,Sabun Mandi,Perlengkapan Rumah,170233,52
+PRD2820,Shampoo,Perlengkapan Rumah,102949,74
+PRD2821,Masker,Kesehatan,147044,137
+PRD2822,Hand Sanitizer,Kesehatan,169326,198
+PRD2823,Vitamin C,Kesehatan,233271,172
+PRD2824,Minyak Kayu Putih,Kesehatan,63682,70
+PRD2825,Plester,Kesehatan,80287,41
+PRD2826,Perban,Kesehatan,145464,30
+PRD2827,Obat Flu,Kesehatan,9998,160
+PRD2828,Obat Batuk,Kesehatan,295405,132
+PRD2829,Minuman Herbal,Kesehatan,55674,53
+PRD2830,Suplemen,Kesehatan,286441,90
+PRD2831,Multivitamin,Kesehatan,290025,82
+PRD2832,Minyak Ikan,Kesehatan,144109,37
+PRD2833,Salep Luka,Kesehatan,496549,181
+PRD2834,Obat Nyamuk,Kesehatan,423529,73
+PRD2835,Lotion,Kesehatan,302984,63
+PRD2836,Tabir Surya,Kesehatan,91797,19
+PRD2837,Vitamin E,Kesehatan,165251,157
+PRD2838,Probiotik,Kesehatan,469792,87
+PRD2839,Antasida,Kesehatan,285418,114
+PRD2840,Parasetamol,Kesehatan,28595,34
+PRD2841,Bola Basket,Olahraga,17200,121
+PRD2842,Bola Voli,Olahraga,475585,173
+PRD2843,Raket Badminton,Olahraga,28453,28
+PRD2844,Kok Bulu Tangkis,Olahraga,203116,14
+PRD2845,Matras Yoga,Olahraga,47151,110
+PRD2846,Dumbbell,Olahraga,207477,46
+PRD2847,Skipping,Olahraga,371454,153
+PRD2848,Botol Minum,Olahraga,469285,152
+PRD2849,Hand Grip,Olahraga,332023,177
+PRD2850,Resistance Band,Olahraga,368668,115
+PRD2851,Peluit,Olahraga,325126,92
+PRD2852,Stopwatch,Olahraga,165808,86
+PRD2853,Kaos Olahraga,Olahraga,430575,51
+PRD2854,Handuk,Olahraga,375764,195
+PRD2855,Sepatu Lari,Olahraga,353729,137
+PRD2856,Tas Gym,Olahraga,43180,194
+PRD2857,Topi Olahraga,Olahraga,402780,120
+PRD2858,Gelang Keringat,Olahraga,299685,34
+PRD2859,Sarung Tangan,Olahraga,50714,179
+PRD2860,Bola Sepak,Olahraga,247511,25
+PRD2861,Boneka,Mainan,240857,80
+PRD2862,Mobil Mobilan,Mainan,360863,165
+PRD2863,Puzzle,Mainan,374357,197
+PRD2864,LEGO,Mainan,246001,121
+PRD2865,Rubik,Mainan,123474,58
+PRD2866,Yo Yo,Mainan,77351,158
+PRD2867,Lato Lato,Mainan,137293,94
+PRD2868,Ketapel,Mainan,207561,47
+PRD2869,Kapal Kapalan,Mainan,368799,171
+PRD2870,Layang Layang,Mainan,175186,84
+PRD2871,Kelereng,Mainan,239650,125
+PRD2872,Ular Tangga,Mainan,17867,17
+PRD2873,Monopoli,Mainan,251212,29
+PRD2874,Uno Cards,Mainan,186256,123
+PRD2875,Katapel,Mainan,243823,44
+PRD2876,Tamiya,Mainan,149984,197
+PRD2877,Beyblade,Mainan,184774,155
+PRD2878,Slime,Mainan,303296,33
+PRD2879,Playdoh,Mainan,268311,27
+PRD2880,Balon,Mainan,214696,183
+PRD2881,Kabel USB,Elektronik,419730,28
+PRD2882,Charger HP,Elektronik,172849,143
+PRD2883,Power Bank,Elektronik,342499,19
+PRD2884,Mouse Wireless,Elektronik,417462,78
+PRD2885,Keyboard,Elektronik,281312,119
+PRD2886,Headset,Elektronik,212143,152
+PRD2887,Speaker Bluetooth,Elektronik,218762,62
+PRD2888,Kipas Angin Mini,Elektronik,327517,63
+PRD2889,Lampu LED,Elektronik,289283,41
+PRD2890,Adaptor,Elektronik,254903,99
+PRD2891,Kabel HDMI,Elektronik,36634,88
+PRD2892,Card Reader,Elektronik,111176,178
+PRD2893,USB Hub,Elektronik,311838,111
+PRD2894,Mouse Pad,Elektronik,413206,112
+PRD2895,Webcam,Elektronik,299382,88
+PRD2896,Microphone,Elektronik,287488,178
+PRD2897,Remote TV,Elektronik,125812,45
+PRD2898,Baterai AA,Elektronik,349399,172
+PRD2899,Baterai AAA,Elektronik,42839,190
+PRD2900,Charger Mobil,Elektronik,490040,183
+PRD2901,Mie Instan,Makanan,303040,125
+PRD2902,Biskuit,Makanan,61938,152
+PRD2903,Keripik Kentang,Makanan,314515,119
+PRD2904,Cokelat Batang,Makanan,172591,143
+PRD2905,Permen,Makanan,53198,114
+PRD2906,Kacang Goreng,Makanan,94365,79
+PRD2907,Roti Tawar,Makanan,214752,18
+PRD2908,Sereal,Makanan,315660,28
+PRD2909,Abon Sapi,Makanan,361403,153
+PRD2910,Dendeng,Makanan,406406,98
+PRD2911,Kerupuk Udang,Makanan,173656,127
+PRD2912,Kue Kering,Makanan,340160,170
+PRD2913,Selai Kacang,Makanan,34234,24
+PRD2914,Madu,Makanan,116091,36
+PRD2915,Tepung Terigu,Makanan,467180,149
+PRD2916,Gula Pasir,Makanan,475566,194
+PRD2917,Kopi Bubuk,Makanan,335516,1
+PRD2918,Teh Celup,Makanan,398926,38
+PRD2919,Susu Bubuk,Makanan,348492,39
+PRD2920, Agar-agar,Makanan,239489,137
+PRD2921,Air Mineral,Minuman,154831,100
+PRD2922,Jus Jeruk,Minuman,324737,148
+PRD2923,Soft Drink,Minuman,236440,51
+PRD2924,Teh Botol,Minuman,109825,175
+PRD2925,Kopi Instan,Minuman,462023,82
+PRD2926,Susu UHT,Minuman,159147,146
+PRD2927,Yogurt,Minuman,418466,174
+PRD2928,Minuman Isotonik,Minuman,161671,112
+PRD2929,Sirup,Minuman,378329,89
+PRD2930,Soda,Minuman,48812,150
+PRD2931,Jus Mangga,Minuman,6256,157
+PRD2932,Jus Apel,Minuman,269609,104
+PRD2933,Minuman Berenergi,Minuman,446405,33
+PRD2934,Air Kelapa,Minuman,448958,76
+PRD2935,Susu Kedelai,Minuman,34721,95
+PRD2936,Jahe Instan,Minuman,474423,141
+PRD2937,Cincau,Minuman,29854,1
+PRD2938,Es Krim,Minuman,370760,144
+PRD2939,Milkshake,Minuman,432311,92
+PRD2940,Kefir,Minuman,59513,73
+PRD2941,Pensil 2B,Alat Tulis,455865,8
+PRD2942,Bolpoin Hitam,Alat Tulis,125334,111
+PRD2943,Penghapus,Alat Tulis,370166,152
+PRD2944,Penggaris,Alat Tulis,208710,161
+PRD2945,Buku Tulis,Alat Tulis,168790,183
+PRD2946,Spidol,Alat Tulis,202692,104
+PRD2947,Stabilo,Alat Tulis,202049,112
+PRD2948,Lem Kertas,Alat Tulis,287799,55
+PRD2949,Gunting,Alat Tulis,349334,45
+PRD2950,Cutter,Alat Tulis,250969,36
+PRD2951,Amplop,Alat Tulis,100685,143
+PRD2952,Kertas HVS,Alat Tulis,203638,93
+PRD2953,Map Plastik,Alat Tulis,442382,107
+PRD2954,Binder,Alat Tulis,82880,74
+PRD2955,Klip Kertas,Alat Tulis,459564,172
+PRD2956,Isi Staples,Alat Tulis,67823,35
+PRD2957,Tipe-X,Alat Tulis,8083,19
+PRD2958,Pensil Warna,Alat Tulis,341942,5
+PRD2959,Krayon,Alat Tulis,77495,185
+PRD2960,Cat Air,Alat Tulis,465936,125
+PRD2961,Sapu,Perlengkapan Rumah,346943,112
+PRD2962,Pel,Perlengkapan Rumah,73185,22
+PRD2963,Ember,Perlengkapan Rumah,73942,165
+PRD2964,Lap Mikrofiber,Perlengkapan Rumah,424545,107
+PRD2965,Gelas Kaca,Perlengkapan Rumah,452967,117
+PRD2966,Piring,Perlengkapan Rumah,470494,179
+PRD2967,Mangkok,Perlengkapan Rumah,318895,109
+PRD2968,Sendok Set,Perlengkapan Rumah,328761,47
+PRD2969,Garpu,Perlengkapan Rumah,240233,131
+PRD2970,Pisau Dapur,Perlengkapan Rumah,224363,142
+PRD2971,Talenan,Perlengkapan Rumah,431953,116
+PRD2972,Panci,Perlengkapan Rumah,203701,91
+PRD2973,Wajan,Perlengkapan Rumah,120353,48
+PRD2974,Stoples,Perlengkapan Rumah,224702,155
+PRD2975,Rak Piring,Perlengkapan Rumah,5895,148
+PRD2976,Serbet,Perlengkapan Rumah,263177,188
+PRD2977,Sikat Gigi,Perlengkapan Rumah,126125,183
+PRD2978,Pasta Gigi,Perlengkapan Rumah,265050,69
+PRD2979,Sabun Mandi,Perlengkapan Rumah,217397,140
+PRD2980,Shampoo,Perlengkapan Rumah,304174,94
+PRD2981,Masker,Kesehatan,19543,10
+PRD2982,Hand Sanitizer,Kesehatan,299874,124
+PRD2983,Vitamin C,Kesehatan,371561,95
+PRD2984,Minyak Kayu Putih,Kesehatan,61330,149
+PRD2985,Plester,Kesehatan,254461,177
+PRD2986,Perban,Kesehatan,43976,37
+PRD2987,Obat Flu,Kesehatan,384827,188
+PRD2988,Obat Batuk,Kesehatan,277989,193
+PRD2989,Minuman Herbal,Kesehatan,410352,72
+PRD2990,Suplemen,Kesehatan,245760,133
+PRD2991,Multivitamin,Kesehatan,43017,134
+PRD2992,Minyak Ikan,Kesehatan,468572,157
+PRD2993,Salep Luka,Kesehatan,48371,63
+PRD2994,Obat Nyamuk,Kesehatan,249700,162
+PRD2995,Lotion,Kesehatan,390857,170
+PRD2996,Tabir Surya,Kesehatan,352600,20
+PRD2997,Vitamin E,Kesehatan,360651,163
+PRD2998,Probiotik,Kesehatan,284694,149
+PRD2999,Antasida,Kesehatan,165839,157
+PRD3000,Parasetamol,Kesehatan,29668,88
+PRD3001,Bola Basket,Olahraga,282511,200
+PRD3002,Bola Voli,Olahraga,7653,121
+PRD3003,Raket Badminton,Olahraga,240044,132
+PRD3004,Kok Bulu Tangkis,Olahraga,477033,121
+PRD3005,Matras Yoga,Olahraga,302923,188
+PRD3006,Dumbbell,Olahraga,175808,108
+PRD3007,Skipping,Olahraga,187028,76
+PRD3008,Botol Minum,Olahraga,153628,43
+PRD3009,Hand Grip,Olahraga,20521,178
+PRD3010,Resistance Band,Olahraga,485846,153
+PRD3011,Peluit,Olahraga,394914,78
+PRD3012,Stopwatch,Olahraga,383142,145
+PRD3013,Kaos Olahraga,Olahraga,138547,16
+PRD3014,Handuk,Olahraga,331934,122
+PRD3015,Sepatu Lari,Olahraga,305112,44
+PRD3016,Tas Gym,Olahraga,302343,14
+PRD3017,Topi Olahraga,Olahraga,346100,75
+PRD3018,Gelang Keringat,Olahraga,426094,189
+PRD3019,Sarung Tangan,Olahraga,329321,7
+PRD3020,Bola Sepak,Olahraga,152374,125
+PRD3021,Boneka,Mainan,45259,33
+PRD3022,Mobil Mobilan,Mainan,267077,20
+PRD3023,Puzzle,Mainan,448402,72
+PRD3024,LEGO,Mainan,134147,34
+PRD3025,Rubik,Mainan,324855,72
+PRD3026,Yo Yo,Mainan,146293,66
+PRD3027,Lato Lato,Mainan,9446,190
+PRD3028,Ketapel,Mainan,60484,155
+PRD3029,Kapal Kapalan,Mainan,93547,152
+PRD3030,Layang Layang,Mainan,389431,39
+PRD3031,Kelereng,Mainan,347587,115
+PRD3032,Ular Tangga,Mainan,195864,45
+PRD3033,Monopoli,Mainan,138971,180
+PRD3034,Uno Cards,Mainan,125834,125
+PRD3035,Katapel,Mainan,96796,136
+PRD3036,Tamiya,Mainan,453943,9
+PRD3037,Beyblade,Mainan,181751,22
+PRD3038,Slime,Mainan,78058,153
+PRD3039,Playdoh,Mainan,491654,40
+PRD3040,Balon,Mainan,441151,127
+PRD3041,Kabel USB,Elektronik,396663,106
+PRD3042,Charger HP,Elektronik,405894,99
+PRD3043,Power Bank,Elektronik,126752,170
+PRD3044,Mouse Wireless,Elektronik,232783,186
+PRD3045,Keyboard,Elektronik,336272,43
+PRD3046,Headset,Elektronik,112549,148
+PRD3047,Speaker Bluetooth,Elektronik,387016,89
+PRD3048,Kipas Angin Mini,Elektronik,30482,165
+PRD3049,Lampu LED,Elektronik,140619,194
+PRD3050,Adaptor,Elektronik,431670,30
+PRD3051,Kabel HDMI,Elektronik,29537,43
+PRD3052,Card Reader,Elektronik,245277,103
+PRD3053,USB Hub,Elektronik,251682,78
+PRD3054,Mouse Pad,Elektronik,251700,192
+PRD3055,Webcam,Elektronik,499157,193
+PRD3056,Microphone,Elektronik,485634,137
+PRD3057,Remote TV,Elektronik,124505,98
+PRD3058,Baterai AA,Elektronik,360356,181
+PRD3059,Baterai AAA,Elektronik,206509,122
+PRD3060,Charger Mobil,Elektronik,139691,38
+PRD3061,Mie Instan,Makanan,280104,112
+PRD3062,Biskuit,Makanan,8219,74
+PRD3063,Keripik Kentang,Makanan,488131,115
+PRD3064,Cokelat Batang,Makanan,202280,174
+PRD3065,Permen,Makanan,167511,136
+PRD3066,Kacang Goreng,Makanan,360023,11
+PRD3067,Roti Tawar,Makanan,53046,137
+PRD3068,Sereal,Makanan,336193,91
+PRD3069,Abon Sapi,Makanan,444624,111
+PRD3070,Dendeng,Makanan,322070,167
+PRD3071,Kerupuk Udang,Makanan,452025,70
+PRD3072,Kue Kering,Makanan,177619,70
+PRD3073,Selai Kacang,Makanan,142030,26
+PRD3074,Madu,Makanan,135873,168
+PRD3075,Tepung Terigu,Makanan,308276,101
+PRD3076,Gula Pasir,Makanan,243753,198
+PRD3077,Kopi Bubuk,Makanan,356047,192
+PRD3078,Teh Celup,Makanan,128771,188
+PRD3079,Susu Bubuk,Makanan,354263,151
+PRD3080, Agar-agar,Makanan,405962,50
+PRD3081,Air Mineral,Minuman,274604,87
+PRD3082,Jus Jeruk,Minuman,357319,177
+PRD3083,Soft Drink,Minuman,96328,81
+PRD3084,Teh Botol,Minuman,289106,3
+PRD3085,Kopi Instan,Minuman,354741,3
+PRD3086,Susu UHT,Minuman,438044,18
+PRD3087,Yogurt,Minuman,8271,106
+PRD3088,Minuman Isotonik,Minuman,53222,135
+PRD3089,Sirup,Minuman,56477,176
+PRD3090,Soda,Minuman,235802,90
+PRD3091,Jus Mangga,Minuman,117037,186
+PRD3092,Jus Apel,Minuman,150529,65
+PRD3093,Minuman Berenergi,Minuman,103229,9
+PRD3094,Air Kelapa,Minuman,14425,159
+PRD3095,Susu Kedelai,Minuman,50203,15
+PRD3096,Jahe Instan,Minuman,494047,153
+PRD3097,Cincau,Minuman,346250,56
+PRD3098,Es Krim,Minuman,316250,164
+PRD3099,Milkshake,Minuman,65853,182
+PRD3100,Kefir,Minuman,64902,23
+PRD3101,Pensil 2B,Alat Tulis,451021,155
+PRD3102,Bolpoin Hitam,Alat Tulis,70108,97
+PRD3103,Penghapus,Alat Tulis,346139,196
+PRD3104,Penggaris,Alat Tulis,473805,166
+PRD3105,Buku Tulis,Alat Tulis,298783,48
+PRD3106,Spidol,Alat Tulis,471762,29
+PRD3107,Stabilo,Alat Tulis,366722,48
+PRD3108,Lem Kertas,Alat Tulis,134820,76
+PRD3109,Gunting,Alat Tulis,246819,170
+PRD3110,Cutter,Alat Tulis,492829,20
+PRD3111,Amplop,Alat Tulis,336904,117
+PRD3112,Kertas HVS,Alat Tulis,485758,71
+PRD3113,Map Plastik,Alat Tulis,405365,110
+PRD3114,Binder,Alat Tulis,364923,171
+PRD3115,Klip Kertas,Alat Tulis,405639,198
+PRD3116,Isi Staples,Alat Tulis,171556,66
+PRD3117,Tipe-X,Alat Tulis,86916,200
+PRD3118,Pensil Warna,Alat Tulis,40795,71
+PRD3119,Krayon,Alat Tulis,409427,16
+PRD3120,Cat Air,Alat Tulis,202696,100
+PRD3121,Sapu,Perlengkapan Rumah,176406,16
+PRD3122,Pel,Perlengkapan Rumah,137391,68
+PRD3123,Ember,Perlengkapan Rumah,95286,113
+PRD3124,Lap Mikrofiber,Perlengkapan Rumah,38384,126
+PRD3125,Gelas Kaca,Perlengkapan Rumah,488846,52
+PRD3126,Piring,Perlengkapan Rumah,321973,101
+PRD3127,Mangkok,Perlengkapan Rumah,95555,166
+PRD3128,Sendok Set,Perlengkapan Rumah,259979,28
+PRD3129,Garpu,Perlengkapan Rumah,77430,139
+PRD3130,Pisau Dapur,Perlengkapan Rumah,405024,111
+PRD3131,Talenan,Perlengkapan Rumah,116497,158
+PRD3132,Panci,Perlengkapan Rumah,339294,28
+PRD3133,Wajan,Perlengkapan Rumah,480470,114
+PRD3134,Stoples,Perlengkapan Rumah,377075,67
+PRD3135,Rak Piring,Perlengkapan Rumah,56152,9
+PRD3136,Serbet,Perlengkapan Rumah,40230,19
+PRD3137,Sikat Gigi,Perlengkapan Rumah,301549,187
+PRD3138,Pasta Gigi,Perlengkapan Rumah,133384,199
+PRD3139,Sabun Mandi,Perlengkapan Rumah,235770,5
+PRD3140,Shampoo,Perlengkapan Rumah,472030,128
+PRD3141,Masker,Kesehatan,80042,168
+PRD3142,Hand Sanitizer,Kesehatan,337720,1
+PRD3143,Vitamin C,Kesehatan,491104,10
+PRD3144,Minyak Kayu Putih,Kesehatan,350444,100
+PRD3145,Plester,Kesehatan,141689,39
+PRD3146,Perban,Kesehatan,369030,85
+PRD3147,Obat Flu,Kesehatan,476280,101
+PRD3148,Obat Batuk,Kesehatan,303276,1
+PRD3149,Minuman Herbal,Kesehatan,272209,182
+PRD3150,Suplemen,Kesehatan,494784,198
+PRD3151,Multivitamin,Kesehatan,259257,123
+PRD3152,Minyak Ikan,Kesehatan,230619,104
+PRD3153,Salep Luka,Kesehatan,444524,187
+PRD3154,Obat Nyamuk,Kesehatan,411435,18
+PRD3155,Lotion,Kesehatan,285183,58
+PRD3156,Tabir Surya,Kesehatan,3734,99
+PRD3157,Vitamin E,Kesehatan,363371,200
+PRD3158,Probiotik,Kesehatan,254741,32
+PRD3159,Antasida,Kesehatan,299399,138
+PRD3160,Parasetamol,Kesehatan,492231,92
+PRD3161,Bola Basket,Olahraga,176818,175
+PRD3162,Bola Voli,Olahraga,160769,103
+PRD3163,Raket Badminton,Olahraga,30937,162
+PRD3164,Kok Bulu Tangkis,Olahraga,341253,24
+PRD3165,Matras Yoga,Olahraga,193551,137
+PRD3166,Dumbbell,Olahraga,449397,88
+PRD3167,Skipping,Olahraga,44182,118
+PRD3168,Botol Minum,Olahraga,400696,197
+PRD3169,Hand Grip,Olahraga,154021,166
+PRD3170,Resistance Band,Olahraga,108493,46
+PRD3171,Peluit,Olahraga,292704,11
+PRD3172,Stopwatch,Olahraga,203412,170
+PRD3173,Kaos Olahraga,Olahraga,102140,77
+PRD3174,Handuk,Olahraga,366842,100
+PRD3175,Sepatu Lari,Olahraga,472003,28
+PRD3176,Tas Gym,Olahraga,332624,177
+PRD3177,Topi Olahraga,Olahraga,190356,125
+PRD3178,Gelang Keringat,Olahraga,46492,162
+PRD3179,Sarung Tangan,Olahraga,231629,189
+PRD3180,Bola Sepak,Olahraga,101333,36
+PRD3181,Boneka,Mainan,20716,50
+PRD3182,Mobil Mobilan,Mainan,15298,185
+PRD3183,Puzzle,Mainan,312874,62
+PRD3184,LEGO,Mainan,258498,100
+PRD3185,Rubik,Mainan,35026,139
+PRD3186,Yo Yo,Mainan,339330,79
+PRD3187,Lato Lato,Mainan,263978,137
+PRD3188,Ketapel,Mainan,439387,116
+PRD3189,Kapal Kapalan,Mainan,10607,10
+PRD3190,Layang Layang,Mainan,179883,15
+PRD3191,Kelereng,Mainan,179061,185
+PRD3192,Ular Tangga,Mainan,24447,104
+PRD3193,Monopoli,Mainan,63964,55
+PRD3194,Uno Cards,Mainan,425154,168
+PRD3195,Katapel,Mainan,351865,134
+PRD3196,Tamiya,Mainan,242318,174
+PRD3197,Beyblade,Mainan,458235,138
+PRD3198,Slime,Mainan,80094,190
+PRD3199,Playdoh,Mainan,305744,60
+PRD3200,Balon,Mainan,486869,19
+PRD3201,Kabel USB,Elektronik,21334,189
+PRD3202,Charger HP,Elektronik,76234,126
+PRD3203,Power Bank,Elektronik,344796,5
+PRD3204,Mouse Wireless,Elektronik,249054,159
+PRD3205,Keyboard,Elektronik,26013,63
+PRD3206,Headset,Elektronik,369681,167
+PRD3207,Speaker Bluetooth,Elektronik,70439,4
+PRD3208,Kipas Angin Mini,Elektronik,92308,162
+PRD3209,Lampu LED,Elektronik,28192,79
+PRD3210,Adaptor,Elektronik,432303,25
+PRD3211,Kabel HDMI,Elektronik,241172,157
+PRD3212,Card Reader,Elektronik,91490,152
+PRD3213,USB Hub,Elektronik,35532,28
+PRD3214,Mouse Pad,Elektronik,61863,128
+PRD3215,Webcam,Elektronik,313939,158
+PRD3216,Microphone,Elektronik,117643,17
+PRD3217,Remote TV,Elektronik,423765,52
+PRD3218,Baterai AA,Elektronik,225457,87
+PRD3219,Baterai AAA,Elektronik,427470,189
+PRD3220,Charger Mobil,Elektronik,357675,103
+PRD3221,Mie Instan,Makanan,171992,31
+PRD3222,Biskuit,Makanan,360659,148
+PRD3223,Keripik Kentang,Makanan,288200,36
+PRD3224,Cokelat Batang,Makanan,170605,55
+PRD3225,Permen,Makanan,402675,12
+PRD3226,Kacang Goreng,Makanan,312947,45
+PRD3227,Roti Tawar,Makanan,177900,17
+PRD3228,Sereal,Makanan,65305,71
+PRD3229,Abon Sapi,Makanan,76048,194
+PRD3230,Dendeng,Makanan,219660,44
+PRD3231,Kerupuk Udang,Makanan,367059,95
+PRD3232,Kue Kering,Makanan,292145,43
+PRD3233,Selai Kacang,Makanan,231984,63
+PRD3234,Madu,Makanan,487320,149
+PRD3235,Tepung Terigu,Makanan,23337,35
+PRD3236,Gula Pasir,Makanan,54411,162
+PRD3237,Kopi Bubuk,Makanan,323095,97
+PRD3238,Teh Celup,Makanan,409718,41
+PRD3239,Susu Bubuk,Makanan,10194,125
+PRD3240, Agar-agar,Makanan,44321,2
+PRD3241,Air Mineral,Minuman,5787,46
+PRD3242,Jus Jeruk,Minuman,487562,23
+PRD3243,Soft Drink,Minuman,372535,167
+PRD3244,Teh Botol,Minuman,313285,73
+PRD3245,Kopi Instan,Minuman,220220,178
+PRD3246,Susu UHT,Minuman,425316,198
+PRD3247,Yogurt,Minuman,251567,178
+PRD3248,Minuman Isotonik,Minuman,68528,53
+PRD3249,Sirup,Minuman,77019,164
+PRD3250,Soda,Minuman,144055,134
+PRD3251,Jus Mangga,Minuman,238149,106
+PRD3252,Jus Apel,Minuman,127437,45
+PRD3253,Minuman Berenergi,Minuman,322097,178
+PRD3254,Air Kelapa,Minuman,21724,153
+PRD3255,Susu Kedelai,Minuman,96372,184
+PRD3256,Jahe Instan,Minuman,264085,157
+PRD3257,Cincau,Minuman,48148,161
+PRD3258,Es Krim,Minuman,435315,78
+PRD3259,Milkshake,Minuman,184375,108
+PRD3260,Kefir,Minuman,4396,143
+PRD3261,Pensil 2B,Alat Tulis,125542,50
+PRD3262,Bolpoin Hitam,Alat Tulis,63607,136
+PRD3263,Penghapus,Alat Tulis,52165,159
+PRD3264,Penggaris,Alat Tulis,191740,195
+PRD3265,Buku Tulis,Alat Tulis,284970,130
+PRD3266,Spidol,Alat Tulis,116963,119
+PRD3267,Stabilo,Alat Tulis,405875,161
+PRD3268,Lem Kertas,Alat Tulis,347677,54
+PRD3269,Gunting,Alat Tulis,146927,14
+PRD3270,Cutter,Alat Tulis,103564,29
+PRD3271,Amplop,Alat Tulis,419654,39
+PRD3272,Kertas HVS,Alat Tulis,361265,122
+PRD3273,Map Plastik,Alat Tulis,262841,46
+PRD3274,Binder,Alat Tulis,85760,172
+PRD3275,Klip Kertas,Alat Tulis,485746,12
+PRD3276,Isi Staples,Alat Tulis,30326,166
+PRD3277,Tipe-X,Alat Tulis,192942,73
+PRD3278,Pensil Warna,Alat Tulis,111885,112
+PRD3279,Krayon,Alat Tulis,133796,86
+PRD3280,Cat Air,Alat Tulis,325390,195
+PRD3281,Sapu,Perlengkapan Rumah,239579,12
+PRD3282,Pel,Perlengkapan Rumah,56746,190
+PRD3283,Ember,Perlengkapan Rumah,29502,138
+PRD3284,Lap Mikrofiber,Perlengkapan Rumah,94215,41
+PRD3285,Gelas Kaca,Perlengkapan Rumah,413824,8
+PRD3286,Piring,Perlengkapan Rumah,256311,132
+PRD3287,Mangkok,Perlengkapan Rumah,62851,19
+PRD3288,Sendok Set,Perlengkapan Rumah,471279,61
+PRD3289,Garpu,Perlengkapan Rumah,380222,114
+PRD3290,Pisau Dapur,Perlengkapan Rumah,312748,149
+PRD3291,Talenan,Perlengkapan Rumah,172903,108
+PRD3292,Panci,Perlengkapan Rumah,106202,192
+PRD3293,Wajan,Perlengkapan Rumah,356865,84
+PRD3294,Stoples,Perlengkapan Rumah,122619,200
+PRD3295,Rak Piring,Perlengkapan Rumah,59741,84
+PRD3296,Serbet,Perlengkapan Rumah,121423,26
+PRD3297,Sikat Gigi,Perlengkapan Rumah,126318,189
+PRD3298,Pasta Gigi,Perlengkapan Rumah,218318,52
+PRD3299,Sabun Mandi,Perlengkapan Rumah,198887,57
+PRD3300,Shampoo,Perlengkapan Rumah,40550,121
+PRD3301,Masker,Kesehatan,308756,125
+PRD3302,Hand Sanitizer,Kesehatan,30489,112
+PRD3303,Vitamin C,Kesehatan,77990,56
+PRD3304,Minyak Kayu Putih,Kesehatan,488480,157
+PRD3305,Plester,Kesehatan,240546,46
+PRD3306,Perban,Kesehatan,205072,96
+PRD3307,Obat Flu,Kesehatan,73515,118
+PRD3308,Obat Batuk,Kesehatan,379393,50
+PRD3309,Minuman Herbal,Kesehatan,333361,92
+PRD3310,Suplemen,Kesehatan,143397,52
+PRD3311,Multivitamin,Kesehatan,178103,33
+PRD3312,Minyak Ikan,Kesehatan,18826,178
+PRD3313,Salep Luka,Kesehatan,300144,16
+PRD3314,Obat Nyamuk,Kesehatan,149117,35
+PRD3315,Lotion,Kesehatan,60253,120
+PRD3316,Tabir Surya,Kesehatan,242427,108
+PRD3317,Vitamin E,Kesehatan,91758,195
+PRD3318,Probiotik,Kesehatan,182132,57
+PRD3319,Antasida,Kesehatan,466733,76
+PRD3320,Parasetamol,Kesehatan,318479,41
+PRD3321,Bola Basket,Olahraga,415949,164
+PRD3322,Bola Voli,Olahraga,322616,44
+PRD3323,Raket Badminton,Olahraga,305102,142
+PRD3324,Kok Bulu Tangkis,Olahraga,450268,59
+PRD3325,Matras Yoga,Olahraga,47337,106
+PRD3326,Dumbbell,Olahraga,451301,134
+PRD3327,Skipping,Olahraga,258488,56
+PRD3328,Botol Minum,Olahraga,312158,122
+PRD3329,Hand Grip,Olahraga,440823,119
+PRD3330,Resistance Band,Olahraga,148365,4
+PRD3331,Peluit,Olahraga,384739,110
+PRD3332,Stopwatch,Olahraga,387969,64
+PRD3333,Kaos Olahraga,Olahraga,131935,84
+PRD3334,Handuk,Olahraga,229671,149
+PRD3335,Sepatu Lari,Olahraga,118605,152
+PRD3336,Tas Gym,Olahraga,498108,39
+PRD3337,Topi Olahraga,Olahraga,481070,147
+PRD3338,Gelang Keringat,Olahraga,472942,2
+PRD3339,Sarung Tangan,Olahraga,221032,12
+PRD3340,Bola Sepak,Olahraga,23002,121
+PRD3341,Boneka,Mainan,386552,197
+PRD3342,Mobil Mobilan,Mainan,266354,9
+PRD3343,Puzzle,Mainan,225188,136
+PRD3344,LEGO,Mainan,208737,123
+PRD3345,Rubik,Mainan,426524,179
+PRD3346,Yo Yo,Mainan,432593,26
+PRD3347,Lato Lato,Mainan,239209,127
+PRD3348,Ketapel,Mainan,128097,22
+PRD3349,Kapal Kapalan,Mainan,294808,193
+PRD3350,Layang Layang,Mainan,8513,178
+PRD3351,Kelereng,Mainan,385666,105
+PRD3352,Ular Tangga,Mainan,116298,34
+PRD3353,Monopoli,Mainan,189907,76
+PRD3354,Uno Cards,Mainan,127337,166
+PRD3355,Katapel,Mainan,49568,5
+PRD3356,Tamiya,Mainan,253544,172
+PRD3357,Beyblade,Mainan,161822,42
+PRD3358,Slime,Mainan,370734,118
+PRD3359,Playdoh,Mainan,451798,147
+PRD3360,Balon,Mainan,393793,150
+PRD3361,Kabel USB,Elektronik,14799,117
+PRD3362,Charger HP,Elektronik,245144,198
+PRD3363,Power Bank,Elektronik,74678,181
+PRD3364,Mouse Wireless,Elektronik,214525,48
+PRD3365,Keyboard,Elektronik,416113,95
+PRD3366,Headset,Elektronik,330629,119
+PRD3367,Speaker Bluetooth,Elektronik,371047,163
+PRD3368,Kipas Angin Mini,Elektronik,2714,161
+PRD3369,Lampu LED,Elektronik,39066,99
+PRD3370,Adaptor,Elektronik,470416,177
+PRD3371,Kabel HDMI,Elektronik,176538,136
+PRD3372,Card Reader,Elektronik,19151,76
+PRD3373,USB Hub,Elektronik,225295,193
+PRD3374,Mouse Pad,Elektronik,143447,179
+PRD3375,Webcam,Elektronik,498026,157
+PRD3376,Microphone,Elektronik,286392,148
+PRD3377,Remote TV,Elektronik,418535,54
+PRD3378,Baterai AA,Elektronik,414977,176
+PRD3379,Baterai AAA,Elektronik,44445,159
+PRD3380,Charger Mobil,Elektronik,463817,86
+PRD3381,Mie Instan,Makanan,387750,15
+PRD3382,Biskuit,Makanan,271870,173
+PRD3383,Keripik Kentang,Makanan,192835,14
+PRD3384,Cokelat Batang,Makanan,60178,99
+PRD3385,Permen,Makanan,193674,120
+PRD3386,Kacang Goreng,Makanan,326604,11
+PRD3387,Roti Tawar,Makanan,193664,94
+PRD3388,Sereal,Makanan,93890,166
+PRD3389,Abon Sapi,Makanan,294967,181
+PRD3390,Dendeng,Makanan,37130,144
+PRD3391,Kerupuk Udang,Makanan,373896,199
+PRD3392,Kue Kering,Makanan,109328,36
+PRD3393,Selai Kacang,Makanan,177599,62
+PRD3394,Madu,Makanan,284923,30
+PRD3395,Tepung Terigu,Makanan,342283,123
+PRD3396,Gula Pasir,Makanan,388599,193
+PRD3397,Kopi Bubuk,Makanan,306149,180
+PRD3398,Teh Celup,Makanan,111992,193
+PRD3399,Susu Bubuk,Makanan,392603,195
+PRD3400, Agar-agar,Makanan,120194,83
+PRD3401,Air Mineral,Minuman,186922,69
+PRD3402,Jus Jeruk,Minuman,266013,175
+PRD3403,Soft Drink,Minuman,223736,71
+PRD3404,Teh Botol,Minuman,30552,17
+PRD3405,Kopi Instan,Minuman,197461,89
+PRD3406,Susu UHT,Minuman,239193,125
+PRD3407,Yogurt,Minuman,264904,135
+PRD3408,Minuman Isotonik,Minuman,436928,32
+PRD3409,Sirup,Minuman,248501,182
+PRD3410,Soda,Minuman,280871,174
+PRD3411,Jus Mangga,Minuman,434736,137
+PRD3412,Jus Apel,Minuman,473571,75
+PRD3413,Minuman Berenergi,Minuman,238966,159
+PRD3414,Air Kelapa,Minuman,195014,173
+PRD3415,Susu Kedelai,Minuman,497643,178
+PRD3416,Jahe Instan,Minuman,426041,17
+PRD3417,Cincau,Minuman,100751,118
+PRD3418,Es Krim,Minuman,47774,21
+PRD3419,Milkshake,Minuman,206830,46
+PRD3420,Kefir,Minuman,153190,20
+PRD3421,Pensil 2B,Alat Tulis,59338,43
+PRD3422,Bolpoin Hitam,Alat Tulis,146673,29
+PRD3423,Penghapus,Alat Tulis,367471,38
+PRD3424,Penggaris,Alat Tulis,262219,39
+PRD3425,Buku Tulis,Alat Tulis,460748,53
+PRD3426,Spidol,Alat Tulis,274990,161
+PRD3427,Stabilo,Alat Tulis,13896,76
+PRD3428,Lem Kertas,Alat Tulis,220385,175
+PRD3429,Gunting,Alat Tulis,285867,34
+PRD3430,Cutter,Alat Tulis,250462,89
+PRD3431,Amplop,Alat Tulis,222269,114
+PRD3432,Kertas HVS,Alat Tulis,388772,166
+PRD3433,Map Plastik,Alat Tulis,13262,75
+PRD3434,Binder,Alat Tulis,101122,17
+PRD3435,Klip Kertas,Alat Tulis,13553,60
+PRD3436,Isi Staples,Alat Tulis,439752,134
+PRD3437,Tipe-X,Alat Tulis,339993,86
+PRD3438,Pensil Warna,Alat Tulis,217845,149
+PRD3439,Krayon,Alat Tulis,181721,168
+PRD3440,Cat Air,Alat Tulis,340716,84
+PRD3441,Sapu,Perlengkapan Rumah,256881,152
+PRD3442,Pel,Perlengkapan Rumah,351099,179
+PRD3443,Ember,Perlengkapan Rumah,279959,141
+PRD3444,Lap Mikrofiber,Perlengkapan Rumah,235442,118
+PRD3445,Gelas Kaca,Perlengkapan Rumah,161426,146
+PRD3446,Piring,Perlengkapan Rumah,71182,79
+PRD3447,Mangkok,Perlengkapan Rumah,92039,67
+PRD3448,Sendok Set,Perlengkapan Rumah,120899,124
+PRD3449,Garpu,Perlengkapan Rumah,196983,74
+PRD3450,Pisau Dapur,Perlengkapan Rumah,405570,13
+PRD3451,Talenan,Perlengkapan Rumah,79772,91
+PRD3452,Panci,Perlengkapan Rumah,151098,117
+PRD3453,Wajan,Perlengkapan Rumah,89222,159
+PRD3454,Stoples,Perlengkapan Rumah,486511,42
+PRD3455,Rak Piring,Perlengkapan Rumah,375194,138
+PRD3456,Serbet,Perlengkapan Rumah,151551,47
+PRD3457,Sikat Gigi,Perlengkapan Rumah,93938,182
+PRD3458,Pasta Gigi,Perlengkapan Rumah,365257,171
+PRD3459,Sabun Mandi,Perlengkapan Rumah,418524,40
+PRD3460,Shampoo,Perlengkapan Rumah,86543,61
+PRD3461,Masker,Kesehatan,63298,11
+PRD3462,Hand Sanitizer,Kesehatan,168003,148
+PRD3463,Vitamin C,Kesehatan,68308,113
+PRD3464,Minyak Kayu Putih,Kesehatan,138528,95
+PRD3465,Plester,Kesehatan,98729,53
+PRD3466,Perban,Kesehatan,296905,182
+PRD3467,Obat Flu,Kesehatan,20187,171
+PRD3468,Obat Batuk,Kesehatan,168169,89
+PRD3469,Minuman Herbal,Kesehatan,79565,96
+PRD3470,Suplemen,Kesehatan,237105,139
+PRD3471,Multivitamin,Kesehatan,87247,137
+PRD3472,Minyak Ikan,Kesehatan,160104,32
+PRD3473,Salep Luka,Kesehatan,484572,7
+PRD3474,Obat Nyamuk,Kesehatan,214107,128
+PRD3475,Lotion,Kesehatan,404924,38
+PRD3476,Tabir Surya,Kesehatan,498914,118
+PRD3477,Vitamin E,Kesehatan,488440,82
+PRD3478,Probiotik,Kesehatan,83816,2
+PRD3479,Antasida,Kesehatan,389184,140
+PRD3480,Parasetamol,Kesehatan,268028,85
+PRD3481,Bola Basket,Olahraga,341342,181
+PRD3482,Bola Voli,Olahraga,156956,122
+PRD3483,Raket Badminton,Olahraga,471750,75
+PRD3484,Kok Bulu Tangkis,Olahraga,496932,194
+PRD3485,Matras Yoga,Olahraga,302798,171
+PRD3486,Dumbbell,Olahraga,79114,145
+PRD3487,Skipping,Olahraga,383966,114
+PRD3488,Botol Minum,Olahraga,179568,177
+PRD3489,Hand Grip,Olahraga,60885,188
+PRD3490,Resistance Band,Olahraga,253124,11
+PRD3491,Peluit,Olahraga,75097,174
+PRD3492,Stopwatch,Olahraga,290861,30
+PRD3493,Kaos Olahraga,Olahraga,163523,7
+PRD3494,Handuk,Olahraga,212569,159
+PRD3495,Sepatu Lari,Olahraga,442861,57
+PRD3496,Tas Gym,Olahraga,235818,92
+PRD3497,Topi Olahraga,Olahraga,50486,84
+PRD3498,Gelang Keringat,Olahraga,30853,156
+PRD3499,Sarung Tangan,Olahraga,338232,50
+PRD3500,Bola Sepak,Olahraga,307886,135
+PRD3501,Boneka,Mainan,118467,197
+PRD3502,Mobil Mobilan,Mainan,147713,51
+PRD3503,Puzzle,Mainan,13821,22
+PRD3504,LEGO,Mainan,284283,115
+PRD3505,Rubik,Mainan,356976,172
+PRD3506,Yo Yo,Mainan,47810,132
+PRD3507,Lato Lato,Mainan,208791,50
+PRD3508,Ketapel,Mainan,259145,82
+PRD3509,Kapal Kapalan,Mainan,318235,155
+PRD3510,Layang Layang,Mainan,270202,15
+PRD3511,Kelereng,Mainan,478287,171
+PRD3512,Ular Tangga,Mainan,191301,102
+PRD3513,Monopoli,Mainan,79566,184
+PRD3514,Uno Cards,Mainan,449639,110
+PRD3515,Katapel,Mainan,195792,99
+PRD3516,Tamiya,Mainan,197470,4
+PRD3517,Beyblade,Mainan,151238,89
+PRD3518,Slime,Mainan,186211,79
+PRD3519,Playdoh,Mainan,235610,144
+PRD3520,Balon,Mainan,47926,56
+PRD3521,Kabel USB,Elektronik,383604,114
+PRD3522,Charger HP,Elektronik,390774,107
+PRD3523,Power Bank,Elektronik,423362,114
+PRD3524,Mouse Wireless,Elektronik,153327,42
+PRD3525,Keyboard,Elektronik,424404,187
+PRD3526,Headset,Elektronik,472665,109
+PRD3527,Speaker Bluetooth,Elektronik,383999,107
+PRD3528,Kipas Angin Mini,Elektronik,75173,151
+PRD3529,Lampu LED,Elektronik,315490,23
+PRD3530,Adaptor,Elektronik,77308,54
+PRD3531,Kabel HDMI,Elektronik,160980,122
+PRD3532,Card Reader,Elektronik,456833,135
+PRD3533,USB Hub,Elektronik,177854,17
+PRD3534,Mouse Pad,Elektronik,491240,152
+PRD3535,Webcam,Elektronik,398421,97
+PRD3536,Microphone,Elektronik,48372,2
+PRD3537,Remote TV,Elektronik,216675,164
+PRD3538,Baterai AA,Elektronik,481414,70
+PRD3539,Baterai AAA,Elektronik,219324,45
+PRD3540,Charger Mobil,Elektronik,293406,119
+PRD3541,Mie Instan,Makanan,374373,146
+PRD3542,Biskuit,Makanan,397965,36
+PRD3543,Keripik Kentang,Makanan,106468,48
+PRD3544,Cokelat Batang,Makanan,438356,98
+PRD3545,Permen,Makanan,153762,142
+PRD3546,Kacang Goreng,Makanan,259208,11
+PRD3547,Roti Tawar,Makanan,433383,78
+PRD3548,Sereal,Makanan,439563,150
+PRD3549,Abon Sapi,Makanan,161338,127
+PRD3550,Dendeng,Makanan,295224,190
+PRD3551,Kerupuk Udang,Makanan,244982,58
+PRD3552,Kue Kering,Makanan,16071,1
+PRD3553,Selai Kacang,Makanan,82752,68
+PRD3554,Madu,Makanan,159375,164
+PRD3555,Tepung Terigu,Makanan,439383,163
+PRD3556,Gula Pasir,Makanan,249747,32
+PRD3557,Kopi Bubuk,Makanan,344786,171
+PRD3558,Teh Celup,Makanan,470024,74
+PRD3559,Susu Bubuk,Makanan,220710,46
+PRD3560, Agar-agar,Makanan,259890,177
+PRD3561,Air Mineral,Minuman,340053,63
+PRD3562,Jus Jeruk,Minuman,16912,31
+PRD3563,Soft Drink,Minuman,402932,71
+PRD3564,Teh Botol,Minuman,260500,18
+PRD3565,Kopi Instan,Minuman,315991,191
+PRD3566,Susu UHT,Minuman,191666,149
+PRD3567,Yogurt,Minuman,253912,145
+PRD3568,Minuman Isotonik,Minuman,230625,67
+PRD3569,Sirup,Minuman,331250,176
+PRD3570,Soda,Minuman,251582,178
+PRD3571,Jus Mangga,Minuman,431014,31
+PRD3572,Jus Apel,Minuman,197665,132
+PRD3573,Minuman Berenergi,Minuman,386280,148
+PRD3574,Air Kelapa,Minuman,11198,67
+PRD3575,Susu Kedelai,Minuman,87378,149
+PRD3576,Jahe Instan,Minuman,32676,38
+PRD3577,Cincau,Minuman,169604,119
+PRD3578,Es Krim,Minuman,462491,178
+PRD3579,Milkshake,Minuman,73039,92
+PRD3580,Kefir,Minuman,87620,14
+PRD3581,Pensil 2B,Alat Tulis,144957,93
+PRD3582,Bolpoin Hitam,Alat Tulis,221946,163
+PRD3583,Penghapus,Alat Tulis,480205,92
+PRD3584,Penggaris,Alat Tulis,27540,75
+PRD3585,Buku Tulis,Alat Tulis,154915,136
+PRD3586,Spidol,Alat Tulis,336991,20
+PRD3587,Stabilo,Alat Tulis,271414,50
+PRD3588,Lem Kertas,Alat Tulis,403836,161
+PRD3589,Gunting,Alat Tulis,98074,196
+PRD3590,Cutter,Alat Tulis,51549,154
+PRD3591,Amplop,Alat Tulis,396594,43
+PRD3592,Kertas HVS,Alat Tulis,287061,83
+PRD3593,Map Plastik,Alat Tulis,459411,81
+PRD3594,Binder,Alat Tulis,435492,176
+PRD3595,Klip Kertas,Alat Tulis,421366,78
+PRD3596,Isi Staples,Alat Tulis,144322,176
+PRD3597,Tipe-X,Alat Tulis,367935,177
+PRD3598,Pensil Warna,Alat Tulis,192066,25
+PRD3599,Krayon,Alat Tulis,282190,149
+PRD3600,Cat Air,Alat Tulis,186355,37
+PRD3601,Sapu,Perlengkapan Rumah,8762,36
+PRD3602,Pel,Perlengkapan Rumah,273670,73
+PRD3603,Ember,Perlengkapan Rumah,197566,200
+PRD3604,Lap Mikrofiber,Perlengkapan Rumah,256226,106
+PRD3605,Gelas Kaca,Perlengkapan Rumah,180422,42
+PRD3606,Piring,Perlengkapan Rumah,55696,56
+PRD3607,Mangkok,Perlengkapan Rumah,83031,129
+PRD3608,Sendok Set,Perlengkapan Rumah,117927,49
+PRD3609,Garpu,Perlengkapan Rumah,418864,144
+PRD3610,Pisau Dapur,Perlengkapan Rumah,323613,177
+PRD3611,Talenan,Perlengkapan Rumah,437901,135
+PRD3612,Panci,Perlengkapan Rumah,445584,137
+PRD3613,Wajan,Perlengkapan Rumah,375579,142
+PRD3614,Stoples,Perlengkapan Rumah,370189,194
+PRD3615,Rak Piring,Perlengkapan Rumah,422783,30
+PRD3616,Serbet,Perlengkapan Rumah,220809,118
+PRD3617,Sikat Gigi,Perlengkapan Rumah,482264,20
+PRD3618,Pasta Gigi,Perlengkapan Rumah,63113,34
+PRD3619,Sabun Mandi,Perlengkapan Rumah,486132,5
+PRD3620,Shampoo,Perlengkapan Rumah,253405,90
+PRD3621,Masker,Kesehatan,165354,177
+PRD3622,Hand Sanitizer,Kesehatan,192090,36
+PRD3623,Vitamin C,Kesehatan,430363,114
+PRD3624,Minyak Kayu Putih,Kesehatan,468472,153
+PRD3625,Plester,Kesehatan,276266,196
+PRD3626,Perban,Kesehatan,181330,45
+PRD3627,Obat Flu,Kesehatan,374189,78
+PRD3628,Obat Batuk,Kesehatan,17078,191
+PRD3629,Minuman Herbal,Kesehatan,429071,31
+PRD3630,Suplemen,Kesehatan,118579,33
+PRD3631,Multivitamin,Kesehatan,451217,178
+PRD3632,Minyak Ikan,Kesehatan,76637,177
+PRD3633,Salep Luka,Kesehatan,120790,79
+PRD3634,Obat Nyamuk,Kesehatan,67716,54
+PRD3635,Lotion,Kesehatan,70271,21
+PRD3636,Tabir Surya,Kesehatan,224720,177
+PRD3637,Vitamin E,Kesehatan,402044,29
+PRD3638,Probiotik,Kesehatan,42755,5
+PRD3639,Antasida,Kesehatan,408161,124
+PRD3640,Parasetamol,Kesehatan,399061,111
+PRD3641,Bola Basket,Olahraga,24291,51
+PRD3642,Bola Voli,Olahraga,58527,9
+PRD3643,Raket Badminton,Olahraga,417789,169
+PRD3644,Kok Bulu Tangkis,Olahraga,271210,152
+PRD3645,Matras Yoga,Olahraga,33072,121
+PRD3646,Dumbbell,Olahraga,64349,65
+PRD3647,Skipping,Olahraga,24691,17
+PRD3648,Botol Minum,Olahraga,160149,171
+PRD3649,Hand Grip,Olahraga,7385,194
+PRD3650,Resistance Band,Olahraga,52595,32
+PRD3651,Peluit,Olahraga,484396,155
+PRD3652,Stopwatch,Olahraga,109689,151
+PRD3653,Kaos Olahraga,Olahraga,474475,52
+PRD3654,Handuk,Olahraga,98878,172
+PRD3655,Sepatu Lari,Olahraga,186304,8
+PRD3656,Tas Gym,Olahraga,49594,38
+PRD3657,Topi Olahraga,Olahraga,445475,192
+PRD3658,Gelang Keringat,Olahraga,495798,72
+PRD3659,Sarung Tangan,Olahraga,499440,149
+PRD3660,Bola Sepak,Olahraga,184366,91
+PRD3661,Boneka,Mainan,86178,129
+PRD3662,Mobil Mobilan,Mainan,411365,187
+PRD3663,Puzzle,Mainan,323365,62
+PRD3664,LEGO,Mainan,266717,146
+PRD3665,Rubik,Mainan,37828,26
+PRD3666,Yo Yo,Mainan,431699,149
+PRD3667,Lato Lato,Mainan,402159,4
+PRD3668,Ketapel,Mainan,279263,56
+PRD3669,Kapal Kapalan,Mainan,377291,50
+PRD3670,Layang Layang,Mainan,149774,44
+PRD3671,Kelereng,Mainan,474729,194
+PRD3672,Ular Tangga,Mainan,283608,2
+PRD3673,Monopoli,Mainan,382291,26
+PRD3674,Uno Cards,Mainan,486563,55
+PRD3675,Katapel,Mainan,484595,130
+PRD3676,Tamiya,Mainan,448324,182
+PRD3677,Beyblade,Mainan,250887,94
+PRD3678,Slime,Mainan,368022,151
+PRD3679,Playdoh,Mainan,99059,113
+PRD3680,Balon,Mainan,355121,28
+PRD3681,Kabel USB,Elektronik,96816,91
+PRD3682,Charger HP,Elektronik,201027,109
+PRD3683,Power Bank,Elektronik,114341,132
+PRD3684,Mouse Wireless,Elektronik,121303,105
+PRD3685,Keyboard,Elektronik,61163,195
+PRD3686,Headset,Elektronik,166773,32
+PRD3687,Speaker Bluetooth,Elektronik,246266,29
+PRD3688,Kipas Angin Mini,Elektronik,274486,35
+PRD3689,Lampu LED,Elektronik,261950,196
+PRD3690,Adaptor,Elektronik,191399,181
+PRD3691,Kabel HDMI,Elektronik,153137,143
+PRD3692,Card Reader,Elektronik,380607,11
+PRD3693,USB Hub,Elektronik,45121,84
+PRD3694,Mouse Pad,Elektronik,260847,30
+PRD3695,Webcam,Elektronik,203736,73
+PRD3696,Microphone,Elektronik,241571,154
+PRD3697,Remote TV,Elektronik,387967,80
+PRD3698,Baterai AA,Elektronik,362210,114
+PRD3699,Baterai AAA,Elektronik,120422,142
+PRD3700,Charger Mobil,Elektronik,215533,75
+PRD3701,Mie Instan,Makanan,450457,110
+PRD3702,Biskuit,Makanan,100977,18
+PRD3703,Keripik Kentang,Makanan,471109,122
+PRD3704,Cokelat Batang,Makanan,494349,174
+PRD3705,Permen,Makanan,194645,46
+PRD3706,Kacang Goreng,Makanan,8703,173
+PRD3707,Roti Tawar,Makanan,259765,173
+PRD3708,Sereal,Makanan,57140,102
+PRD3709,Abon Sapi,Makanan,231668,134
+PRD3710,Dendeng,Makanan,347268,174
+PRD3711,Kerupuk Udang,Makanan,46567,31
+PRD3712,Kue Kering,Makanan,77165,102
+PRD3713,Selai Kacang,Makanan,212042,178
+PRD3714,Madu,Makanan,311622,27
+PRD3715,Tepung Terigu,Makanan,390723,44
+PRD3716,Gula Pasir,Makanan,35926,94
+PRD3717,Kopi Bubuk,Makanan,106378,87
+PRD3718,Teh Celup,Makanan,106995,153
+PRD3719,Susu Bubuk,Makanan,444514,104
+PRD3720, Agar-agar,Makanan,66362,60
+PRD3721,Air Mineral,Minuman,441410,109
+PRD3722,Jus Jeruk,Minuman,382213,128
+PRD3723,Soft Drink,Minuman,148023,196
+PRD3724,Teh Botol,Minuman,376076,197
+PRD3725,Kopi Instan,Minuman,307092,152
+PRD3726,Susu UHT,Minuman,145116,194
+PRD3727,Yogurt,Minuman,415921,165
+PRD3728,Minuman Isotonik,Minuman,496521,103
+PRD3729,Sirup,Minuman,188697,122
+PRD3730,Soda,Minuman,351530,155
+PRD3731,Jus Mangga,Minuman,214044,125
+PRD3732,Jus Apel,Minuman,270128,72
+PRD3733,Minuman Berenergi,Minuman,79266,197
+PRD3734,Air Kelapa,Minuman,240359,28
+PRD3735,Susu Kedelai,Minuman,66062,65
+PRD3736,Jahe Instan,Minuman,258555,128
+PRD3737,Cincau,Minuman,123017,161
+PRD3738,Es Krim,Minuman,496090,35
+PRD3739,Milkshake,Minuman,17583,26
+PRD3740,Kefir,Minuman,388818,14
+PRD3741,Pensil 2B,Alat Tulis,437322,18
+PRD3742,Bolpoin Hitam,Alat Tulis,263166,174
+PRD3743,Penghapus,Alat Tulis,16024,46
+PRD3744,Penggaris,Alat Tulis,202609,155
+PRD3745,Buku Tulis,Alat Tulis,358098,84
+PRD3746,Spidol,Alat Tulis,82077,78
+PRD3747,Stabilo,Alat Tulis,328089,160
+PRD3748,Lem Kertas,Alat Tulis,52506,195
+PRD3749,Gunting,Alat Tulis,42117,170
+PRD3750,Cutter,Alat Tulis,396059,134
+PRD3751,Amplop,Alat Tulis,404428,127
+PRD3752,Kertas HVS,Alat Tulis,417619,120
+PRD3753,Map Plastik,Alat Tulis,107870,76
+PRD3754,Binder,Alat Tulis,349127,128
+PRD3755,Klip Kertas,Alat Tulis,259032,130
+PRD3756,Isi Staples,Alat Tulis,139187,139
+PRD3757,Tipe-X,Alat Tulis,182153,139
+PRD3758,Pensil Warna,Alat Tulis,288586,5
+PRD3759,Krayon,Alat Tulis,402537,9
+PRD3760,Cat Air,Alat Tulis,227656,31
+PRD3761,Sapu,Perlengkapan Rumah,203132,116
+PRD3762,Pel,Perlengkapan Rumah,166919,97
+PRD3763,Ember,Perlengkapan Rumah,234026,118
+PRD3764,Lap Mikrofiber,Perlengkapan Rumah,20864,9
+PRD3765,Gelas Kaca,Perlengkapan Rumah,94730,143
+PRD3766,Piring,Perlengkapan Rumah,347721,200
+PRD3767,Mangkok,Perlengkapan Rumah,160882,181
+PRD3768,Sendok Set,Perlengkapan Rumah,88058,126
+PRD3769,Garpu,Perlengkapan Rumah,227800,35
+PRD3770,Pisau Dapur,Perlengkapan Rumah,165818,184
+PRD3771,Talenan,Perlengkapan Rumah,205990,125
+PRD3772,Panci,Perlengkapan Rumah,402561,29
+PRD3773,Wajan,Perlengkapan Rumah,300243,173
+PRD3774,Stoples,Perlengkapan Rumah,259191,169
+PRD3775,Rak Piring,Perlengkapan Rumah,292342,176
+PRD3776,Serbet,Perlengkapan Rumah,284796,147
+PRD3777,Sikat Gigi,Perlengkapan Rumah,248320,122
+PRD3778,Pasta Gigi,Perlengkapan Rumah,296783,41
+PRD3779,Sabun Mandi,Perlengkapan Rumah,267648,15
+PRD3780,Shampoo,Perlengkapan Rumah,207198,68
+PRD3781,Masker,Kesehatan,261360,152
+PRD3782,Hand Sanitizer,Kesehatan,200074,158
+PRD3783,Vitamin C,Kesehatan,356674,91
+PRD3784,Minyak Kayu Putih,Kesehatan,403851,73
+PRD3785,Plester,Kesehatan,170025,16
+PRD3786,Perban,Kesehatan,16757,152
+PRD3787,Obat Flu,Kesehatan,25655,33
+PRD3788,Obat Batuk,Kesehatan,440794,94
+PRD3789,Minuman Herbal,Kesehatan,184911,190
+PRD3790,Suplemen,Kesehatan,308166,7
+PRD3791,Multivitamin,Kesehatan,403182,161
+PRD3792,Minyak Ikan,Kesehatan,180916,98
+PRD3793,Salep Luka,Kesehatan,53039,110
+PRD3794,Obat Nyamuk,Kesehatan,182954,92
+PRD3795,Lotion,Kesehatan,217969,90
+PRD3796,Tabir Surya,Kesehatan,31595,170
+PRD3797,Vitamin E,Kesehatan,130046,64
+PRD3798,Probiotik,Kesehatan,125009,166
+PRD3799,Antasida,Kesehatan,165630,152
+PRD3800,Parasetamol,Kesehatan,46533,177
+PRD3801,Bola Basket,Olahraga,36340,79
+PRD3802,Bola Voli,Olahraga,62015,87
+PRD3803,Raket Badminton,Olahraga,91013,6
+PRD3804,Kok Bulu Tangkis,Olahraga,284285,84
+PRD3805,Matras Yoga,Olahraga,21596,118
+PRD3806,Dumbbell,Olahraga,346859,109
+PRD3807,Skipping,Olahraga,299821,132
+PRD3808,Botol Minum,Olahraga,474598,108
+PRD3809,Hand Grip,Olahraga,141785,6
+PRD3810,Resistance Band,Olahraga,366882,121
+PRD3811,Peluit,Olahraga,310275,6
+PRD3812,Stopwatch,Olahraga,167944,97
+PRD3813,Kaos Olahraga,Olahraga,301029,100
+PRD3814,Handuk,Olahraga,171041,147
+PRD3815,Sepatu Lari,Olahraga,53236,126
+PRD3816,Tas Gym,Olahraga,54458,177
+PRD3817,Topi Olahraga,Olahraga,355952,53
+PRD3818,Gelang Keringat,Olahraga,178143,128
+PRD3819,Sarung Tangan,Olahraga,265595,196
+PRD3820,Bola Sepak,Olahraga,351903,87
+PRD3821,Boneka,Mainan,89360,158
+PRD3822,Mobil Mobilan,Mainan,159035,94
+PRD3823,Puzzle,Mainan,230584,52
+PRD3824,LEGO,Mainan,262545,163
+PRD3825,Rubik,Mainan,446247,20
+PRD3826,Yo Yo,Mainan,442601,138
+PRD3827,Lato Lato,Mainan,114239,74
+PRD3828,Ketapel,Mainan,141017,13
+PRD3829,Kapal Kapalan,Mainan,157881,147
+PRD3830,Layang Layang,Mainan,212778,58
+PRD3831,Kelereng,Mainan,329455,191
+PRD3832,Ular Tangga,Mainan,50212,184
+PRD3833,Monopoli,Mainan,444597,149
+PRD3834,Uno Cards,Mainan,51667,152
+PRD3835,Katapel,Mainan,178600,70
+PRD3836,Tamiya,Mainan,37268,146
+PRD3837,Beyblade,Mainan,422052,136
+PRD3838,Slime,Mainan,251177,110
+PRD3839,Playdoh,Mainan,111963,89
+PRD3840,Balon,Mainan,419150,20
+PRD3841,Kabel USB,Elektronik,343592,78
+PRD3842,Charger HP,Elektronik,266576,77
+PRD3843,Power Bank,Elektronik,228969,170
+PRD3844,Mouse Wireless,Elektronik,285088,81
+PRD3845,Keyboard,Elektronik,106897,107
+PRD3846,Headset,Elektronik,212921,65
+PRD3847,Speaker Bluetooth,Elektronik,329661,132
+PRD3848,Kipas Angin Mini,Elektronik,239622,172
+PRD3849,Lampu LED,Elektronik,402263,141
+PRD3850,Adaptor,Elektronik,96686,5
+PRD3851,Kabel HDMI,Elektronik,331171,181
+PRD3852,Card Reader,Elektronik,272650,48
+PRD3853,USB Hub,Elektronik,304432,128
+PRD3854,Mouse Pad,Elektronik,113648,170
+PRD3855,Webcam,Elektronik,433965,191
+PRD3856,Microphone,Elektronik,493836,120
+PRD3857,Remote TV,Elektronik,142475,164
+PRD3858,Baterai AA,Elektronik,281298,158
+PRD3859,Baterai AAA,Elektronik,449099,197
+PRD3860,Charger Mobil,Elektronik,477443,112
+PRD3861,Mie Instan,Makanan,492018,145
+PRD3862,Biskuit,Makanan,382955,161
+PRD3863,Keripik Kentang,Makanan,33395,134
+PRD3864,Cokelat Batang,Makanan,107197,94
+PRD3865,Permen,Makanan,244476,38
+PRD3866,Kacang Goreng,Makanan,128025,39
+PRD3867,Roti Tawar,Makanan,393346,176
+PRD3868,Sereal,Makanan,403358,77
+PRD3869,Abon Sapi,Makanan,444563,112
+PRD3870,Dendeng,Makanan,217094,82
+PRD3871,Kerupuk Udang,Makanan,452985,17
+PRD3872,Kue Kering,Makanan,334360,53
+PRD3873,Selai Kacang,Makanan,445530,106
+PRD3874,Madu,Makanan,141950,74
+PRD3875,Tepung Terigu,Makanan,340712,42
+PRD3876,Gula Pasir,Makanan,136451,176
+PRD3877,Kopi Bubuk,Makanan,317218,61
+PRD3878,Teh Celup,Makanan,214790,62
+PRD3879,Susu Bubuk,Makanan,61537,39
+PRD3880, Agar-agar,Makanan,102619,8
+PRD3881,Air Mineral,Minuman,130758,80
+PRD3882,Jus Jeruk,Minuman,245353,125
+PRD3883,Soft Drink,Minuman,295509,112
+PRD3884,Teh Botol,Minuman,223259,166
+PRD3885,Kopi Instan,Minuman,476824,10
+PRD3886,Susu UHT,Minuman,107901,41
+PRD3887,Yogurt,Minuman,144979,35
+PRD3888,Minuman Isotonik,Minuman,17278,67
+PRD3889,Sirup,Minuman,416014,72
+PRD3890,Soda,Minuman,347333,141
+PRD3891,Jus Mangga,Minuman,94266,165
+PRD3892,Jus Apel,Minuman,448966,11
+PRD3893,Minuman Berenergi,Minuman,380784,125
+PRD3894,Air Kelapa,Minuman,412115,6
+PRD3895,Susu Kedelai,Minuman,31007,22
+PRD3896,Jahe Instan,Minuman,166576,155
+PRD3897,Cincau,Minuman,158226,17
+PRD3898,Es Krim,Minuman,474160,105
+PRD3899,Milkshake,Minuman,472167,94
+PRD3900,Kefir,Minuman,354149,169
+PRD3901,Pensil 2B,Alat Tulis,466372,24
+PRD3902,Bolpoin Hitam,Alat Tulis,210087,186
+PRD3903,Penghapus,Alat Tulis,443843,36
+PRD3904,Penggaris,Alat Tulis,125753,29
+PRD3905,Buku Tulis,Alat Tulis,301354,189
+PRD3906,Spidol,Alat Tulis,264274,31
+PRD3907,Stabilo,Alat Tulis,275656,171
+PRD3908,Lem Kertas,Alat Tulis,436625,149
+PRD3909,Gunting,Alat Tulis,499902,199
+PRD3910,Cutter,Alat Tulis,490403,135
+PRD3911,Amplop,Alat Tulis,134019,128
+PRD3912,Kertas HVS,Alat Tulis,465766,24
+PRD3913,Map Plastik,Alat Tulis,126820,154
+PRD3914,Binder,Alat Tulis,66108,198
+PRD3915,Klip Kertas,Alat Tulis,424936,81
+PRD3916,Isi Staples,Alat Tulis,174640,150
+PRD3917,Tipe-X,Alat Tulis,388524,100
+PRD3918,Pensil Warna,Alat Tulis,424493,192
+PRD3919,Krayon,Alat Tulis,392048,61
+PRD3920,Cat Air,Alat Tulis,492471,109
+PRD3921,Sapu,Perlengkapan Rumah,116299,37
+PRD3922,Pel,Perlengkapan Rumah,58001,45
+PRD3923,Ember,Perlengkapan Rumah,114254,71
+PRD3924,Lap Mikrofiber,Perlengkapan Rumah,232411,105
+PRD3925,Gelas Kaca,Perlengkapan Rumah,135329,151
+PRD3926,Piring,Perlengkapan Rumah,31321,126
+PRD3927,Mangkok,Perlengkapan Rumah,281691,96
+PRD3928,Sendok Set,Perlengkapan Rumah,368801,29
+PRD3929,Garpu,Perlengkapan Rumah,167931,140
+PRD3930,Pisau Dapur,Perlengkapan Rumah,224183,122
+PRD3931,Talenan,Perlengkapan Rumah,359951,64
+PRD3932,Panci,Perlengkapan Rumah,147612,38
+PRD3933,Wajan,Perlengkapan Rumah,192315,122
+PRD3934,Stoples,Perlengkapan Rumah,377217,95
+PRD3935,Rak Piring,Perlengkapan Rumah,432632,79
+PRD3936,Serbet,Perlengkapan Rumah,13048,166
+PRD3937,Sikat Gigi,Perlengkapan Rumah,476600,156
+PRD3938,Pasta Gigi,Perlengkapan Rumah,20250,190
+PRD3939,Sabun Mandi,Perlengkapan Rumah,349195,14
+PRD3940,Shampoo,Perlengkapan Rumah,364116,172
+PRD3941,Masker,Kesehatan,127659,65
+PRD3942,Hand Sanitizer,Kesehatan,291788,99
+PRD3943,Vitamin C,Kesehatan,164145,164
+PRD3944,Minyak Kayu Putih,Kesehatan,369324,93
+PRD3945,Plester,Kesehatan,475514,176
+PRD3946,Perban,Kesehatan,65991,137
+PRD3947,Obat Flu,Kesehatan,456533,61
+PRD3948,Obat Batuk,Kesehatan,451654,114
+PRD3949,Minuman Herbal,Kesehatan,205670,3
+PRD3950,Suplemen,Kesehatan,478991,101
+PRD3951,Multivitamin,Kesehatan,488280,66
+PRD3952,Minyak Ikan,Kesehatan,159752,24
+PRD3953,Salep Luka,Kesehatan,492902,194
+PRD3954,Obat Nyamuk,Kesehatan,125449,77
+PRD3955,Lotion,Kesehatan,112303,42
+PRD3956,Tabir Surya,Kesehatan,482190,113
+PRD3957,Vitamin E,Kesehatan,333010,82
+PRD3958,Probiotik,Kesehatan,463094,197
+PRD3959,Antasida,Kesehatan,339866,105
+PRD3960,Parasetamol,Kesehatan,415829,9
+PRD3961,Bola Basket,Olahraga,145674,21
+PRD3962,Bola Voli,Olahraga,433592,200
+PRD3963,Raket Badminton,Olahraga,495090,126
+PRD3964,Kok Bulu Tangkis,Olahraga,248987,189
+PRD3965,Matras Yoga,Olahraga,218510,86
+PRD3966,Dumbbell,Olahraga,378116,109
+PRD3967,Skipping,Olahraga,461675,26
+PRD3968,Botol Minum,Olahraga,434223,42
+PRD3969,Hand Grip,Olahraga,368205,67
+PRD3970,Resistance Band,Olahraga,267465,17
+PRD3971,Peluit,Olahraga,186474,108
+PRD3972,Stopwatch,Olahraga,317682,187
+PRD3973,Kaos Olahraga,Olahraga,428470,141
+PRD3974,Handuk,Olahraga,388812,84
+PRD3975,Sepatu Lari,Olahraga,239639,178
+PRD3976,Tas Gym,Olahraga,16339,196
+PRD3977,Topi Olahraga,Olahraga,29314,165
+PRD3978,Gelang Keringat,Olahraga,338379,48
+PRD3979,Sarung Tangan,Olahraga,332383,114
+PRD3980,Bola Sepak,Olahraga,416721,165
+PRD3981,Boneka,Mainan,73351,1
+PRD3982,Mobil Mobilan,Mainan,212062,52
+PRD3983,Puzzle,Mainan,331408,79
+PRD3984,LEGO,Mainan,166480,148
+PRD3985,Rubik,Mainan,45113,29
+PRD3986,Yo Yo,Mainan,84744,64
+PRD3987,Lato Lato,Mainan,272724,183
+PRD3988,Ketapel,Mainan,404447,167
+PRD3989,Kapal Kapalan,Mainan,402117,34
+PRD3990,Layang Layang,Mainan,446051,153
+PRD3991,Kelereng,Mainan,361532,106
+PRD3992,Ular Tangga,Mainan,417572,82
+PRD3993,Monopoli,Mainan,238710,123
+PRD3994,Uno Cards,Mainan,459968,189
+PRD3995,Katapel,Mainan,71997,67
+PRD3996,Tamiya,Mainan,92952,176
+PRD3997,Beyblade,Mainan,312913,84
+PRD3998,Slime,Mainan,421183,73
+PRD3999,Playdoh,Mainan,106157,22
+PRD4000,Balon,Mainan,219315,95
+PRD4001,Kabel USB,Elektronik,97362,101
+PRD4002,Charger HP,Elektronik,461480,97
+PRD4003,Power Bank,Elektronik,497324,147
+PRD4004,Mouse Wireless,Elektronik,119695,6
+PRD4005,Keyboard,Elektronik,499082,6
+PRD4006,Headset,Elektronik,485976,143
+PRD4007,Speaker Bluetooth,Elektronik,341270,157
+PRD4008,Kipas Angin Mini,Elektronik,330533,59
+PRD4009,Lampu LED,Elektronik,477447,23
+PRD4010,Adaptor,Elektronik,244443,51
+PRD4011,Kabel HDMI,Elektronik,139249,180
+PRD4012,Card Reader,Elektronik,448604,44
+PRD4013,USB Hub,Elektronik,28100,103
+PRD4014,Mouse Pad,Elektronik,326012,110
+PRD4015,Webcam,Elektronik,316778,67
+PRD4016,Microphone,Elektronik,80250,23
+PRD4017,Remote TV,Elektronik,194896,44
+PRD4018,Baterai AA,Elektronik,498628,146
+PRD4019,Baterai AAA,Elektronik,63525,4
+PRD4020,Charger Mobil,Elektronik,378744,135
+PRD4021,Mie Instan,Makanan,230148,198
+PRD4022,Biskuit,Makanan,484339,117
+PRD4023,Keripik Kentang,Makanan,435721,173
+PRD4024,Cokelat Batang,Makanan,261076,31
+PRD4025,Permen,Makanan,119694,183
+PRD4026,Kacang Goreng,Makanan,108506,49
+PRD4027,Roti Tawar,Makanan,498003,69
+PRD4028,Sereal,Makanan,152975,192
+PRD4029,Abon Sapi,Makanan,261086,98
+PRD4030,Dendeng,Makanan,70261,111
+PRD4031,Kerupuk Udang,Makanan,450967,53
+PRD4032,Kue Kering,Makanan,316616,56
+PRD4033,Selai Kacang,Makanan,434059,73
+PRD4034,Madu,Makanan,383004,174
+PRD4035,Tepung Terigu,Makanan,101280,108
+PRD4036,Gula Pasir,Makanan,96565,105
+PRD4037,Kopi Bubuk,Makanan,417479,38
+PRD4038,Teh Celup,Makanan,17085,75
+PRD4039,Susu Bubuk,Makanan,139258,61
+PRD4040, Agar-agar,Makanan,325842,116
+PRD4041,Air Mineral,Minuman,477701,64
+PRD4042,Jus Jeruk,Minuman,195796,150
+PRD4043,Soft Drink,Minuman,360753,166
+PRD4044,Teh Botol,Minuman,242209,22
+PRD4045,Kopi Instan,Minuman,7410,121
+PRD4046,Susu UHT,Minuman,71837,83
+PRD4047,Yogurt,Minuman,365343,102
+PRD4048,Minuman Isotonik,Minuman,362108,55
+PRD4049,Sirup,Minuman,375993,99
+PRD4050,Soda,Minuman,373433,109
+PRD4051,Jus Mangga,Minuman,387930,153
+PRD4052,Jus Apel,Minuman,136336,19
+PRD4053,Minuman Berenergi,Minuman,51953,143
+PRD4054,Air Kelapa,Minuman,32803,14
+PRD4055,Susu Kedelai,Minuman,176515,61
+PRD4056,Jahe Instan,Minuman,248904,91
+PRD4057,Cincau,Minuman,319914,172
+PRD4058,Es Krim,Minuman,422609,154
+PRD4059,Milkshake,Minuman,374016,192
+PRD4060,Kefir,Minuman,426596,12
+PRD4061,Pensil 2B,Alat Tulis,4810,65
+PRD4062,Bolpoin Hitam,Alat Tulis,266525,159
+PRD4063,Penghapus,Alat Tulis,201721,78
+PRD4064,Penggaris,Alat Tulis,208934,172
+PRD4065,Buku Tulis,Alat Tulis,196459,34
+PRD4066,Spidol,Alat Tulis,469783,144
+PRD4067,Stabilo,Alat Tulis,23561,149
+PRD4068,Lem Kertas,Alat Tulis,96042,67
+PRD4069,Gunting,Alat Tulis,91058,129
+PRD4070,Cutter,Alat Tulis,260390,87
+PRD4071,Amplop,Alat Tulis,462270,120
+PRD4072,Kertas HVS,Alat Tulis,71163,23
+PRD4073,Map Plastik,Alat Tulis,168365,182
+PRD4074,Binder,Alat Tulis,280094,111
+PRD4075,Klip Kertas,Alat Tulis,76341,67
+PRD4076,Isi Staples,Alat Tulis,63258,81
+PRD4077,Tipe-X,Alat Tulis,25153,33
+PRD4078,Pensil Warna,Alat Tulis,263730,72
+PRD4079,Krayon,Alat Tulis,394074,93
+PRD4080,Cat Air,Alat Tulis,487614,111
+PRD4081,Sapu,Perlengkapan Rumah,150334,68
+PRD4082,Pel,Perlengkapan Rumah,323352,195
+PRD4083,Ember,Perlengkapan Rumah,487866,68
+PRD4084,Lap Mikrofiber,Perlengkapan Rumah,273042,81
+PRD4085,Gelas Kaca,Perlengkapan Rumah,230471,43
+PRD4086,Piring,Perlengkapan Rumah,167435,189
+PRD4087,Mangkok,Perlengkapan Rumah,259569,196
+PRD4088,Sendok Set,Perlengkapan Rumah,81306,143
+PRD4089,Garpu,Perlengkapan Rumah,449235,169
+PRD4090,Pisau Dapur,Perlengkapan Rumah,335789,113
+PRD4091,Talenan,Perlengkapan Rumah,29903,49
+PRD4092,Panci,Perlengkapan Rumah,79920,14
+PRD4093,Wajan,Perlengkapan Rumah,122513,47
+PRD4094,Stoples,Perlengkapan Rumah,20802,121
+PRD4095,Rak Piring,Perlengkapan Rumah,138432,42
+PRD4096,Serbet,Perlengkapan Rumah,372127,120
+PRD4097,Sikat Gigi,Perlengkapan Rumah,230814,30
+PRD4098,Pasta Gigi,Perlengkapan Rumah,471329,127
+PRD4099,Sabun Mandi,Perlengkapan Rumah,23386,114
+PRD4100,Shampoo,Perlengkapan Rumah,188919,182
+PRD4101,Masker,Kesehatan,296049,125
+PRD4102,Hand Sanitizer,Kesehatan,241997,127
+PRD4103,Vitamin C,Kesehatan,60977,185
+PRD4104,Minyak Kayu Putih,Kesehatan,456494,38
+PRD4105,Plester,Kesehatan,66830,90
+PRD4106,Perban,Kesehatan,51061,53
+PRD4107,Obat Flu,Kesehatan,457172,73
+PRD4108,Obat Batuk,Kesehatan,96715,44
+PRD4109,Minuman Herbal,Kesehatan,395182,131
+PRD4110,Suplemen,Kesehatan,433264,70
+PRD4111,Multivitamin,Kesehatan,297303,170
+PRD4112,Minyak Ikan,Kesehatan,309063,55
+PRD4113,Salep Luka,Kesehatan,307946,2
+PRD4114,Obat Nyamuk,Kesehatan,277783,197
+PRD4115,Lotion,Kesehatan,301257,47
+PRD4116,Tabir Surya,Kesehatan,220323,20
+PRD4117,Vitamin E,Kesehatan,131057,197
+PRD4118,Probiotik,Kesehatan,263153,174
+PRD4119,Antasida,Kesehatan,51443,85
+PRD4120,Parasetamol,Kesehatan,15611,73
+PRD4121,Bola Basket,Olahraga,359203,175
+PRD4122,Bola Voli,Olahraga,65958,101
+PRD4123,Raket Badminton,Olahraga,197852,152
+PRD4124,Kok Bulu Tangkis,Olahraga,489141,28
+PRD4125,Matras Yoga,Olahraga,440817,83
+PRD4126,Dumbbell,Olahraga,82622,8
+PRD4127,Skipping,Olahraga,44500,118
+PRD4128,Botol Minum,Olahraga,437525,182
+PRD4129,Hand Grip,Olahraga,347788,123
+PRD4130,Resistance Band,Olahraga,240055,161
+PRD4131,Peluit,Olahraga,143200,153
+PRD4132,Stopwatch,Olahraga,346984,2
+PRD4133,Kaos Olahraga,Olahraga,174714,12
+PRD4134,Handuk,Olahraga,346023,160
+PRD4135,Sepatu Lari,Olahraga,239555,84
+PRD4136,Tas Gym,Olahraga,498720,188
+PRD4137,Topi Olahraga,Olahraga,386994,146
+PRD4138,Gelang Keringat,Olahraga,69801,55
+PRD4139,Sarung Tangan,Olahraga,454606,13
+PRD4140,Bola Sepak,Olahraga,422247,165
+PRD4141,Boneka,Mainan,150349,83
+PRD4142,Mobil Mobilan,Mainan,420458,15
+PRD4143,Puzzle,Mainan,391965,19
+PRD4144,LEGO,Mainan,288867,155
+PRD4145,Rubik,Mainan,201958,24
+PRD4146,Yo Yo,Mainan,211116,66
+PRD4147,Lato Lato,Mainan,95328,62
+PRD4148,Ketapel,Mainan,406161,103
+PRD4149,Kapal Kapalan,Mainan,48760,6
+PRD4150,Layang Layang,Mainan,448874,54
+PRD4151,Kelereng,Mainan,87427,100
+PRD4152,Ular Tangga,Mainan,410678,104
+PRD4153,Monopoli,Mainan,151388,166
+PRD4154,Uno Cards,Mainan,396557,168
+PRD4155,Katapel,Mainan,82810,31
+PRD4156,Tamiya,Mainan,158524,126
+PRD4157,Beyblade,Mainan,422007,111
+PRD4158,Slime,Mainan,387817,80
+PRD4159,Playdoh,Mainan,475817,176
+PRD4160,Balon,Mainan,318414,34
+PRD4161,Kabel USB,Elektronik,190242,171
+PRD4162,Charger HP,Elektronik,52390,95
+PRD4163,Power Bank,Elektronik,270777,52
+PRD4164,Mouse Wireless,Elektronik,258703,115
+PRD4165,Keyboard,Elektronik,466211,100
+PRD4166,Headset,Elektronik,251791,69
+PRD4167,Speaker Bluetooth,Elektronik,297204,154
+PRD4168,Kipas Angin Mini,Elektronik,223810,24
+PRD4169,Lampu LED,Elektronik,398618,109
+PRD4170,Adaptor,Elektronik,427194,95
+PRD4171,Kabel HDMI,Elektronik,323843,48
+PRD4172,Card Reader,Elektronik,229596,162
+PRD4173,USB Hub,Elektronik,225355,24
+PRD4174,Mouse Pad,Elektronik,23201,132
+PRD4175,Webcam,Elektronik,181172,119
+PRD4176,Microphone,Elektronik,356649,58
+PRD4177,Remote TV,Elektronik,341534,176
+PRD4178,Baterai AA,Elektronik,376150,40
+PRD4179,Baterai AAA,Elektronik,489937,127
+PRD4180,Charger Mobil,Elektronik,278445,162
+PRD4181,Mie Instan,Makanan,341332,135
+PRD4182,Biskuit,Makanan,46024,75
+PRD4183,Keripik Kentang,Makanan,247481,112
+PRD4184,Cokelat Batang,Makanan,43514,123
+PRD4185,Permen,Makanan,159492,39
+PRD4186,Kacang Goreng,Makanan,68998,176
+PRD4187,Roti Tawar,Makanan,475381,77
+PRD4188,Sereal,Makanan,443208,64
+PRD4189,Abon Sapi,Makanan,276250,110
+PRD4190,Dendeng,Makanan,156917,146
+PRD4191,Kerupuk Udang,Makanan,27023,142
+PRD4192,Kue Kering,Makanan,42125,12
+PRD4193,Selai Kacang,Makanan,271177,28
+PRD4194,Madu,Makanan,269728,109
+PRD4195,Tepung Terigu,Makanan,218541,25
+PRD4196,Gula Pasir,Makanan,245613,170
+PRD4197,Kopi Bubuk,Makanan,379649,146
+PRD4198,Teh Celup,Makanan,428154,65
+PRD4199,Susu Bubuk,Makanan,188362,66
+PRD4200, Agar-agar,Makanan,309006,21
+PRD4201,Air Mineral,Minuman,404992,129
+PRD4202,Jus Jeruk,Minuman,10529,30
+PRD4203,Soft Drink,Minuman,390243,170
+PRD4204,Teh Botol,Minuman,244681,46
+PRD4205,Kopi Instan,Minuman,414183,47
+PRD4206,Susu UHT,Minuman,443927,101
+PRD4207,Yogurt,Minuman,25728,22
+PRD4208,Minuman Isotonik,Minuman,220235,181
+PRD4209,Sirup,Minuman,158053,81
+PRD4210,Soda,Minuman,309866,186
+PRD4211,Jus Mangga,Minuman,240550,194
+PRD4212,Jus Apel,Minuman,353409,116
+PRD4213,Minuman Berenergi,Minuman,329056,68
+PRD4214,Air Kelapa,Minuman,180957,48
+PRD4215,Susu Kedelai,Minuman,112660,48
+PRD4216,Jahe Instan,Minuman,43010,192
+PRD4217,Cincau,Minuman,318697,67
+PRD4218,Es Krim,Minuman,458977,173
+PRD4219,Milkshake,Minuman,57747,112
+PRD4220,Kefir,Minuman,282166,5
+PRD4221,Pensil 2B,Alat Tulis,5065,102
+PRD4222,Bolpoin Hitam,Alat Tulis,63173,4
+PRD4223,Penghapus,Alat Tulis,92038,168
+PRD4224,Penggaris,Alat Tulis,252148,118
+PRD4225,Buku Tulis,Alat Tulis,364705,104
+PRD4226,Spidol,Alat Tulis,457491,169
+PRD4227,Stabilo,Alat Tulis,392199,155
+PRD4228,Lem Kertas,Alat Tulis,382586,125
+PRD4229,Gunting,Alat Tulis,160754,159
+PRD4230,Cutter,Alat Tulis,428315,158
+PRD4231,Amplop,Alat Tulis,191125,177
+PRD4232,Kertas HVS,Alat Tulis,355266,177
+PRD4233,Map Plastik,Alat Tulis,355948,102
+PRD4234,Binder,Alat Tulis,423863,78
+PRD4235,Klip Kertas,Alat Tulis,47946,33
+PRD4236,Isi Staples,Alat Tulis,72838,4
+PRD4237,Tipe-X,Alat Tulis,102035,29
+PRD4238,Pensil Warna,Alat Tulis,429802,5
+PRD4239,Krayon,Alat Tulis,366921,49
+PRD4240,Cat Air,Alat Tulis,452369,7
+PRD4241,Sapu,Perlengkapan Rumah,111696,124
+PRD4242,Pel,Perlengkapan Rumah,342065,38
+PRD4243,Ember,Perlengkapan Rumah,342650,62
+PRD4244,Lap Mikrofiber,Perlengkapan Rumah,230478,161
+PRD4245,Gelas Kaca,Perlengkapan Rumah,451938,138
+PRD4246,Piring,Perlengkapan Rumah,102094,23
+PRD4247,Mangkok,Perlengkapan Rumah,159767,198
+PRD4248,Sendok Set,Perlengkapan Rumah,244968,38
+PRD4249,Garpu,Perlengkapan Rumah,250506,109
+PRD4250,Pisau Dapur,Perlengkapan Rumah,13438,30
+PRD4251,Talenan,Perlengkapan Rumah,89087,40
+PRD4252,Panci,Perlengkapan Rumah,389334,180
+PRD4253,Wajan,Perlengkapan Rumah,235447,125
+PRD4254,Stoples,Perlengkapan Rumah,249196,6
+PRD4255,Rak Piring,Perlengkapan Rumah,452780,116
+PRD4256,Serbet,Perlengkapan Rumah,308827,63
+PRD4257,Sikat Gigi,Perlengkapan Rumah,107559,76
+PRD4258,Pasta Gigi,Perlengkapan Rumah,300545,101
+PRD4259,Sabun Mandi,Perlengkapan Rumah,28697,86
+PRD4260,Shampoo,Perlengkapan Rumah,6128,27
+PRD4261,Masker,Kesehatan,332516,183
+PRD4262,Hand Sanitizer,Kesehatan,228381,107
+PRD4263,Vitamin C,Kesehatan,446919,127
+PRD4264,Minyak Kayu Putih,Kesehatan,388441,149
+PRD4265,Plester,Kesehatan,314391,188
+PRD4266,Perban,Kesehatan,292615,75
+PRD4267,Obat Flu,Kesehatan,21407,125
+PRD4268,Obat Batuk,Kesehatan,211547,125
+PRD4269,Minuman Herbal,Kesehatan,271146,152
+PRD4270,Suplemen,Kesehatan,381906,157
+PRD4271,Multivitamin,Kesehatan,492356,174
+PRD4272,Minyak Ikan,Kesehatan,476518,125
+PRD4273,Salep Luka,Kesehatan,123585,183
+PRD4274,Obat Nyamuk,Kesehatan,33826,136
+PRD4275,Lotion,Kesehatan,11971,109
+PRD4276,Tabir Surya,Kesehatan,304201,81
+PRD4277,Vitamin E,Kesehatan,292065,17
+PRD4278,Probiotik,Kesehatan,142429,166
+PRD4279,Antasida,Kesehatan,220700,122
+PRD4280,Parasetamol,Kesehatan,63310,127
+PRD4281,Bola Basket,Olahraga,328472,166
+PRD4282,Bola Voli,Olahraga,183804,115
+PRD4283,Raket Badminton,Olahraga,367698,112
+PRD4284,Kok Bulu Tangkis,Olahraga,12908,42
+PRD4285,Matras Yoga,Olahraga,153000,186
+PRD4286,Dumbbell,Olahraga,102768,121
+PRD4287,Skipping,Olahraga,182275,113
+PRD4288,Botol Minum,Olahraga,123688,130
+PRD4289,Hand Grip,Olahraga,117187,151
+PRD4290,Resistance Band,Olahraga,478614,176
+PRD4291,Peluit,Olahraga,179813,155
+PRD4292,Stopwatch,Olahraga,449455,184
+PRD4293,Kaos Olahraga,Olahraga,346435,120
+PRD4294,Handuk,Olahraga,70764,76
+PRD4295,Sepatu Lari,Olahraga,381057,183
+PRD4296,Tas Gym,Olahraga,206666,107
+PRD4297,Topi Olahraga,Olahraga,438774,173
+PRD4298,Gelang Keringat,Olahraga,344098,189
+PRD4299,Sarung Tangan,Olahraga,190877,121
+PRD4300,Bola Sepak,Olahraga,421301,42
+PRD4301,Boneka,Mainan,328024,54
+PRD4302,Mobil Mobilan,Mainan,150088,177
+PRD4303,Puzzle,Mainan,394825,23
+PRD4304,LEGO,Mainan,351729,124
+PRD4305,Rubik,Mainan,69683,45
+PRD4306,Yo Yo,Mainan,106587,41
+PRD4307,Lato Lato,Mainan,319586,126
+PRD4308,Ketapel,Mainan,54902,107
+PRD4309,Kapal Kapalan,Mainan,496432,127
+PRD4310,Layang Layang,Mainan,161201,61
+PRD4311,Kelereng,Mainan,111803,143
+PRD4312,Ular Tangga,Mainan,26667,5
+PRD4313,Monopoli,Mainan,190107,67
+PRD4314,Uno Cards,Mainan,189193,174
+PRD4315,Katapel,Mainan,85154,45
+PRD4316,Tamiya,Mainan,436083,129
+PRD4317,Beyblade,Mainan,18761,17
+PRD4318,Slime,Mainan,179070,111
+PRD4319,Playdoh,Mainan,61752,159
+PRD4320,Balon,Mainan,120850,31
+PRD4321,Kabel USB,Elektronik,296640,58
+PRD4322,Charger HP,Elektronik,256995,67
+PRD4323,Power Bank,Elektronik,180427,91
+PRD4324,Mouse Wireless,Elektronik,405373,12
+PRD4325,Keyboard,Elektronik,405751,143
+PRD4326,Headset,Elektronik,142242,39
+PRD4327,Speaker Bluetooth,Elektronik,449431,177
+PRD4328,Kipas Angin Mini,Elektronik,460068,132
+PRD4329,Lampu LED,Elektronik,318821,172
+PRD4330,Adaptor,Elektronik,56600,181
+PRD4331,Kabel HDMI,Elektronik,28435,113
+PRD4332,Card Reader,Elektronik,420899,118
+PRD4333,USB Hub,Elektronik,443239,194
+PRD4334,Mouse Pad,Elektronik,60159,28
+PRD4335,Webcam,Elektronik,411810,157
+PRD4336,Microphone,Elektronik,321635,27
+PRD4337,Remote TV,Elektronik,433808,144
+PRD4338,Baterai AA,Elektronik,24004,130
+PRD4339,Baterai AAA,Elektronik,57265,43
+PRD4340,Charger Mobil,Elektronik,332262,31
+PRD4341,Mie Instan,Makanan,458586,53
+PRD4342,Biskuit,Makanan,479618,93
+PRD4343,Keripik Kentang,Makanan,84330,187
+PRD4344,Cokelat Batang,Makanan,155156,182
+PRD4345,Permen,Makanan,233482,196
+PRD4346,Kacang Goreng,Makanan,267235,128
+PRD4347,Roti Tawar,Makanan,386068,26
+PRD4348,Sereal,Makanan,82895,166
+PRD4349,Abon Sapi,Makanan,192702,86
+PRD4350,Dendeng,Makanan,431476,36
+PRD4351,Kerupuk Udang,Makanan,66478,52
+PRD4352,Kue Kering,Makanan,232219,107
+PRD4353,Selai Kacang,Makanan,405292,197
+PRD4354,Madu,Makanan,5453,63
+PRD4355,Tepung Terigu,Makanan,439682,122
+PRD4356,Gula Pasir,Makanan,180950,74
+PRD4357,Kopi Bubuk,Makanan,266777,44
+PRD4358,Teh Celup,Makanan,46687,69
+PRD4359,Susu Bubuk,Makanan,197263,184
+PRD4360, Agar-agar,Makanan,397756,107
+PRD4361,Air Mineral,Minuman,191081,162
+PRD4362,Jus Jeruk,Minuman,350649,63
+PRD4363,Soft Drink,Minuman,81487,193
+PRD4364,Teh Botol,Minuman,397054,136
+PRD4365,Kopi Instan,Minuman,223103,59
+PRD4366,Susu UHT,Minuman,74348,110
+PRD4367,Yogurt,Minuman,218745,105
+PRD4368,Minuman Isotonik,Minuman,472844,118
+PRD4369,Sirup,Minuman,448898,133
+PRD4370,Soda,Minuman,418603,175
+PRD4371,Jus Mangga,Minuman,191673,8
+PRD4372,Jus Apel,Minuman,234038,38
+PRD4373,Minuman Berenergi,Minuman,405781,3
+PRD4374,Air Kelapa,Minuman,378242,133
+PRD4375,Susu Kedelai,Minuman,496740,18
+PRD4376,Jahe Instan,Minuman,46448,87
+PRD4377,Cincau,Minuman,167048,103
+PRD4378,Es Krim,Minuman,406945,43
+PRD4379,Milkshake,Minuman,229578,16
+PRD4380,Kefir,Minuman,208184,195
+PRD4381,Pensil 2B,Alat Tulis,21447,170
+PRD4382,Bolpoin Hitam,Alat Tulis,485665,165
+PRD4383,Penghapus,Alat Tulis,81142,148
+PRD4384,Penggaris,Alat Tulis,32308,162
+PRD4385,Buku Tulis,Alat Tulis,376011,170
+PRD4386,Spidol,Alat Tulis,461178,134
+PRD4387,Stabilo,Alat Tulis,157044,108
+PRD4388,Lem Kertas,Alat Tulis,212765,175
+PRD4389,Gunting,Alat Tulis,369415,142
+PRD4390,Cutter,Alat Tulis,459989,78
+PRD4391,Amplop,Alat Tulis,380300,191
+PRD4392,Kertas HVS,Alat Tulis,166466,89
+PRD4393,Map Plastik,Alat Tulis,6143,72
+PRD4394,Binder,Alat Tulis,473968,136
+PRD4395,Klip Kertas,Alat Tulis,322025,38
+PRD4396,Isi Staples,Alat Tulis,369156,104
+PRD4397,Tipe-X,Alat Tulis,235931,165
+PRD4398,Pensil Warna,Alat Tulis,109549,140
+PRD4399,Krayon,Alat Tulis,329344,159
+PRD4400,Cat Air,Alat Tulis,343855,114
+PRD4401,Sapu,Perlengkapan Rumah,367675,89
+PRD4402,Pel,Perlengkapan Rumah,467397,167
+PRD4403,Ember,Perlengkapan Rumah,214077,199
+PRD4404,Lap Mikrofiber,Perlengkapan Rumah,105439,78
+PRD4405,Gelas Kaca,Perlengkapan Rumah,46187,10
+PRD4406,Piring,Perlengkapan Rumah,283769,86
+PRD4407,Mangkok,Perlengkapan Rumah,206468,186
+PRD4408,Sendok Set,Perlengkapan Rumah,378900,190
+PRD4409,Garpu,Perlengkapan Rumah,463308,33
+PRD4410,Pisau Dapur,Perlengkapan Rumah,274876,139
+PRD4411,Talenan,Perlengkapan Rumah,150859,55
+PRD4412,Panci,Perlengkapan Rumah,50664,131
+PRD4413,Wajan,Perlengkapan Rumah,291294,80
+PRD4414,Stoples,Perlengkapan Rumah,275330,88
+PRD4415,Rak Piring,Perlengkapan Rumah,398910,163
+PRD4416,Serbet,Perlengkapan Rumah,85900,6
+PRD4417,Sikat Gigi,Perlengkapan Rumah,16623,139
+PRD4418,Pasta Gigi,Perlengkapan Rumah,312642,67
+PRD4419,Sabun Mandi,Perlengkapan Rumah,128531,199
+PRD4420,Shampoo,Perlengkapan Rumah,161353,186
+PRD4421,Masker,Kesehatan,223640,130
+PRD4422,Hand Sanitizer,Kesehatan,59903,188
+PRD4423,Vitamin C,Kesehatan,33428,96
+PRD4424,Minyak Kayu Putih,Kesehatan,138187,161
+PRD4425,Plester,Kesehatan,268075,91
+PRD4426,Perban,Kesehatan,66913,13
+PRD4427,Obat Flu,Kesehatan,398655,167
+PRD4428,Obat Batuk,Kesehatan,495534,32
+PRD4429,Minuman Herbal,Kesehatan,237267,77
+PRD4430,Suplemen,Kesehatan,302120,189
+PRD4431,Multivitamin,Kesehatan,4733,117
+PRD4432,Minyak Ikan,Kesehatan,179723,61
+PRD4433,Salep Luka,Kesehatan,424255,191
+PRD4434,Obat Nyamuk,Kesehatan,306922,145
+PRD4435,Lotion,Kesehatan,376680,161
+PRD4436,Tabir Surya,Kesehatan,350924,137
+PRD4437,Vitamin E,Kesehatan,444758,153
+PRD4438,Probiotik,Kesehatan,124598,90
+PRD4439,Antasida,Kesehatan,158867,73
+PRD4440,Parasetamol,Kesehatan,351659,184
+PRD4441,Bola Basket,Olahraga,302294,173
+PRD4442,Bola Voli,Olahraga,75385,183
+PRD4443,Raket Badminton,Olahraga,200005,134
+PRD4444,Kok Bulu Tangkis,Olahraga,388668,64
+PRD4445,Matras Yoga,Olahraga,57169,84
+PRD4446,Dumbbell,Olahraga,272769,150
+PRD4447,Skipping,Olahraga,102954,200
+PRD4448,Botol Minum,Olahraga,191408,117
+PRD4449,Hand Grip,Olahraga,53373,38
+PRD4450,Resistance Band,Olahraga,375104,109
+PRD4451,Peluit,Olahraga,436339,106
+PRD4452,Stopwatch,Olahraga,44963,24
+PRD4453,Kaos Olahraga,Olahraga,34607,109
+PRD4454,Handuk,Olahraga,467834,34
+PRD4455,Sepatu Lari,Olahraga,251693,55
+PRD4456,Tas Gym,Olahraga,235918,20
+PRD4457,Topi Olahraga,Olahraga,195616,174
+PRD4458,Gelang Keringat,Olahraga,277909,104
+PRD4459,Sarung Tangan,Olahraga,310406,144
+PRD4460,Bola Sepak,Olahraga,274076,200
+PRD4461,Boneka,Mainan,208979,68
+PRD4462,Mobil Mobilan,Mainan,308343,128
+PRD4463,Puzzle,Mainan,335688,109
+PRD4464,LEGO,Mainan,232728,177
+PRD4465,Rubik,Mainan,490130,126
+PRD4466,Yo Yo,Mainan,385630,107
+PRD4467,Lato Lato,Mainan,433914,42
+PRD4468,Ketapel,Mainan,77678,130
+PRD4469,Kapal Kapalan,Mainan,68649,125
+PRD4470,Layang Layang,Mainan,374847,118
+PRD4471,Kelereng,Mainan,69835,181
+PRD4472,Ular Tangga,Mainan,271056,136
+PRD4473,Monopoli,Mainan,63896,178
+PRD4474,Uno Cards,Mainan,113485,117
+PRD4475,Katapel,Mainan,250174,9
+PRD4476,Tamiya,Mainan,393379,41
+PRD4477,Beyblade,Mainan,496964,144
+PRD4478,Slime,Mainan,195636,31
+PRD4479,Playdoh,Mainan,317411,105
+PRD4480,Balon,Mainan,59847,31
+PRD4481,Kabel USB,Elektronik,195769,147
+PRD4482,Charger HP,Elektronik,153828,11
+PRD4483,Power Bank,Elektronik,276085,40
+PRD4484,Mouse Wireless,Elektronik,63730,96
+PRD4485,Keyboard,Elektronik,161868,96
+PRD4486,Headset,Elektronik,160995,76
+PRD4487,Speaker Bluetooth,Elektronik,256764,8
+PRD4488,Kipas Angin Mini,Elektronik,416818,37
+PRD4489,Lampu LED,Elektronik,76522,151
+PRD4490,Adaptor,Elektronik,223122,13
+PRD4491,Kabel HDMI,Elektronik,493163,79
+PRD4492,Card Reader,Elektronik,468122,73
+PRD4493,USB Hub,Elektronik,115026,47
+PRD4494,Mouse Pad,Elektronik,431457,190
+PRD4495,Webcam,Elektronik,258268,1
+PRD4496,Microphone,Elektronik,66135,141
+PRD4497,Remote TV,Elektronik,184792,18
+PRD4498,Baterai AA,Elektronik,458354,12
+PRD4499,Baterai AAA,Elektronik,220929,124
+PRD4500,Charger Mobil,Elektronik,302448,80
+PRD4501,Mie Instan,Makanan,298623,116
+PRD4502,Biskuit,Makanan,474009,87
+PRD4503,Keripik Kentang,Makanan,411652,97
+PRD4504,Cokelat Batang,Makanan,251156,185
+PRD4505,Permen,Makanan,439090,156
+PRD4506,Kacang Goreng,Makanan,71630,196
+PRD4507,Roti Tawar,Makanan,74625,130
+PRD4508,Sereal,Makanan,335688,118
+PRD4509,Abon Sapi,Makanan,401339,116
+PRD4510,Dendeng,Makanan,351815,115
+PRD4511,Kerupuk Udang,Makanan,80109,187
+PRD4512,Kue Kering,Makanan,172506,23
+PRD4513,Selai Kacang,Makanan,421331,160
+PRD4514,Madu,Makanan,350390,160
+PRD4515,Tepung Terigu,Makanan,216763,100
+PRD4516,Gula Pasir,Makanan,124065,102
+PRD4517,Kopi Bubuk,Makanan,179732,139
+PRD4518,Teh Celup,Makanan,26022,172
+PRD4519,Susu Bubuk,Makanan,468638,114
+PRD4520, Agar-agar,Makanan,387830,72
+PRD4521,Air Mineral,Minuman,340646,23
+PRD4522,Jus Jeruk,Minuman,456009,43
+PRD4523,Soft Drink,Minuman,372780,7
+PRD4524,Teh Botol,Minuman,301890,162
+PRD4525,Kopi Instan,Minuman,419416,198
+PRD4526,Susu UHT,Minuman,372880,80
+PRD4527,Yogurt,Minuman,296148,166
+PRD4528,Minuman Isotonik,Minuman,66897,165
+PRD4529,Sirup,Minuman,295261,22
+PRD4530,Soda,Minuman,102887,159
+PRD4531,Jus Mangga,Minuman,286077,148
+PRD4532,Jus Apel,Minuman,399208,14
+PRD4533,Minuman Berenergi,Minuman,300972,134
+PRD4534,Air Kelapa,Minuman,101297,193
+PRD4535,Susu Kedelai,Minuman,251474,129
+PRD4536,Jahe Instan,Minuman,472215,5
+PRD4537,Cincau,Minuman,65063,169
+PRD4538,Es Krim,Minuman,492828,137
+PRD4539,Milkshake,Minuman,96237,5
+PRD4540,Kefir,Minuman,146159,53
+PRD4541,Pensil 2B,Alat Tulis,130600,181
+PRD4542,Bolpoin Hitam,Alat Tulis,441834,149
+PRD4543,Penghapus,Alat Tulis,234904,22
+PRD4544,Penggaris,Alat Tulis,425059,137
+PRD4545,Buku Tulis,Alat Tulis,320166,83
+PRD4546,Spidol,Alat Tulis,212657,151
+PRD4547,Stabilo,Alat Tulis,25584,126
+PRD4548,Lem Kertas,Alat Tulis,453922,6
+PRD4549,Gunting,Alat Tulis,180235,112
+PRD4550,Cutter,Alat Tulis,96638,107
+PRD4551,Amplop,Alat Tulis,14612,136
+PRD4552,Kertas HVS,Alat Tulis,168399,98
+PRD4553,Map Plastik,Alat Tulis,136835,24
+PRD4554,Binder,Alat Tulis,62106,26
+PRD4555,Klip Kertas,Alat Tulis,286048,44
+PRD4556,Isi Staples,Alat Tulis,151606,37
+PRD4557,Tipe-X,Alat Tulis,97771,66
+PRD4558,Pensil Warna,Alat Tulis,404812,23
+PRD4559,Krayon,Alat Tulis,82859,79
+PRD4560,Cat Air,Alat Tulis,215530,174
+PRD4561,Sapu,Perlengkapan Rumah,90704,16
+PRD4562,Pel,Perlengkapan Rumah,324162,84
+PRD4563,Ember,Perlengkapan Rumah,97136,7
+PRD4564,Lap Mikrofiber,Perlengkapan Rumah,375974,15
+PRD4565,Gelas Kaca,Perlengkapan Rumah,158250,100
+PRD4566,Piring,Perlengkapan Rumah,53770,82
+PRD4567,Mangkok,Perlengkapan Rumah,76690,106
+PRD4568,Sendok Set,Perlengkapan Rumah,470194,83
+PRD4569,Garpu,Perlengkapan Rumah,137231,97
+PRD4570,Pisau Dapur,Perlengkapan Rumah,495657,31
+PRD4571,Talenan,Perlengkapan Rumah,29199,52
+PRD4572,Panci,Perlengkapan Rumah,127631,193
+PRD4573,Wajan,Perlengkapan Rumah,315002,151
+PRD4574,Stoples,Perlengkapan Rumah,125989,127
+PRD4575,Rak Piring,Perlengkapan Rumah,268664,193
+PRD4576,Serbet,Perlengkapan Rumah,266462,99
+PRD4577,Sikat Gigi,Perlengkapan Rumah,499736,30
+PRD4578,Pasta Gigi,Perlengkapan Rumah,143184,16
+PRD4579,Sabun Mandi,Perlengkapan Rumah,168899,119
+PRD4580,Shampoo,Perlengkapan Rumah,291994,105
+PRD4581,Masker,Kesehatan,36318,124
+PRD4582,Hand Sanitizer,Kesehatan,17155,105
+PRD4583,Vitamin C,Kesehatan,334158,60
+PRD4584,Minyak Kayu Putih,Kesehatan,481060,5
+PRD4585,Plester,Kesehatan,143117,142
+PRD4586,Perban,Kesehatan,309323,173
+PRD4587,Obat Flu,Kesehatan,55220,64
+PRD4588,Obat Batuk,Kesehatan,402020,143
+PRD4589,Minuman Herbal,Kesehatan,343600,33
+PRD4590,Suplemen,Kesehatan,161704,146
+PRD4591,Multivitamin,Kesehatan,215252,115
+PRD4592,Minyak Ikan,Kesehatan,45992,163
+PRD4593,Salep Luka,Kesehatan,264370,53
+PRD4594,Obat Nyamuk,Kesehatan,412455,37
+PRD4595,Lotion,Kesehatan,197719,139
+PRD4596,Tabir Surya,Kesehatan,90179,63
+PRD4597,Vitamin E,Kesehatan,283823,109
+PRD4598,Probiotik,Kesehatan,479884,143
+PRD4599,Antasida,Kesehatan,238842,11
+PRD4600,Parasetamol,Kesehatan,2524,119
+PRD4601,Bola Basket,Olahraga,436829,159
+PRD4602,Bola Voli,Olahraga,153650,168
+PRD4603,Raket Badminton,Olahraga,89756,1
+PRD4604,Kok Bulu Tangkis,Olahraga,33549,124
+PRD4605,Matras Yoga,Olahraga,145289,154
+PRD4606,Dumbbell,Olahraga,133538,175
+PRD4607,Skipping,Olahraga,201309,90
+PRD4608,Botol Minum,Olahraga,443680,162
+PRD4609,Hand Grip,Olahraga,113544,150
+PRD4610,Resistance Band,Olahraga,442760,131
+PRD4611,Peluit,Olahraga,149488,12
+PRD4612,Stopwatch,Olahraga,86628,190
+PRD4613,Kaos Olahraga,Olahraga,282016,145
+PRD4614,Handuk,Olahraga,38666,77
+PRD4615,Sepatu Lari,Olahraga,49036,102
+PRD4616,Tas Gym,Olahraga,368178,32
+PRD4617,Topi Olahraga,Olahraga,437420,36
+PRD4618,Gelang Keringat,Olahraga,382147,143
+PRD4619,Sarung Tangan,Olahraga,148516,111
+PRD4620,Bola Sepak,Olahraga,112546,157
+PRD4621,Boneka,Mainan,266671,82
+PRD4622,Mobil Mobilan,Mainan,465434,175
+PRD4623,Puzzle,Mainan,497666,88
+PRD4624,LEGO,Mainan,335011,67
+PRD4625,Rubik,Mainan,396628,182
+PRD4626,Yo Yo,Mainan,239354,70
+PRD4627,Lato Lato,Mainan,130937,170
+PRD4628,Ketapel,Mainan,170631,88
+PRD4629,Kapal Kapalan,Mainan,112427,118
+PRD4630,Layang Layang,Mainan,316317,85
+PRD4631,Kelereng,Mainan,10322,178
+PRD4632,Ular Tangga,Mainan,72110,166
+PRD4633,Monopoli,Mainan,485528,1
+PRD4634,Uno Cards,Mainan,321179,122
+PRD4635,Katapel,Mainan,4243,3
+PRD4636,Tamiya,Mainan,354691,45
+PRD4637,Beyblade,Mainan,218616,143
+PRD4638,Slime,Mainan,471378,179
+PRD4639,Playdoh,Mainan,370731,126
+PRD4640,Balon,Mainan,401751,101
+PRD4641,Kabel USB,Elektronik,284135,21
+PRD4642,Charger HP,Elektronik,414774,167
+PRD4643,Power Bank,Elektronik,343451,20
+PRD4644,Mouse Wireless,Elektronik,284407,8
+PRD4645,Keyboard,Elektronik,469964,172
+PRD4646,Headset,Elektronik,235400,173
+PRD4647,Speaker Bluetooth,Elektronik,66705,91
+PRD4648,Kipas Angin Mini,Elektronik,428131,97
+PRD4649,Lampu LED,Elektronik,435830,154
+PRD4650,Adaptor,Elektronik,189677,100
+PRD4651,Kabel HDMI,Elektronik,94896,197
+PRD4652,Card Reader,Elektronik,427653,179
+PRD4653,USB Hub,Elektronik,6420,32
+PRD4654,Mouse Pad,Elektronik,244584,95
+PRD4655,Webcam,Elektronik,492863,50
+PRD4656,Microphone,Elektronik,235086,3
+PRD4657,Remote TV,Elektronik,118140,191
+PRD4658,Baterai AA,Elektronik,12371,195
+PRD4659,Baterai AAA,Elektronik,149395,175
+PRD4660,Charger Mobil,Elektronik,485078,182
+PRD4661,Mie Instan,Makanan,189601,50
+PRD4662,Biskuit,Makanan,49168,158
+PRD4663,Keripik Kentang,Makanan,329804,78
+PRD4664,Cokelat Batang,Makanan,425842,184
+PRD4665,Permen,Makanan,117945,60
+PRD4666,Kacang Goreng,Makanan,260897,93
+PRD4667,Roti Tawar,Makanan,21291,72
+PRD4668,Sereal,Makanan,260388,181
+PRD4669,Abon Sapi,Makanan,372654,156
+PRD4670,Dendeng,Makanan,111621,2
+PRD4671,Kerupuk Udang,Makanan,104805,164
+PRD4672,Kue Kering,Makanan,209663,29
+PRD4673,Selai Kacang,Makanan,458086,72
+PRD4674,Madu,Makanan,300373,129
+PRD4675,Tepung Terigu,Makanan,261004,44
+PRD4676,Gula Pasir,Makanan,291294,50
+PRD4677,Kopi Bubuk,Makanan,347945,190
+PRD4678,Teh Celup,Makanan,298593,173
+PRD4679,Susu Bubuk,Makanan,359765,155
+PRD4680, Agar-agar,Makanan,298296,45
+PRD4681,Air Mineral,Minuman,36267,151
+PRD4682,Jus Jeruk,Minuman,69238,191
+PRD4683,Soft Drink,Minuman,36104,33
+PRD4684,Teh Botol,Minuman,138117,146
+PRD4685,Kopi Instan,Minuman,450517,59
+PRD4686,Susu UHT,Minuman,463899,134
+PRD4687,Yogurt,Minuman,384152,71
+PRD4688,Minuman Isotonik,Minuman,102585,174
+PRD4689,Sirup,Minuman,14120,178
+PRD4690,Soda,Minuman,357328,137
+PRD4691,Jus Mangga,Minuman,324152,65
+PRD4692,Jus Apel,Minuman,358872,144
+PRD4693,Minuman Berenergi,Minuman,464999,117
+PRD4694,Air Kelapa,Minuman,3024,110
+PRD4695,Susu Kedelai,Minuman,338050,173
+PRD4696,Jahe Instan,Minuman,496442,167
+PRD4697,Cincau,Minuman,29191,83
+PRD4698,Es Krim,Minuman,228779,105
+PRD4699,Milkshake,Minuman,145673,32
+PRD4700,Kefir,Minuman,358606,133
+PRD4701,Pensil 2B,Alat Tulis,246625,127
+PRD4702,Bolpoin Hitam,Alat Tulis,191515,133
+PRD4703,Penghapus,Alat Tulis,399945,12
+PRD4704,Penggaris,Alat Tulis,465367,185
+PRD4705,Buku Tulis,Alat Tulis,119727,13
+PRD4706,Spidol,Alat Tulis,147716,108
+PRD4707,Stabilo,Alat Tulis,281136,115
+PRD4708,Lem Kertas,Alat Tulis,167801,2
+PRD4709,Gunting,Alat Tulis,207446,50
+PRD4710,Cutter,Alat Tulis,177482,21
+PRD4711,Amplop,Alat Tulis,463425,147
+PRD4712,Kertas HVS,Alat Tulis,425453,7
+PRD4713,Map Plastik,Alat Tulis,388633,58
+PRD4714,Binder,Alat Tulis,363522,109
+PRD4715,Klip Kertas,Alat Tulis,41028,64
+PRD4716,Isi Staples,Alat Tulis,105220,43
+PRD4717,Tipe-X,Alat Tulis,174608,80
+PRD4718,Pensil Warna,Alat Tulis,34948,161
+PRD4719,Krayon,Alat Tulis,329834,25
+PRD4720,Cat Air,Alat Tulis,16613,123
+PRD4721,Sapu,Perlengkapan Rumah,228465,7
+PRD4722,Pel,Perlengkapan Rumah,312656,161
+PRD4723,Ember,Perlengkapan Rumah,492241,86
+PRD4724,Lap Mikrofiber,Perlengkapan Rumah,442668,65
+PRD4725,Gelas Kaca,Perlengkapan Rumah,131579,28
+PRD4726,Piring,Perlengkapan Rumah,250290,62
+PRD4727,Mangkok,Perlengkapan Rumah,180678,14
+PRD4728,Sendok Set,Perlengkapan Rumah,432772,86
+PRD4729,Garpu,Perlengkapan Rumah,274459,61
+PRD4730,Pisau Dapur,Perlengkapan Rumah,496690,19
+PRD4731,Talenan,Perlengkapan Rumah,408716,154
+PRD4732,Panci,Perlengkapan Rumah,326831,113
+PRD4733,Wajan,Perlengkapan Rumah,402607,25
+PRD4734,Stoples,Perlengkapan Rumah,329862,115
+PRD4735,Rak Piring,Perlengkapan Rumah,305528,32
+PRD4736,Serbet,Perlengkapan Rumah,46844,16
+PRD4737,Sikat Gigi,Perlengkapan Rumah,482622,9
+PRD4738,Pasta Gigi,Perlengkapan Rumah,199863,81
+PRD4739,Sabun Mandi,Perlengkapan Rumah,468660,178
+PRD4740,Shampoo,Perlengkapan Rumah,36093,33
+PRD4741,Masker,Kesehatan,34507,114
+PRD4742,Hand Sanitizer,Kesehatan,30725,78
+PRD4743,Vitamin C,Kesehatan,322202,161
+PRD4744,Minyak Kayu Putih,Kesehatan,228408,17
+PRD4745,Plester,Kesehatan,55386,174
+PRD4746,Perban,Kesehatan,31250,144
+PRD4747,Obat Flu,Kesehatan,29369,76
+PRD4748,Obat Batuk,Kesehatan,447607,98
+PRD4749,Minuman Herbal,Kesehatan,212597,25
+PRD4750,Suplemen,Kesehatan,325644,193
+PRD4751,Multivitamin,Kesehatan,217538,60
+PRD4752,Minyak Ikan,Kesehatan,455290,154
+PRD4753,Salep Luka,Kesehatan,414863,169
+PRD4754,Obat Nyamuk,Kesehatan,329159,3
+PRD4755,Lotion,Kesehatan,239718,99
+PRD4756,Tabir Surya,Kesehatan,245379,110
+PRD4757,Vitamin E,Kesehatan,463341,159
+PRD4758,Probiotik,Kesehatan,326655,26
+PRD4759,Antasida,Kesehatan,180056,167
+PRD4760,Parasetamol,Kesehatan,493564,173
+PRD4761,Bola Basket,Olahraga,412480,7
+PRD4762,Bola Voli,Olahraga,240066,133
+PRD4763,Raket Badminton,Olahraga,174068,151
+PRD4764,Kok Bulu Tangkis,Olahraga,102915,28
+PRD4765,Matras Yoga,Olahraga,55838,4
+PRD4766,Dumbbell,Olahraga,314043,183
+PRD4767,Skipping,Olahraga,37412,152
+PRD4768,Botol Minum,Olahraga,415881,50
+PRD4769,Hand Grip,Olahraga,476150,147
+PRD4770,Resistance Band,Olahraga,68050,164
+PRD4771,Peluit,Olahraga,268809,66
+PRD4772,Stopwatch,Olahraga,188327,108
+PRD4773,Kaos Olahraga,Olahraga,254391,186
+PRD4774,Handuk,Olahraga,327504,114
+PRD4775,Sepatu Lari,Olahraga,99477,63
+PRD4776,Tas Gym,Olahraga,74180,12
+PRD4777,Topi Olahraga,Olahraga,33714,33
+PRD4778,Gelang Keringat,Olahraga,165403,150
+PRD4779,Sarung Tangan,Olahraga,230509,132
+PRD4780,Bola Sepak,Olahraga,343681,194
+PRD4781,Boneka,Mainan,189560,80
+PRD4782,Mobil Mobilan,Mainan,308009,139
+PRD4783,Puzzle,Mainan,408583,38
+PRD4784,LEGO,Mainan,79284,121
+PRD4785,Rubik,Mainan,163834,155
+PRD4786,Yo Yo,Mainan,181778,75
+PRD4787,Lato Lato,Mainan,195373,3
+PRD4788,Ketapel,Mainan,273413,151
+PRD4789,Kapal Kapalan,Mainan,346812,174
+PRD4790,Layang Layang,Mainan,77812,15
+PRD4791,Kelereng,Mainan,126459,130
+PRD4792,Ular Tangga,Mainan,431488,144
+PRD4793,Monopoli,Mainan,452207,14
+PRD4794,Uno Cards,Mainan,223281,89
+PRD4795,Katapel,Mainan,104449,52
+PRD4796,Tamiya,Mainan,337835,52
+PRD4797,Beyblade,Mainan,413704,18
+PRD4798,Slime,Mainan,181071,49
+PRD4799,Playdoh,Mainan,352151,122
+PRD4800,Balon,Mainan,366265,178
+PRD4801,Kabel USB,Elektronik,247053,154
+PRD4802,Charger HP,Elektronik,365024,85
+PRD4803,Power Bank,Elektronik,448697,149
+PRD4804,Mouse Wireless,Elektronik,298797,86
+PRD4805,Keyboard,Elektronik,325015,77
+PRD4806,Headset,Elektronik,221516,85
+PRD4807,Speaker Bluetooth,Elektronik,87081,27
+PRD4808,Kipas Angin Mini,Elektronik,240185,11
+PRD4809,Lampu LED,Elektronik,262010,57
+PRD4810,Adaptor,Elektronik,484320,1
+PRD4811,Kabel HDMI,Elektronik,336897,58
+PRD4812,Card Reader,Elektronik,365447,59
+PRD4813,USB Hub,Elektronik,246599,160
+PRD4814,Mouse Pad,Elektronik,113745,62
+PRD4815,Webcam,Elektronik,254049,189
+PRD4816,Microphone,Elektronik,404835,85
+PRD4817,Remote TV,Elektronik,425242,190
+PRD4818,Baterai AA,Elektronik,199086,53
+PRD4819,Baterai AAA,Elektronik,211879,48
+PRD4820,Charger Mobil,Elektronik,435106,2
+PRD4821,Mie Instan,Makanan,192220,3
+PRD4822,Biskuit,Makanan,40656,92
+PRD4823,Keripik Kentang,Makanan,17737,143
+PRD4824,Cokelat Batang,Makanan,62392,37
+PRD4825,Permen,Makanan,154345,113
+PRD4826,Kacang Goreng,Makanan,103923,162
+PRD4827,Roti Tawar,Makanan,309068,196
+PRD4828,Sereal,Makanan,190696,12
+PRD4829,Abon Sapi,Makanan,17563,51
+PRD4830,Dendeng,Makanan,105717,73
+PRD4831,Kerupuk Udang,Makanan,93302,57
+PRD4832,Kue Kering,Makanan,466195,68
+PRD4833,Selai Kacang,Makanan,378877,45
+PRD4834,Madu,Makanan,180162,142
+PRD4835,Tepung Terigu,Makanan,130956,46
+PRD4836,Gula Pasir,Makanan,104753,6
+PRD4837,Kopi Bubuk,Makanan,94315,68
+PRD4838,Teh Celup,Makanan,479442,26
+PRD4839,Susu Bubuk,Makanan,13006,174
+PRD4840, Agar-agar,Makanan,73955,98
+PRD4841,Air Mineral,Minuman,345340,29
+PRD4842,Jus Jeruk,Minuman,179410,54
+PRD4843,Soft Drink,Minuman,161945,117
+PRD4844,Teh Botol,Minuman,127907,95
+PRD4845,Kopi Instan,Minuman,426404,96
+PRD4846,Susu UHT,Minuman,348506,44
+PRD4847,Yogurt,Minuman,495439,135
+PRD4848,Minuman Isotonik,Minuman,420918,160
+PRD4849,Sirup,Minuman,464245,112
+PRD4850,Soda,Minuman,462528,183
+PRD4851,Jus Mangga,Minuman,36276,31
+PRD4852,Jus Apel,Minuman,77724,34
+PRD4853,Minuman Berenergi,Minuman,418755,49
+PRD4854,Air Kelapa,Minuman,102496,137
+PRD4855,Susu Kedelai,Minuman,200283,178
+PRD4856,Jahe Instan,Minuman,198217,82
+PRD4857,Cincau,Minuman,316336,110
+PRD4858,Es Krim,Minuman,335522,63
+PRD4859,Milkshake,Minuman,484876,12
+PRD4860,Kefir,Minuman,402074,158
+PRD4861,Pensil 2B,Alat Tulis,309927,49
+PRD4862,Bolpoin Hitam,Alat Tulis,449970,138
+PRD4863,Penghapus,Alat Tulis,156236,39
+PRD4864,Penggaris,Alat Tulis,173799,64
+PRD4865,Buku Tulis,Alat Tulis,29923,162
+PRD4866,Spidol,Alat Tulis,419129,72
+PRD4867,Stabilo,Alat Tulis,459625,33
+PRD4868,Lem Kertas,Alat Tulis,448432,131
+PRD4869,Gunting,Alat Tulis,308227,126
+PRD4870,Cutter,Alat Tulis,111700,187
+PRD4871,Amplop,Alat Tulis,44681,121
+PRD4872,Kertas HVS,Alat Tulis,416710,170
+PRD4873,Map Plastik,Alat Tulis,324377,17
+PRD4874,Binder,Alat Tulis,89783,131
+PRD4875,Klip Kertas,Alat Tulis,205484,193
+PRD4876,Isi Staples,Alat Tulis,464643,166
+PRD4877,Tipe-X,Alat Tulis,395811,131
+PRD4878,Pensil Warna,Alat Tulis,198223,128
+PRD4879,Krayon,Alat Tulis,274049,119
+PRD4880,Cat Air,Alat Tulis,95846,83
+PRD4881,Sapu,Perlengkapan Rumah,375548,96
+PRD4882,Pel,Perlengkapan Rumah,277500,178
+PRD4883,Ember,Perlengkapan Rumah,255386,184
+PRD4884,Lap Mikrofiber,Perlengkapan Rumah,261413,122
+PRD4885,Gelas Kaca,Perlengkapan Rumah,142685,149
+PRD4886,Piring,Perlengkapan Rumah,212211,164
+PRD4887,Mangkok,Perlengkapan Rumah,484966,150
+PRD4888,Sendok Set,Perlengkapan Rumah,342649,10
+PRD4889,Garpu,Perlengkapan Rumah,110632,57
+PRD4890,Pisau Dapur,Perlengkapan Rumah,471177,52
+PRD4891,Talenan,Perlengkapan Rumah,239020,61
+PRD4892,Panci,Perlengkapan Rumah,209565,56
+PRD4893,Wajan,Perlengkapan Rumah,162431,109
+PRD4894,Stoples,Perlengkapan Rumah,467939,97
+PRD4895,Rak Piring,Perlengkapan Rumah,301562,41
+PRD4896,Serbet,Perlengkapan Rumah,492470,96
+PRD4897,Sikat Gigi,Perlengkapan Rumah,135446,141
+PRD4898,Pasta Gigi,Perlengkapan Rumah,46438,35
+PRD4899,Sabun Mandi,Perlengkapan Rumah,396066,22
+PRD4900,Shampoo,Perlengkapan Rumah,156690,114
+PRD4901,Masker,Kesehatan,274011,91
+PRD4902,Hand Sanitizer,Kesehatan,122679,150
+PRD4903,Vitamin C,Kesehatan,23570,120
+PRD4904,Minyak Kayu Putih,Kesehatan,270572,160
+PRD4905,Plester,Kesehatan,178356,110
+PRD4906,Perban,Kesehatan,238533,120
+PRD4907,Obat Flu,Kesehatan,228757,105
+PRD4908,Obat Batuk,Kesehatan,194682,128
+PRD4909,Minuman Herbal,Kesehatan,168210,70
+PRD4910,Suplemen,Kesehatan,202472,7
+PRD4911,Multivitamin,Kesehatan,96144,114
+PRD4912,Minyak Ikan,Kesehatan,124573,68
+PRD4913,Salep Luka,Kesehatan,340351,20
+PRD4914,Obat Nyamuk,Kesehatan,190268,22
+PRD4915,Lotion,Kesehatan,156412,129
+PRD4916,Tabir Surya,Kesehatan,270850,140
+PRD4917,Vitamin E,Kesehatan,339460,21
+PRD4918,Probiotik,Kesehatan,414023,71
+PRD4919,Antasida,Kesehatan,487808,59
+PRD4920,Parasetamol,Kesehatan,53594,31
+PRD4921,Bola Basket,Olahraga,39407,93
+PRD4922,Bola Voli,Olahraga,22070,140
+PRD4923,Raket Badminton,Olahraga,107018,86
+PRD4924,Kok Bulu Tangkis,Olahraga,105099,173
+PRD4925,Matras Yoga,Olahraga,174617,65
+PRD4926,Dumbbell,Olahraga,160710,191
+PRD4927,Skipping,Olahraga,429590,197
+PRD4928,Botol Minum,Olahraga,360371,71
+PRD4929,Hand Grip,Olahraga,101951,181
+PRD4930,Resistance Band,Olahraga,318687,36
+PRD4931,Peluit,Olahraga,450265,193
+PRD4932,Stopwatch,Olahraga,377487,190
+PRD4933,Kaos Olahraga,Olahraga,286754,67
+PRD4934,Handuk,Olahraga,6474,198
+PRD4935,Sepatu Lari,Olahraga,159010,73
+PRD4936,Tas Gym,Olahraga,433126,89
+PRD4937,Topi Olahraga,Olahraga,412584,104
+PRD4938,Gelang Keringat,Olahraga,497879,104
+PRD4939,Sarung Tangan,Olahraga,432892,149
+PRD4940,Bola Sepak,Olahraga,399308,168
+PRD4941,Boneka,Mainan,8234,121
+PRD4942,Mobil Mobilan,Mainan,344932,132
+PRD4943,Puzzle,Mainan,401067,39
+PRD4944,LEGO,Mainan,455753,102
+PRD4945,Rubik,Mainan,121316,59
+PRD4946,Yo Yo,Mainan,381236,192
+PRD4947,Lato Lato,Mainan,112034,122
+PRD4948,Ketapel,Mainan,124538,133
+PRD4949,Kapal Kapalan,Mainan,309758,142
+PRD4950,Layang Layang,Mainan,399211,120
+PRD4951,Kelereng,Mainan,380803,119
+PRD4952,Ular Tangga,Mainan,180603,22
+PRD4953,Monopoli,Mainan,166141,49
+PRD4954,Uno Cards,Mainan,226811,198
+PRD4955,Katapel,Mainan,495842,179
+PRD4956,Tamiya,Mainan,220988,54
+PRD4957,Beyblade,Mainan,231995,116
+PRD4958,Slime,Mainan,449188,143
+PRD4959,Playdoh,Mainan,17783,96
+PRD4960,Balon,Mainan,74849,148
+PRD4961,Kabel USB,Elektronik,460096,33
+PRD4962,Charger HP,Elektronik,162207,189
+PRD4963,Power Bank,Elektronik,7075,128
+PRD4964,Mouse Wireless,Elektronik,426883,169
+PRD4965,Keyboard,Elektronik,439412,91
+PRD4966,Headset,Elektronik,180164,58
+PRD4967,Speaker Bluetooth,Elektronik,221753,109
+PRD4968,Kipas Angin Mini,Elektronik,361537,193
+PRD4969,Lampu LED,Elektronik,213481,196
+PRD4970,Adaptor,Elektronik,410233,177
+PRD4971,Kabel HDMI,Elektronik,283859,77
+PRD4972,Card Reader,Elektronik,172959,151
+PRD4973,USB Hub,Elektronik,14184,146
+PRD4974,Mouse Pad,Elektronik,413753,9
+PRD4975,Webcam,Elektronik,485469,36
+PRD4976,Microphone,Elektronik,82578,85
+PRD4977,Remote TV,Elektronik,299895,162
+PRD4978,Baterai AA,Elektronik,420982,155
+PRD4979,Baterai AAA,Elektronik,481069,156
+PRD4980,Charger Mobil,Elektronik,302877,101
+PRD4981,Mie Instan,Makanan,201920,53
+PRD4982,Biskuit,Makanan,499388,101
+PRD4983,Keripik Kentang,Makanan,35401,137
+PRD4984,Cokelat Batang,Makanan,204602,49
+PRD4985,Permen,Makanan,250920,28
+PRD4986,Kacang Goreng,Makanan,174407,146
+PRD4987,Roti Tawar,Makanan,238734,164
+PRD4988,Sereal,Makanan,471103,78
+PRD4989,Abon Sapi,Makanan,50885,44
+PRD4990,Dendeng,Makanan,56690,173
+PRD4991,Kerupuk Udang,Makanan,291882,46
+PRD4992,Kue Kering,Makanan,18808,177
+PRD4993,Selai Kacang,Makanan,318336,126
+PRD4994,Madu,Makanan,16071,48
+PRD4995,Tepung Terigu,Makanan,106332,18
+PRD4996,Gula Pasir,Makanan,479807,99
+PRD4997,Kopi Bubuk,Makanan,150802,53
+PRD4998,Teh Celup,Makanan,124179,75
+PRD4999,Susu Bubuk,Makanan,347804,135
+PRD5000, Agar-agar,Makanan,38689,117
